@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Узаконить реконструкцию дома в Казани — дачная амнистия и ЕГРН | Таткадастр</title>
+    <meta name="description" content="Как узаконить реконструкцию дома в Казани через дачную амнистию или уведомление. Технический план, внесение изменений в ЕГРН. Звоните: +7 937 776 27 11.">
+    <meta name="keywords" content="узаконить реконструкцию дома казань, дачная амнистия реконструкция дома, внести изменения в ЕГРН после реконструкции, технический план после реконструкции казань">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="ООО Таткадастр">
+    <meta name="geo.region" content="RU-TA">
+    <meta name="geo.placename" content="Казань">
+    <link rel="canonical" href="https://project20740686.tilda.ws/article-uzakonit-rekonstrukciyu-doma">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://project20740686.tilda.ws/article-uzakonit-rekonstrukciyu-doma">
+    <meta property="og:title" content="Узаконить реконструкцию дома в Казани — дачная амнистия и ЕГРН">
+    <meta property="og:description" content="Как узаконить реконструкцию дома в Казани через дачную амнистию или уведомление. Технический план, внесение изменений в ЕГРН.">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Таткадастр">
+    <meta name="theme-color" content="#1e3a8a">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='50' y='68' font-size='50' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>ТК</text></svg>">
+
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Article","headline":"Узаконить реконструкцию дома в Казани — дачная амнистия и ЕГРН","description":"Как узаконить реконструкцию дома в Казани через дачную амнистию или уведомление.","datePublished":"2026-06-01","dateModified":"2026-06-01","author":{"@type":"Organization","name":"ООО Таткадастр","url":"https://project20740686.tilda.ws/"},"publisher":{"@type":"Organization","name":"ООО Таткадастр"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://project20740686.tilda.ws/article-uzakonit-rekonstrukciyu-doma"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://project20740686.tilda.ws/"},{"@type":"ListItem","position":2,"name":"Статьи","item":"https://project20740686.tilda.ws/articles"},{"@type":"ListItem","position":3,"name":"Узаконить реконструкцию дома в Казани"}]}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Можно ли оформить реконструкцию дома по дачной амнистии?","acceptedAnswer":{"@type":"Answer","text":"Да, в ряде случаев реконструированный жилой или садовый дом можно оформить по дачной амнистии на основании технического плана и документов на землю."}},{"@type":"Question","name":"Нужно ли подавать уведомление о реконструкции, если дом оформляется по дачной амнистии?","acceptedAnswer":{"@type":"Answer","text":"Если объект подпадает под упрощённый порядок по дачной амнистии, оформление часто возможно без предварительного уведомления о реконструкции."}},{"@type":"Question","name":"Что считается реконструкцией дома?","acceptedAnswer":{"@type":"Answer","text":"Реконструкция — это изменение параметров объекта: площади, этажности, объёма, высоты, контура здания, а также пристройки, надстройки и иные изменения основных характеристик дома."}},{"@type":"Question","name":"Как внести изменения в ЕГРН после реконструкции дома?","acceptedAnswer":{"@type":"Answer","text":"Необходимо подготовить технический план у кадастрового инженера и подать документы в Росреестр через МФЦ либо в ином установленном порядке."}}]}
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <style>
+        :root{--primary:#1e3a8a;--primary-light:#3b82f6;--accent:#f59e0b;--accent-light:#fbbf24;--dark:#111827;--gray:#f9fafb;--white:#fff;--text-primary:#111827;--text-secondary:#6b7280;--shadow:0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -1px rgba(0,0,0,.06);--shadow-lg:0 20px 25px -5px rgba(0,0,0,.1),0 10px 10px -5px rgba(0,0,0,.04);--gradient-primary:linear-gradient(135deg,var(--primary),var(--primary-light));--gradient-accent:linear-gradient(135deg,var(--accent),var(--accent-light));--gradient-dark:linear-gradient(135deg,var(--dark),var(--primary))}
+        *{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.6;color:var(--text-primary);overflow-x:hidden;-webkit-font-smoothing:antialiased}
+        header{position:fixed;top:0;width:100%;background:rgba(255,255,255,.95);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);z-index:1000;box-shadow:var(--shadow)}
+        nav{max-width:1200px;margin:0 auto;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center}
+        .logo{font-family:'Montserrat',sans-serif;font-size:1.8rem;font-weight:800;color:var(--primary);text-decoration:none}
+        .nav-links{display:flex;list-style:none;gap:2rem}.nav-links a{color:var(--text-secondary);text-decoration:none;font-weight:500;font-size:.95rem;transition:color .3s}.nav-links a:hover,.nav-links a.active{color:var(--primary)}
+        .cta-button{background:var(--gradient-primary);color:var(--white)!important;padding:.8rem 1.8rem;border-radius:50px;text-decoration:none;font-weight:600;font-size:.9rem;box-shadow:var(--shadow);transition:all .3s;display:flex;align-items:center;gap:.5rem;white-space:nowrap}.cta-button:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+        .menu-toggle{display:none;flex-direction:column;cursor:pointer;gap:5px;padding:5px;z-index:1001;background:none;border:none}.menu-toggle span{width:25px;height:3px;background:var(--primary);transition:all .3s;display:block}.menu-toggle.active span:nth-child(1){transform:rotate(45deg) translate(5px,6px)}.menu-toggle.active span:nth-child(2){opacity:0}.menu-toggle.active span:nth-child(3){transform:rotate(-45deg) translate(5px,-6px)}.nav-links.mobile{display:none}
+        .article-hero{padding:8rem 2rem 3rem;background:var(--gradient-dark);color:#fff;text-align:center;position:relative}.article-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 30% 70%,rgba(255,255,255,.1) 0%,transparent 50%);pointer-events:none}.article-hero-content{position:relative;z-index:2;max-width:900px;margin:0 auto}
+        .article-hero-badge{display:inline-block;background:var(--gradient-accent);color:#fff;padding:.4rem 1.2rem;border-radius:50px;font-size:.85rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:1.5rem}
+        .article-hero h1{font-family:'Montserrat',sans-serif;font-size:clamp(1.8rem,4.5vw,2.8rem);font-weight:800;margin-bottom:1rem;line-height:1.3}
+        .article-hero-meta{display:flex;justify-content:center;gap:2rem;font-size:1rem;opacity:.85;flex-wrap:wrap}.article-hero-meta i{margin-right:.4rem}
+        .breadcrumbs{max-width:900px;margin:0 auto;padding:1.5rem 2rem 0;font-size:.95rem}.breadcrumbs a{color:var(--primary);text-decoration:none}.breadcrumbs a:hover{color:var(--primary-light)}.breadcrumbs span{color:var(--text-secondary);margin:0 .5rem}
+        .article-content{max-width:900px;margin:0 auto;padding:2rem 2rem 4rem}
+        .article-content h2{font-family:'Montserrat',sans-serif;font-size:clamp(1.4rem,3.5vw,1.9rem);color:var(--primary);margin:2.5rem 0 1rem;padding-bottom:.5rem;border-bottom:3px solid var(--accent);font-weight:700;line-height:1.3}
+        .article-content h3{font-family:'Montserrat',sans-serif;font-size:clamp(1.15rem,3vw,1.4rem);color:var(--dark);margin:2rem 0 .75rem;font-weight:700;line-height:1.4}
+        .article-content p{margin-bottom:1.2rem;line-height:1.9;color:var(--text-primary);font-size:1.05rem}
+        .article-content ul,.article-content ol{margin:1rem 0 1.5rem 1.5rem;line-height:1.9;font-size:1.05rem}.article-content li{margin-bottom:.6rem}.article-content li::marker{color:var(--primary)}.article-content strong{color:var(--dark)}
+        .article-content a.internal-link{color:var(--primary);font-weight:500;text-decoration:none;border-bottom:1px solid var(--primary-light);transition:all .3s}.article-content a.internal-link:hover{color:var(--primary-light);border-bottom-color:var(--accent)}
+        .info-box{background:linear-gradient(135deg,#eff6ff,#dbeafe);border-left:5px solid var(--primary-light);padding:1.5rem 2rem;border-radius:0 16px 16px 0;margin:2rem 0;font-size:1.02rem;line-height:1.8}.info-box.warning{background:linear-gradient(135deg,#fef3c7,#fde68a);border-left-color:var(--accent)}.info-box.success{background:linear-gradient(135deg,#d1fae5,#a7f3d0);border-left-color:#10b981}.info-box.danger{background:linear-gradient(135deg,#fee2e2,#fecaca);border-left-color:#ef4444}.info-box-title{font-weight:700;margin-bottom:.5rem;display:flex;align-items:center;gap:.5rem;font-size:1.1rem}
+        .steps-list{counter-reset:step;list-style:none;padding-left:0;margin:1.5rem 0}.steps-list li{counter-increment:step;position:relative;padding:1.5rem 1.5rem 1.5rem 5rem;margin-bottom:1rem;background:var(--gray);border-radius:16px;border:1px solid #e5e7eb;font-size:1.02rem;line-height:1.8}.steps-list li::before{content:counter(step);position:absolute;left:1.5rem;top:1.4rem;width:2.5rem;height:2.5rem;border-radius:50%;background:var(--gradient-primary);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.1rem}.steps-list li strong{display:block;margin-bottom:.3rem;color:var(--primary);font-size:1.08rem}
+        .article-table-wrapper{overflow-x:auto;margin:1.5rem 0 2rem;border-radius:16px;box-shadow:var(--shadow)}.article-table{width:100%;border-collapse:collapse;font-size:1rem;min-width:540px}.article-table thead{background:var(--gradient-primary)}.article-table th{color:#fff;padding:1rem 1.2rem;text-align:left;font-weight:600;font-size:.95rem}.article-table td{padding:1rem 1.2rem;border-bottom:1px solid #e5e7eb;vertical-align:top;line-height:1.7}.article-table tbody tr:nth-child(even){background:#f9fafb}.article-table tbody tr:hover{background:#eff6ff}
+        .faq-item{background:#fff;border:1px solid #e5e7eb;border-radius:16px;margin-bottom:1rem;overflow:hidden;box-shadow:var(--shadow)}.faq-question{width:100%;padding:1.3rem 1.5rem;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:1.05rem;font-weight:600;color:var(--primary);text-align:left;gap:1rem;font-family:'Inter',sans-serif;transition:background .3s}.faq-question:hover{background:#f9fafb}.faq-question i{transition:transform .3s;flex-shrink:0;font-size:.9rem}.faq-question.active i{transform:rotate(180deg)}.faq-answer{max-height:0;overflow:hidden;transition:max-height .4s ease,padding .4s ease;padding:0 1.5rem;line-height:1.8;color:var(--text-secondary);font-size:1rem}.faq-answer.active{max-height:800px;padding:0 1.5rem 1.5rem}.faq-answer p{margin-bottom:.8rem;color:var(--text-secondary);font-size:1rem}.faq-answer ul{margin:.5rem 0 1rem 1.5rem}.faq-answer li{margin-bottom:.4rem;color:var(--text-secondary)}
+        .cta-block{background:var(--gradient-dark);padding:3rem;border-radius:24px;text-align:center;margin:3rem 0;position:relative;overflow:hidden}
+        .cta-block::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 80% 20%,rgba(245,158,11,.2) 0%,transparent 50%);pointer-events:none}
+        .article-content .cta-block h3{color:#ffffff;font-family:'Montserrat',sans-serif;font-size:1.9rem;font-weight:800;margin:0 0 1rem;padding-bottom:0;border-bottom:none;position:relative;z-index:2;line-height:1.3}
+        .article-content .cta-block p{color:rgba(255,255,255,.93);font-size:1.1rem;margin-bottom:2rem;max-width:680px;margin-left:auto;margin-right:auto;position:relative;z-index:2;line-height:1.7}
+        .cta-block-buttons{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;position:relative;z-index:2}
+        .cta-block-btn{display:inline-flex;align-items:center;gap:.5rem;padding:1rem 2rem;border-radius:50px;text-decoration:none;font-weight:700;font-size:1.05rem;transition:all .3s;box-shadow:var(--shadow)}
+        .cta-block-btn:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg)}
+        .article-content .cta-block .cta-block-btn.primary,.article-content .cta-block .cta-block-btn.primary:visited,.article-content .cta-block .cta-block-btn.primary:hover{background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.4);color:#ffffff}
+        .article-content .cta-block .cta-block-btn.primary:hover{background:rgba(255,255,255,.22)}
+        .article-content .cta-block .cta-block-btn.secondary,.article-content .cta-block .cta-block-btn.secondary:visited,.article-content .cta-block .cta-block-btn.secondary:hover{background:var(--gradient-accent);color:#ffffff;border:none}
+        .article-nav{display:flex;justify-content:space-between;gap:1.5rem;margin:3rem 0 0;flex-wrap:wrap}.article-nav a{flex:1;min-width:250px;padding:1.5rem;background:var(--gray);border-radius:16px;text-decoration:none;border:1px solid #e5e7eb;transition:all .3s}.article-nav a:hover{border-color:var(--primary-light);box-shadow:var(--shadow);transform:translateY(-3px)}.article-nav a .label{font-size:.85rem;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.05em;font-weight:600;margin-bottom:.5rem;display:block}.article-nav a .title{font-weight:700;color:var(--primary);font-size:1.05rem;line-height:1.4}
+        .back-to-top{position:fixed;bottom:30px;right:30px;background:var(--gradient-primary);color:#fff;border:none;border-radius:50%;width:60px;height:60px;font-size:1.5rem;cursor:pointer;box-shadow:var(--shadow-lg);opacity:0;visibility:hidden;transform:translateY(20px);transition:all .3s;z-index:999}.back-to-top.show{opacity:1;visibility:visible;transform:translateY(0)}.back-to-top:hover{transform:translateY(-5px) scale(1.05)}
+        .chat-widget{position:fixed;bottom:100px;right:30px;z-index:997;display:flex;flex-direction:column;align-items:flex-end;gap:12px}.chat-options{display:flex;flex-direction:column;gap:10px;align-items:flex-end;opacity:0;visibility:hidden;transform:translateY(20px) scale(.8);transition:all .3s cubic-bezier(.68,-.55,.265,1.55);pointer-events:none}.chat-widget.open .chat-options{opacity:1;visibility:visible;transform:translateY(0) scale(1);pointer-events:auto}
+        .chat-option{display:flex;align-items:center;gap:10px;text-decoration:none;padding:10px 16px;border-radius:50px;color:#fff;font-weight:600;font-size:.9rem;box-shadow:var(--shadow);transition:all .3s;white-space:nowrap}.chat-option:hover{transform:translateX(-5px) scale(1.05)}.chat-option.max{background:#7c3aed}.chat-option.phone{background:#10b981}
+        .chat-toggle{width:60px;height:60px;border-radius:50%;border:none;background:var(--gradient-primary);color:#fff;font-size:1.5rem;cursor:pointer;box-shadow:var(--shadow-lg);transition:all .4s;display:flex;align-items:center;justify-content:center;position:relative}.chat-toggle:hover{transform:scale(1.1)}.chat-widget.open .chat-toggle{background:#ef4444;transform:rotate(45deg)}.chat-badge{position:absolute;top:-2px;right:-2px;width:16px;height:16px;background:#ef4444;border-radius:50%;border:2px solid #fff;animation:pulse 2s infinite}.chat-widget.open .chat-badge{display:none}@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+        footer{background:var(--dark);color:#9ca3af;text-align:center;padding:3rem 2rem;font-size:.95rem}.footer-links{margin-bottom:1.5rem;display:flex;justify-content:center;flex-wrap:wrap;gap:1rem}.footer-links a{color:#9ca3af;text-decoration:none;transition:color .3s}.footer-links a:hover{color:var(--accent-light)}footer p{line-height:1.7}
+        @media(max-width:768px){.nav-links:not(.mobile){display:none}.nav-links.mobile{display:none;position:fixed;top:80px;left:0;width:100%;background:rgba(255,255,255,.98);flex-direction:column;padding:2rem;box-shadow:var(--shadow);list-style:none;gap:1rem}.nav-links.mobile.active{display:flex}.menu-toggle{display:flex}nav{padding:1rem}.cta-button span{display:none}.cta-button{padding:.7rem 1rem}.article-hero{padding:7rem 1rem 2.5rem}.article-hero-meta{gap:1rem;font-size:.9rem}.article-content{padding:1.5rem 1rem 3rem}.article-content h2{font-size:1.3rem}.steps-list li{padding-left:4.5rem}.cta-block{padding:2rem 1.5rem}.article-content .cta-block h3{font-size:1.4rem}.article-nav{flex-direction:column}.back-to-top{bottom:20px;right:20px;width:50px;height:50px;font-size:1.2rem}.chat-widget{bottom:80px;right:20px}.chat-toggle{width:50px;height:50px;font-size:1.2rem}.footer-links{flex-direction:column;gap:.75rem}.info-box{padding:1.2rem 1.5rem}}
+        @media(max-width:480px){.article-content p,.article-content li{font-size:.98rem}.steps-list li{padding:1.2rem 1.2rem 1.2rem 4rem}.steps-list li::before{left:1rem;width:2.2rem;height:2.2rem;font-size:1rem}}
+        @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}html{scroll-behavior:auto}}
+        @media print{header,.back-to-top,.chat-widget,footer,.cta-block{display:none!important}.article-hero{background:#fff!important;color:#000!important;padding-top:2rem}.article-content{max-width:100%}}
+    </style>
+</head>
+<body>
+
+<header>
+    <nav>
+        <a href="https://project20740686.tilda.ws/" class="logo">Таткадастр</a>
+        <ul class="nav-links">
+            <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+            <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+            <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+            <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+            <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+        </ul>
+        <ul class="nav-links mobile" id="mobileNav">
+            <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+            <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+            <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+            <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+            <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+        </ul>
+        <button class="menu-toggle" id="menuToggle" aria-label="Открыть меню" aria-expanded="false"><span></span><span></span><span></span></button>
+        <a href="tel:+79377762711" class="cta-button" aria-label="Позвонить"><i class="fas fa-phone" aria-hidden="true"></i><span>+7 937 776 27 11</span></a>
+    </nav>
+</header>
+
+<button class="back-to-top" id="backToTop" aria-label="Наверх"><i class="fas fa-arrow-up" aria-hidden="true"></i></button>
+
+<div class="chat-widget" id="chatWidget">
+    <div class="chat-options">
+        <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="chat-option max" target="_blank" rel="noopener noreferrer"><i class="fas fa-comment-dots" aria-hidden="true"></i> Написать в Max</a>
+        <a href="tel:+79377762711" class="chat-option phone"><i class="fas fa-phone" aria-hidden="true"></i> Позвонить</a>
+    </div>
+    <button class="chat-toggle" id="chatToggle" aria-label="Открыть чат" aria-expanded="false"><i class="fas fa-comments" aria-hidden="true"></i><span class="chat-badge" aria-hidden="true"></span></button>
+</div>
+
+<main id="main-content">
+    <div class="article-hero">
+        <div class="article-hero-content">
+            <span class="article-hero-badge"><i class="fas fa-hammer" aria-hidden="true"></i> Полезное</span>
+            <h1>Как узаконить реконструкцию дома в Казани и внести изменения в ЕГРН</h1>
+            <div class="article-hero-meta">
+                <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 1 июня 2026</span>
+                <span><i class="fas fa-clock" aria-hidden="true"></i> 18 мин чтения</span>
+                <span><i class="fas fa-user" aria-hidden="true"></i> Таткадастр</span>
+            </div>
+        </div>
+    </div>
+
+    <nav class="breadcrumbs" aria-label="Навигационная цепочка">
+        <a href="https://project20740686.tilda.ws/">Главная</a><span>›</span>
+        <a href="https://project20740686.tilda.ws/articles">Статьи</a><span>›</span>
+        <strong>Узаконить реконструкцию дома в Казани</strong>
+    </nav>
+
+    <article class="article-content">
+
+        <p>Узаконить реконструкцию дома в Казани и Татарстане можно через <strong>дачную амнистию</strong> или <strong>уведомительный порядок</strong>. Если вы увеличили площадь дома, сделали пристройку, надстроили мансарду или возвели второй этаж — всё это реконструкция, и по закону её нужно оформить. Без узаконивания дом фактически существует в одном виде, а в документах ЕГРН — в другом. Это создаёт проблемы при продаже, дарении, наследовании и ипотеке.</p>
+
+        <div class="info-box success">
+            <div class="info-box-title"><i class="fas fa-check-circle" aria-hidden="true"></i> Главное коротко</div>
+            <p style="margin-bottom:0">Оформить реконструкцию дома можно <strong>двумя основными способами</strong>: через <strong>дачную амнистию</strong> или через <strong>уведомительный порядок</strong>. Во многих случаях именно дачная амнистия позволяет зарегистрировать реконструированный дом проще — на основании <a href="https://project20740686.tilda.ws/article-techpassport-vs-techplan" class="internal-link">технического плана</a> и документов на землю.</p>
+        </div>
+
+        <h2>Содержание статьи</h2>
+        <ol>
+            <li><a href="#what" style="color:var(--primary);text-decoration:none;font-weight:500">Что считается реконструкцией дома</a></li>
+            <li><a href="#difference" style="color:var(--primary);text-decoration:none;font-weight:500">Чем реконструкция отличается от перепланировки и ремонта</a></li>
+            <li><a href="#amnesty" style="color:var(--primary);text-decoration:none;font-weight:500">Можно ли оформить реконструкцию по дачной амнистии</a></li>
+            <li><a href="#conditions" style="color:var(--primary);text-decoration:none;font-weight:500">Когда подходит дачная амнистия</a></li>
+            <li><a href="#notify" style="color:var(--primary);text-decoration:none;font-weight:500">Когда применяется уведомительный порядок</a></li>
+            <li><a href="#steps-amnesty" style="color:var(--primary);text-decoration:none;font-weight:500">Пошаговое оформление по дачной амнистии</a></li>
+            <li><a href="#steps-notify" style="color:var(--primary);text-decoration:none;font-weight:500">Пошаговое оформление через уведомление</a></li>
+            <li><a href="#techplan" style="color:var(--primary);text-decoration:none;font-weight:500">Технический план после реконструкции</a></li>
+            <li><a href="#egrn" style="color:var(--primary);text-decoration:none;font-weight:500">Как внести изменения в ЕГРН</a></li>
+            <li><a href="#price" style="color:var(--primary);text-decoration:none;font-weight:500">Сроки и стоимость</a></li>
+            <li><a href="#faq" style="color:var(--primary);text-decoration:none;font-weight:500">Часто задаваемые вопросы</a></li>
+        </ol>
+
+        <h2 id="what">1. Что считается реконструкцией дома</h2>
+        <p>Согласно Градостроительному кодексу РФ, реконструкция — это изменение основных параметров объекта капитального строительства:</p>
+        <ul>
+            <li><strong>увеличение площади</strong> дома;</li>
+            <li><strong>пристройка</strong> комнаты, кухни, веранды, тамбура;</li>
+            <li><strong>надстройка</strong> второго этажа или мансарды;</li>
+            <li><strong>изменение высоты или объёма</strong> здания;</li>
+            <li><strong>изменение контура</strong> дома на земельном участке;</li>
+            <li><strong>изменение несущих конструкций</strong>.</li>
+        </ul>
+
+        <div class="info-box warning">
+            <div class="info-box-title"><i class="fas fa-exclamation-triangle" aria-hidden="true"></i> Важный ориентир</div>
+            <p style="margin-bottom:0">Если после выполненных работ должна измениться площадь, этажность, контур или иные основные характеристики дома — это, как правило, реконструкция.</p>
+        </div>
+
+        <h2 id="difference">2. Чем реконструкция отличается от перепланировки и ремонта</h2>
+        <div class="article-table-wrapper">
+            <table class="article-table">
+                <thead><tr><th style="width:28%">Вид работ</th><th style="width:42%">Что меняется</th><th style="width:30%">Как оформляется</th></tr></thead>
+                <tbody>
+                    <tr><td><strong>Реконструкция</strong></td><td>Площадь, этажность, контур, объём, основные параметры</td><td>Дачная амнистия или уведомительный порядок + техплан + ЕГРН</td></tr>
+                    <tr><td><strong>Перепланировка</strong></td><td>Внутреннее расположение помещений</td><td>В зависимости от объекта и ситуации</td></tr>
+                    <tr><td><strong>Капремонт</strong></td><td>Замена элементов без изменения параметров</td><td>Обычно без внесения изменений в ЕГРН</td></tr>
+                    <tr><td><strong>Текущий ремонт</strong></td><td>Отделка, окна, двери без изменения параметров</td><td>Не требует оформления</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <p>Если вам нужно узаконить именно внутреннюю перепланировку квартиры, прочитайте нашу <a href="https://project20740686.tilda.ws/article-uzakonit-pereplanirovku" class="internal-link">инструкцию по узакониванию перепланировки квартиры в Казани</a>.</p>
+
+        <h2 id="amnesty">3. Можно ли оформить реконструкцию по дачной амнистии</h2>
+        <p><strong>Да, можно.</strong> В рамках действующей дачной амнистии до 1 марта 2031 года возможно в упрощённом порядке поставить на кадастровый учёт и зарегистрировать права на <strong>созданный или реконструированный</strong> жилой или садовый дом.</p>
+        <p>Если после реконструкции у вас фактически появился дом с новыми характеристиками, во многих случаях вы можете оформить эти изменения <strong>без прохождения полного уведомительного пути</strong> — на основании технического плана и документов на земельный участок.</p>
+
+        <div class="info-box success">
+            <div class="info-box-title"><i class="fas fa-star" aria-hidden="true"></i> Почему это важно</div>
+            <p style="margin-bottom:0">Для многих собственников это самый удобный способ: не нужно идти длинной дорогой через предварительные уведомления, если конкретный объект подпадает под упрощённый порядок.</p>
+        </div>
+
+        <h2 id="conditions">4. Когда подходит дачная амнистия</h2>
+        <p>Упрощённый порядок обычно применяется для <strong>жилого или садового дома</strong> на земельном участке:</p>
+        <ul>
+            <li><strong>для ИЖС</strong>;</li>
+            <li><strong>для ЛПХ</strong> в границах населённого пункта;</li>
+            <li><strong>на садовом участке</strong>.</li>
+        </ul>
+        <p>Для оформления по дачной амнистии нужны:</p>
+        <ul>
+            <li>право на земельный участок;</li>
+            <li>фактически существующий дом после реконструкции;</li>
+            <li><strong>технический план</strong>, подготовленный <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhenerhtml" class="internal-link">кадастровым инженером</a>;</li>
+            <li>соответствие объекта признакам жилого или садового дома.</li>
+        </ul>
+
+        <h2 id="notify">5. Когда применяется уведомительный порядок</h2>
+        <p>Уведомительный порядок актуален, если:</p>
+        <ul>
+            <li>реконструкция ещё <strong>только планируется</strong>;</li>
+            <li>вы хотите заранее получить позицию администрации по параметрам будущего дома;</li>
+            <li>по объекту удобнее идти стандартным градостроительным путём;</li>
+            <li>специалист рекомендует не упрощённый, а обычный порядок оформления.</li>
+        </ul>
+        <p>То есть <strong>реконструкцию дома можно оформить либо по дачной амнистии, либо через уведомительный порядок</strong> — в зависимости от характеристик объекта и вашей ситуации.</p>
+
+        <h2 id="steps-amnesty">6. Пошаговое оформление по дачной амнистии</h2>
+        <ol class="steps-list">
+            <li><strong>Проверьте, подходит ли ваш дом под дачную амнистию</strong>Определите вид участка, статус дома и возможность применения упрощённого порядка.</li>
+            <li><strong>Закажите обмеры и технический план</strong>Кадастровый инженер проводит обследование дома после реконструкции и готовит технический план.</li>
+            <li><strong>Подготовьте документы на земельный участок</strong>Если право зарегистрировано в ЕГРН, часть сведений Росреестр увидит самостоятельно.</li>
+            <li><strong>Подайте документы в Росреестр через МФЦ</strong>Заявление подаётся на кадастровый учёт изменений и регистрацию актуальных характеристик дома.</li>
+            <li><strong>Получите выписку из ЕГРН с новыми характеристиками</strong>После регистрации в ЕГРН будут отражены обновлённые сведения.</li>
+        </ol>
+
+        <h2 id="steps-notify">7. Пошаговое оформление через уведомление</h2>
+        <ol class="steps-list">
+            <li><strong>Подайте уведомление о планируемой реконструкции</strong>Подаётся в администрацию через МФЦ, Госуслуги или напрямую.</li>
+            <li><strong>Получите уведомление о соответствии</strong>Администрация проверяет параметры на соответствие градостроительным требованиям.</li>
+            <li><strong>Выполните реконструкцию</strong>Проводятся строительные работы в соответствии с заявленными параметрами.</li>
+            <li><strong>Закажите технический план</strong>Кадастровый инженер подготавливает техплан на дом в его новом виде.</li>
+            <li><strong>Подайте уведомление об окончании реконструкции</strong>Прикладывается технический план.</li>
+            <li><strong>Получите внесение изменений в ЕГРН</strong>Сведения о доме обновляются в государственном реестре.</li>
+        </ol>
+
+        <h2 id="techplan">8. Технический план после реконструкции</h2>
+        <p><strong>Технический план</strong> — основной документ, без которого внести изменения в ЕГРН невозможно ни по дачной амнистии, ни через уведомительный порядок. Подробнее о том, <a href="https://project20740686.tilda.ws/article-techpassport-vs-techplan" class="internal-link">чем технический план отличается от техпаспорта БТИ</a>, читайте в отдельной статье.</p>
+        <p>После реконструкции кадастровый инженер:</p>
+        <ul>
+            <li>выезжает на объект;</li>
+            <li>проводит обмеры дома;</li>
+            <li>определяет фактические характеристики;</li>
+            <li>фиксирует новый контур здания;</li>
+            <li>подготавливает технический план в электронном формате.</li>
+        </ul>
+
+        <h2 id="egrn">9. Как внести изменения в ЕГРН</h2>
+        <p>После подготовки технического плана изменения вносятся в ЕГРН:</p>
+        <ul>
+            <li><strong>через МФЦ / Росреестр</strong> — если оформление идёт по дачной амнистии;</li>
+            <li><strong>через администрацию и далее в Росреестр</strong> — если через уведомительный порядок.</li>
+        </ul>
+        <p>После завершения регистрации вы получаете <strong>актуальную выписку из ЕГРН</strong> с новыми параметрами дома.</p>
+
+        <h2 id="price">10. Сроки и стоимость</h2>
+        <div class="article-table-wrapper">
+            <table class="article-table">
+                <thead><tr><th>Этап</th><th>Срок / стоимость</th></tr></thead>
+                <tbody>
+                    <tr><td><strong>Технический план после реконструкции</strong></td><td>от 12 000 ₽, обычно 5–10 рабочих дней</td></tr>
+                    <tr><td><strong>Подача через МФЦ / Росреестр</strong></td><td>по стандартным срокам кадастрового учёта</td></tr>
+                    <tr><td><strong>Уведомление администрации</strong></td><td>обычно 7 рабочих дней</td></tr>
+                    <tr><td><strong>Общий срок оформления</strong></td><td>от 2 до 6 недель</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2 id="faq">11. Часто задаваемые вопросы</h2>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Можно ли оформить реконструкцию дома по дачной амнистии?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p><strong>Да.</strong> В ряде случаев реконструированный жилой или садовый дом можно оформить по дачной амнистии на основании технического плана и документов на землю.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Нужно ли подавать уведомление, если можно оформить по дачной амнистии?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p>Если объект подпадает под упрощённый порядок, оформление часто возможно без предварительного уведомления. Перед подачей документов желательно проверить применимость упрощённого порядка.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Что считается реконструкцией дома?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p>Изменение площади, этажности, высоты, объёма или контура дома. Например: пристройка, надстройка, увеличение площади, устройство мансарды.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Можно ли оформить уже выполненную реконструкцию?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p><strong>Да, во многих случаях можно.</strong> Именно дачная амнистия часто становится удобным способом оформления уже существующего реконструированного дома.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Пристройка веранды — это реконструкция?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p>Если веранда <strong>увеличивает площадь</strong> дома и является капитальной конструкцией — да, это реконструкция. Если это лёгкий навес без фундамента — как правило, нет.</p></div>
+        </div>
+
+        <div class="cta-block">
+            <h3>Нужно узаконить реконструкцию дома в Казани?</h3>
+            <p>Специалисты ООО «Таткадастр» помогут определить подходящий порядок оформления — через дачную амнистию или уведомительный порядок, подготовят технический план и сопроводят внесение изменений в ЕГРН.</p>
+            <div class="cta-block-buttons">
+                <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="cta-block-btn primary" target="_blank" rel="noopener noreferrer"><i class="fas fa-comment-dots" aria-hidden="true"></i> Написать в Max</a>
+                <a href="tel:+79377762711" class="cta-block-btn secondary"><i class="fas fa-phone" aria-hidden="true"></i> +7 937 776 27 11</a>
+            </div>
+        </div>
+
+        <h2>Подведём итоги</h2>
+        <ul>
+            <li>реконструкцию дома можно оформить по <strong>дачной амнистии</strong> или через <strong>уведомительный порядок</strong>;</li>
+            <li>ключевой документ — <strong>технический план</strong> от <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhenerhtml" class="internal-link">кадастрового инженера</a>;</li>
+            <li>стоимость техплана — <strong>от 12 000 ₽</strong>, сроки оформления — <strong>от 2 до 6 недель</strong>;</li>
+            <li>уже выполненную реконструкцию в большинстве случаев можно узаконить;</li>
+            <li>финальный результат — <strong>актуальные сведения в ЕГРН</strong>.</li>
+        </ul>
+
+        <div class="article-nav">
+            <a href="https://project20740686.tilda.ws/article-podbor-doma-kazan">
+                <span class="label">← Предыдущая статья</span>
+                <span class="title">Подбор жилого дома для покупки в Казани и пригороде</span>
+            </a>
+            <a href="https://project20740686.tilda.ws/articles" style="text-align:right">
+                <span class="label">Все статьи →</span>
+                <span class="title">Вернуться к списку публикаций</span>
+            </a>
+        </div>
+    </article>
+</main>
+
+<footer>
+    <div class="footer-links">
+        <a href="https://project20740686.tilda.ws/#services">Услуги</a>
+        <a href="https://project20740686.tilda.ws/#contacts">Контакты</a>
+        <a href="https://project20740686.tilda.ws/articles">Статьи</a>
+    </div>
+    <p>© 2026 ООО «Таткадастр». ИНН 1624445860. Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде с 2013 года.</p>
+</footer>
+
+<script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+ym(106426795,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/106426795" style="position:absolute;left:-9999px" alt=""></div></noscript>
+
+<script>
+(function(){
+    'use strict';
+    var mt=document.getElementById('menuToggle'),mn=document.getElementById('mobileNav'),bt=document.getElementById('backToTop'),cw=document.getElementById('chatWidget'),ct=document.getElementById('chatToggle'),mo=false,co=false;
+    if(mt)mt.addEventListener('click',function(){mo=!mo;mn.classList.toggle('active');mt.classList.toggle('active');mt.setAttribute('aria-expanded',mo)});
+    if(ct)ct.addEventListener('click',function(e){e.stopPropagation();co=!co;cw.classList.toggle('open');ct.setAttribute('aria-expanded',co)});
+    document.addEventListener('click',function(e){if(co&&cw&&!cw.contains(e.target)){co=false;cw.classList.remove('open');ct.setAttribute('aria-expanded','false')}if(mo&&mn&&mt&&!mn.contains(e.target)&&!mt.contains(e.target)){mo=false;mn.classList.remove('active');mt.classList.remove('active');mt.setAttribute('aria-expanded','false')}});
+    window.addEventListener('scroll',function(){if(bt){if(window.scrollY>300)bt.classList.add('show');else bt.classList.remove('show')}},{passive:true});
+    if(bt)bt.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'})});
+    document.querySelectorAll('.faq-question').forEach(function(b){b.addEventListener('click',function(){var a=this.nextElementSibling,s=this.classList.contains('active');document.querySelectorAll('.faq-question').forEach(function(q){q.classList.remove('active');q.setAttribute('aria-expanded','false');q.nextElementSibling.classList.remove('active')});if(!s){this.classList.add('active');this.setAttribute('aria-expanded','true');a.classList.add('active')}})});
+})();
+</script>
+</body>
+</html>

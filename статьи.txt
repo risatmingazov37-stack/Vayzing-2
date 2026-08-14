@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Статьи о кадастре и БТИ в Казани — Таткадастр</title>
+    <meta name="description" content="Полезные статьи о кадастровых работах, технических планах, техпаспортах БТИ, домах и земельных участках в Казани. Экспертные материалы от ООО «Таткадастр».">
+    <meta name="keywords" content="статьи кадастр, кадастровый инженер казань, технический план статья, техпаспорт бти статья, оформление недвижимости казань, межевание участок казань">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="ООО Таткадастр">
+    <meta name="geo.region" content="RU-TA">
+    <meta name="geo.placename" content="Казань">
+    <link rel="canonical" href="https://project20740686.tilda.ws/articles">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://project20740686.tilda.ws/articles">
+    <meta property="og:title" content="Статьи о кадастре и БТИ — Таткадастр">
+    <meta property="og:description" content="Полезные статьи о кадастровых работах, техпланах, БТИ и оформлении недвижимости в Казани.">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Таткадастр">
+    <meta name="theme-color" content="#1e3a8a">
+
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='50' y='68' font-size='50' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>ТК</text></svg>">
+
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"BreadcrumbList",
+      "itemListElement":[
+        {"@type":"ListItem","position":1,"name":"Главная","item":"https://project20740686.tilda.ws/"},
+        {"@type":"ListItem","position":2,"name":"Статьи","item":"https://project20740686.tilda.ws/articles"}
+      ]
+    }
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <style>
+        :root{
+            --primary:#1e3a8a;
+            --primary-light:#3b82f6;
+            --accent:#f59e0b;
+            --accent-light:#fbbf24;
+            --dark:#111827;
+            --gray:#f9fafb;
+            --white:#fff;
+            --text-primary:#111827;
+            --text-secondary:#6b7280;
+            --shadow:0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -1px rgba(0,0,0,.06);
+            --shadow-lg:0 20px 25px -5px rgba(0,0,0,.1),0 10px 10px -5px rgba(0,0,0,.04);
+            --gradient-primary:linear-gradient(135deg,var(--primary),var(--primary-light));
+            --gradient-accent:linear-gradient(135deg,var(--accent),var(--accent-light));
+            --gradient-dark:linear-gradient(135deg,var(--dark),var(--primary));
+        }
+
+        *{margin:0;padding:0;box-sizing:border-box}
+        html{scroll-behavior:smooth}
+        body{
+            font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+            line-height:1.6;
+            color:var(--text-primary);
+            overflow-x:hidden;
+            -webkit-font-smoothing:antialiased;
+        }
+
+        header{
+            position:fixed;
+            top:0;
+            width:100%;
+            background:rgba(255,255,255,.95);
+            backdrop-filter:blur(10px);
+            -webkit-backdrop-filter:blur(10px);
+            z-index:1000;
+            box-shadow:var(--shadow);
+        }
+
+        nav{
+            max-width:1200px;
+            margin:0 auto;
+            padding:1rem 2rem;
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+        }
+
+        .logo{
+            font-family:'Montserrat',sans-serif;
+            font-size:1.8rem;
+            font-weight:800;
+            color:var(--primary);
+            text-decoration:none;
+        }
+
+        .nav-links{
+            display:flex;
+            list-style:none;
+            gap:2rem;
+        }
+
+        .nav-links a{
+            color:var(--text-secondary);
+            text-decoration:none;
+            font-weight:500;
+            font-size:.95rem;
+            transition:color .3s;
+        }
+
+        .nav-links a:hover,
+        .nav-links a.active{
+            color:var(--primary);
+        }
+
+        .cta-button{
+            background:var(--gradient-primary);
+            color:var(--white)!important;
+            padding:.8rem 1.8rem;
+            border-radius:50px;
+            text-decoration:none;
+            font-weight:600;
+            font-size:.9rem;
+            box-shadow:var(--shadow);
+            transition:all .3s;
+            display:flex;
+            align-items:center;
+            gap:.5rem;
+            white-space:nowrap;
+        }
+
+        .cta-button:hover{
+            transform:translateY(-2px);
+            box-shadow:var(--shadow-lg);
+        }
+
+        .menu-toggle{
+            display:none;
+            flex-direction:column;
+            cursor:pointer;
+            gap:5px;
+            padding:5px;
+            z-index:1001;
+            background:none;
+            border:none;
+        }
+
+        .menu-toggle span{
+            width:25px;
+            height:3px;
+            background:var(--primary);
+            transition:all .3s;
+            display:block;
+        }
+
+        .menu-toggle.active span:nth-child(1){transform:rotate(45deg) translate(5px,6px)}
+        .menu-toggle.active span:nth-child(2){opacity:0}
+        .menu-toggle.active span:nth-child(3){transform:rotate(-45deg) translate(5px,-6px)}
+
+        .nav-links.mobile{display:none}
+
+        .page-hero{
+            padding:8rem 2rem 4rem;
+            background:var(--gradient-dark);
+            color:#fff;
+            text-align:center;
+            position:relative;
+        }
+
+        .page-hero::before{
+            content:'';
+            position:absolute;
+            inset:0;
+            background:radial-gradient(circle at 30% 70%,rgba(255,255,255,.1) 0%,transparent 50%);
+            pointer-events:none;
+        }
+
+        .page-hero h1{
+            font-family:'Montserrat',sans-serif;
+            font-size:clamp(2rem,5vw,3.5rem);
+            font-weight:800;
+            margin-bottom:1rem;
+            position:relative;
+            z-index:2;
+        }
+
+        .page-hero p{
+            font-size:1.2rem;
+            opacity:.9;
+            max-width:700px;
+            margin:0 auto;
+            position:relative;
+            z-index:2;
+            line-height:1.8;
+        }
+
+        .breadcrumbs{
+            max-width:1200px;
+            margin:0 auto;
+            padding:1.5rem 2rem 0;
+            font-size:.95rem;
+        }
+
+        .breadcrumbs a{
+            color:var(--primary);
+            text-decoration:none;
+        }
+
+        .breadcrumbs a:hover{color:var(--primary-light)}
+        .breadcrumbs span{
+            color:var(--text-secondary);
+            margin:0 .5rem;
+        }
+
+        .articles-section{
+            max-width:1200px;
+            margin:0 auto;
+            padding:2rem 2rem 6rem;
+        }
+
+        .articles-section h2{
+            font-family:'Montserrat',sans-serif;
+            font-size:clamp(1.6rem,4vw,2.2rem);
+            color:var(--primary);
+            margin-bottom:.5rem;
+            text-align:left;
+            font-weight:700;
+        }
+
+        .articles-section .subtitle{
+            color:var(--text-secondary);
+            margin-bottom:2.5rem;
+            font-size:1.1rem;
+            line-height:1.7;
+        }
+
+        .articles-grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fill,minmax(350px,1fr));
+            gap:2rem;
+        }
+
+        .article-card{
+            background:#fff;
+            border-radius:20px;
+            overflow:hidden;
+            box-shadow:var(--shadow);
+            transition:all .4s;
+            border:1px solid #f3f4f6;
+            text-decoration:none;
+            color:inherit;
+            display:flex;
+            flex-direction:column;
+        }
+
+        .article-card:hover{
+            transform:translateY(-8px);
+            box-shadow:var(--shadow-lg);
+        }
+
+        .article-card-image{
+            height:220px;
+            background:var(--gradient-dark);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            position:relative;
+            overflow:hidden;
+        }
+
+        .article-card-image i{
+            font-size:4rem;
+            color:rgba(255,255,255,.8);
+            transition:transform .3s;
+        }
+
+        .article-card:hover .article-card-image i{transform:scale(1.15)}
+
+        .article-card-badge{
+            position:absolute;
+            top:1rem;
+            left:1rem;
+            background:var(--gradient-accent);
+            color:#fff;
+            padding:.4rem 1rem;
+            border-radius:50px;
+            font-size:.8rem;
+            font-weight:700;
+            text-transform:uppercase;
+            letter-spacing:.05em;
+        }
+
+        .article-card-body{
+            padding:2rem;
+            flex:1;
+            display:flex;
+            flex-direction:column;
+        }
+
+        .article-card-meta{
+            display:flex;
+            gap:1.5rem;
+            margin-bottom:1rem;
+            font-size:.88rem;
+            color:var(--text-secondary);
+        }
+
+        .article-card-meta i{
+            margin-right:.3rem;
+            color:var(--primary-light);
+        }
+
+        .article-card-body h3{
+            font-family:'Montserrat',sans-serif;
+            font-size:1.25rem;
+            font-weight:700;
+            color:var(--primary);
+            margin-bottom:.75rem;
+            line-height:1.4;
+        }
+
+        .article-card-body p{
+            color:var(--text-secondary);
+            line-height:1.8;
+            flex:1;
+            font-size:1rem;
+        }
+
+        .article-card-link{
+            display:inline-flex;
+            align-items:center;
+            gap:.5rem;
+            color:var(--primary);
+            font-weight:600;
+            margin-top:1.5rem;
+            transition:all .3s;
+            font-size:.95rem;
+        }
+
+        .article-card:hover .article-card-link{
+            color:var(--primary-light);
+            transform:translateX(5px);
+        }
+
+        .back-to-top{
+            position:fixed;
+            bottom:30px;
+            right:30px;
+            background:var(--gradient-primary);
+            color:#fff;
+            border:none;
+            border-radius:50%;
+            width:60px;
+            height:60px;
+            font-size:1.5rem;
+            cursor:pointer;
+            box-shadow:var(--shadow-lg);
+            opacity:0;
+            visibility:hidden;
+            transform:translateY(20px);
+            transition:all .3s;
+            z-index:999;
+        }
+
+        .back-to-top.show{
+            opacity:1;
+            visibility:visible;
+            transform:translateY(0);
+        }
+
+        .back-to-top:hover{transform:translateY(-5px) scale(1.05)}
+
+        .chat-widget{
+            position:fixed;
+            bottom:100px;
+            right:30px;
+            z-index:997;
+            display:flex;
+            flex-direction:column;
+            align-items:flex-end;
+            gap:12px;
+        }
+
+        .chat-options{
+            display:flex;
+            flex-direction:column;
+            gap:10px;
+            align-items:flex-end;
+            opacity:0;
+            visibility:hidden;
+            transform:translateY(20px) scale(.8);
+            transition:all .3s cubic-bezier(.68,-.55,.265,1.55);
+            pointer-events:none;
+        }
+
+        .chat-widget.open .chat-options{
+            opacity:1;
+            visibility:visible;
+            transform:translateY(0) scale(1);
+            pointer-events:auto;
+        }
+
+        .chat-option{
+            display:flex;
+            align-items:center;
+            gap:10px;
+            text-decoration:none;
+            padding:10px 16px;
+            border-radius:50px;
+            color:#fff;
+            font-weight:600;
+            font-size:.9rem;
+            box-shadow:var(--shadow);
+            transition:all .3s;
+            white-space:nowrap;
+        }
+
+        .chat-option:hover{transform:translateX(-5px) scale(1.05)}
+        .chat-option.max{background:#7c3aed}
+        .chat-option.phone{background:#10b981}
+
+        .chat-toggle{
+            width:60px;
+            height:60px;
+            border-radius:50%;
+            border:none;
+            background:var(--gradient-primary);
+            color:#fff;
+            font-size:1.5rem;
+            cursor:pointer;
+            box-shadow:var(--shadow-lg);
+            transition:all .4s;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            position:relative;
+        }
+
+        .chat-toggle:hover{transform:scale(1.1)}
+        .chat-widget.open .chat-toggle{
+            background:#ef4444;
+            transform:rotate(45deg);
+        }
+
+        .chat-badge{
+            position:absolute;
+            top:-2px;
+            right:-2px;
+            width:16px;
+            height:16px;
+            background:#ef4444;
+            border-radius:50%;
+            border:2px solid #fff;
+            animation:pulse 2s infinite;
+        }
+
+        .chat-widget.open .chat-badge{display:none}
+
+        @keyframes pulse{
+            0%,100%{transform:scale(1)}
+            50%{transform:scale(1.05)}
+        }
+
+        footer{
+            background:var(--dark);
+            color:#9ca3af;
+            text-align:center;
+            padding:3rem 2rem;
+            font-size:.95rem;
+        }
+
+        .footer-links{
+            margin-bottom:1.5rem;
+            display:flex;
+            justify-content:center;
+            flex-wrap:wrap;
+            gap:1rem;
+        }
+
+        .footer-links a{
+            color:#9ca3af;
+            text-decoration:none;
+            transition:color .3s;
+        }
+
+        .footer-links a:hover{color:var(--accent-light)}
+        footer p{line-height:1.7}
+
+        @media(max-width:768px){
+            .nav-links:not(.mobile){display:none}
+            .nav-links.mobile{
+                display:none;
+                position:fixed;
+                top:80px;
+                left:0;
+                width:100%;
+                background:rgba(255,255,255,.98);
+                flex-direction:column;
+                padding:2rem;
+                box-shadow:var(--shadow);
+                list-style:none;
+                gap:1rem;
+            }
+            .nav-links.mobile.active{display:flex}
+            .menu-toggle{display:flex}
+            nav{padding:1rem}
+            .cta-button span{display:none}
+            .cta-button{padding:.7rem 1rem}
+            .page-hero{padding:7rem 1rem 3rem}
+            .articles-grid{grid-template-columns:1fr}
+            .article-card-image{height:160px}
+            .articles-section{padding:1.5rem 1rem 4rem}
+            .back-to-top{bottom:20px;right:20px;width:50px;height:50px;font-size:1.2rem}
+            .chat-widget{bottom:80px;right:20px}
+            .chat-toggle{width:50px;height:50px;font-size:1.2rem}
+            .footer-links{flex-direction:column;gap:.75rem}
+        }
+
+        @media(max-width:480px){
+            .article-card-body{padding:1.5rem}
+            .article-card-body h3{font-size:1.1rem}
+            .article-card-body p{font-size:.95rem}
+        }
+
+        @media(prefers-reduced-motion:reduce){
+            *,*::before,*::after{
+                animation-duration:.01ms!important;
+                transition-duration:.01ms!important;
+            }
+            html{scroll-behavior:auto}
+        }
+
+        @media print{
+            header,.back-to-top,.chat-widget,footer{display:none!important}
+            .page-hero{background:#fff!important;color:#000!important;padding-top:2rem}
+        }
+    </style>
+</head>
+<body>
+    <a href="#main-content" class="skip-link" style="position:absolute;top:-100px;left:50%;transform:translateX(-50%);background:var(--primary);color:white;padding:12px 24px;z-index:10000;text-decoration:none;font-weight:600;border-radius:0 0 8px 8px;transition:top .3s;">Перейти к содержимому</a>
+
+    <header>
+        <nav>
+            <a href="https://project20740686.tilda.ws/" class="logo">Таткадастр</a>
+            <ul class="nav-links">
+                <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+                <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+                <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+                <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+                <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+            </ul>
+            <ul class="nav-links mobile" id="mobileNav">
+                <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+                <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+                <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+                <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+                <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+            </ul>
+            <button class="menu-toggle" id="menuToggle" aria-label="Открыть меню" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+            <a href="tel:+79377762711" class="cta-button" aria-label="Позвонить">
+                <i class="fas fa-phone" aria-hidden="true"></i><span>+7 937 776 27 11</span>
+            </a>
+        </nav>
+    </header>
+
+    <button class="back-to-top" id="backToTop" aria-label="Наверх">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <div class="chat-widget" id="chatWidget">
+        <div class="chat-options">
+            <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="chat-option max" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-comment-dots" aria-hidden="true"></i> Написать в Max
+            </a>
+            <a href="tel:+79377762711" class="chat-option phone">
+                <i class="fas fa-phone" aria-hidden="true"></i> Позвонить
+            </a>
+        </div>
+        <button class="chat-toggle" id="chatToggle" aria-label="Открыть чат" aria-expanded="false">
+            <i class="fas fa-comments" aria-hidden="true"></i>
+            <span class="chat-badge" aria-hidden="true"></span>
+        </button>
+    </div>
+
+    <main id="main-content">
+        <div class="page-hero">
+            <h1>Статьи о кадастре и БТИ</h1>
+            <p>Полезные материалы от специалистов ООО «Таткадастр». Разбираем оформление недвижимости, домов, участков, БТИ и кадастровые вопросы простым языком.</p>
+        </div>
+
+        <nav class="breadcrumbs" aria-label="Навигационная цепочка">
+            <a href="https://project20740686.tilda.ws/">Главная</a>
+            <span>›</span>
+            <strong>Статьи</strong>
+        </nav>
+
+        <section class="articles-section">
+            <h2>Последние публикации</h2>
+            <p class="subtitle">Экспертные статьи для собственников, покупателей недвижимости и бизнеса</p>
+
+            <div class="articles-grid">
+
+                <!-- 1. Технический план на дом — НОВАЯ -->
+                <a href="https://project20740686.tilda.ws/article-techplan-dom-kazan" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#065f46,#10b981);">
+                        <span class="article-card-badge">Новое</span>
+                        <i class="fas fa-home" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 22 июня 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 18 мин</span>
+                        </div>
+                        <h3>Технический план на дом в Казани: документы, цена и порядок оформления</h3>
+                        <p>Полная инструкция: как оформить техплан на жилой дом для кадастрового учёта. Стоимость от 6 000 ₽, срок от 1 дня. Дачная амнистия, документы, пошаговый порядок.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 2. Техпаспорт на квартиру — НОВАЯ -->
+                <a href="https://project20740686.tilda.ws/article-techpassport-kvartira-kazan" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#1e3a5f,#3b82f6);">
+                        <span class="article-card-badge">Новое</span>
+                        <i class="fas fa-file-alt" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 19 июня 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 16 мин</span>
+                        </div>
+                        <h3>Технический паспорт на квартиру в Казани: где заказать, сколько стоит и сроки</h3>
+                        <p>Полная инструкция по оформлению техпаспорта БТИ на квартиру в Казани. Стоимость от 4 000 ₽, срок от 1 рабочего дня. Документы, порядок, отличия от техплана.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 3. Реконструкция дома -->
+                <a href="https://project20740686.tilda.ws/article-uzakonit-rekonstrukciyu-doma" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#92400e,#d97706);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-hammer" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 1 июня 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 18 мин</span>
+                        </div>
+                        <h3>Как узаконить реконструкцию дома и внести изменения в ЕГРН</h3>
+                        <p>Разбираем, как оформить реконструкцию жилого дома через дачную амнистию или уведомительный порядок, подготовить технический план и внести актуальные сведения в ЕГРН.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 4. Подбор жилого дома -->
+                <a href="https://project20740686.tilda.ws/article-podbor-doma-kazan" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#0f4c81,#1d4ed8);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-home" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 23 апреля 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 12 мин</span>
+                        </div>
+                        <h3>Подбор жилого дома для покупки в Казани и пригороде Казани</h3>
+                        <p>ООО «Таткадастр» произведёт для вас подбор жилого дома для покупки. В нашей базе более 1000 домов в продаже. Приоритетные направления: Лаишевский, Высокогорский, Пестречинский и Зеленодольский районы.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 5. Перевод квартиры в нежилое -->
+                <a href="https://project20740686.tilda.ws/article-perevod-zhilogo-v-nezhiloe" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#0f766e,#14b8a6);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-exchange-alt" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 27 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 20 мин</span>
+                        </div>
+                        <h3>Как перевести жилое помещение (квартиру) в нежилое в Казани</h3>
+                        <p>Пошаговая инструкция: требования к помещению, согласие соседей, общее собрание, документы, сроки, стоимость и причины отказа.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 6. Техпаспорт vs техплан -->
+                <a href="https://project20740686.tilda.ws/article-techpassport-vs-techplan" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#7c2d12,#dc2626);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-balance-scale" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 25 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 14 мин</span>
+                        </div>
+                        <h3>Чем отличается технический паспорт БТИ от технического плана?</h3>
+                        <p>Подробно разбираем отличия: кто готовит, для чего нужен, сколько стоит. Сравнительная таблица, частые ошибки и ответы на вопросы собственников.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 7. ГПЗУ -->
+                <a href="https://project20740686.tilda.ws/article-gpzu-kazan" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#1e3a5f,#3b82f6);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-file-alt" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 23 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 18 мин</span>
+                        </div>
+                        <h3>Как получить (заказать) ГПЗУ в Казани и Татарстане</h3>
+                        <p>Пошаговая инструкция: куда обращаться, какие документы нужны, сроки, стоимость и частые ошибки при получении градостроительного плана земельного участка.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 8. Перепланировка нежилого помещения -->
+                <a href="https://project20740686.tilda.ws/article-pereplanirovka-nezhilogo-pomescheniya" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#4c1d95,#8b5cf6);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-store" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 12 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 16 мин</span>
+                        </div>
+                        <h3>Как узаконить перепланировку нежилого помещения?</h3>
+                        <p>Подробная инструкция по согласованию перепланировки нежилого помещения в многоквартирном доме и нежилом здании: отличия в процедурах, документы, сроки и ответственность.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 9. Присвоение адреса -->
+                <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhener-adres" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#065f46,#10b981);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 11 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 10 мин</span>
+                        </div>
+                        <h3>С 01.02.2026 кадастровый инженер имеет право инициировать присвоение адреса объекту</h3>
+                        <p>Разбираем ключевые изменения в законодательстве: как новый порядок ускорит оформление недвижимости и что это значит для собственников в Казани и Татарстане.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 10. Перепланировка квартиры -->
+                <a href="https://project20740686.tilda.ws/article-uzakonit-pereplanirovku" class="article-card">
+                    <div class="article-card-image" style="background:linear-gradient(135deg,#7c2d12,#f59e0b);">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-drafting-compass" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 11 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 15 мин</span>
+                        </div>
+                        <h3>Как узаконить перепланировку квартиры в Казани, Татарстане?</h3>
+                        <p>Пошаговая инструкция по согласованию и узакониванию перепланировки: куда обращаться, какие документы собрать, сколько стоит и что будет, если не оформить.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+                <!-- 11. Кадастровый инженер -->
+                <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhenerhtml" class="article-card">
+                    <div class="article-card-image">
+                        <span class="article-card-badge">Полезное</span>
+                        <i class="fas fa-user-tie" aria-hidden="true"></i>
+                    </div>
+                    <div class="article-card-body">
+                        <div class="article-card-meta">
+                            <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 10 марта 2026</span>
+                            <span><i class="fas fa-clock" aria-hidden="true"></i> 12 мин</span>
+                        </div>
+                        <h3>Кто такой кадастровый инженер и как выбрать профессионала?</h3>
+                        <p>Подробный гайд: что делает кадастровый инженер, какие документы готовит, как проверить квалификацию специалиста и на что обратить внимание при выборе.</p>
+                        <span class="article-card-link">Читать статью <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+                    </div>
+                </a>
+
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-links">
+            <a href="https://project20740686.tilda.ws/#services">Услуги</a>
+            <a href="https://project20740686.tilda.ws/#contacts">Контакты</a>
+            <a href="https://project20740686.tilda.ws/articles">Статьи</a>
+        </div>
+        <p>© 2026 ООО «Таткадастр». ИНН 1624445860. Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде с 2013 года.</p>
+    </footer>
+
+    <!-- Yandex.Metrika -->
+    <script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+    ym(106426795,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/106426795" style="position:absolute;left:-9999px" alt=""></div></noscript>
+
+    <script>
+    (function(){
+        'use strict';
+        var mt=document.getElementById('menuToggle'),
+            mn=document.getElementById('mobileNav'),
+            bt=document.getElementById('backToTop'),
+            cw=document.getElementById('chatWidget'),
+            ct=document.getElementById('chatToggle'),
+            mo=false,co=false;
+
+        if(mt)mt.addEventListener('click',function(){
+            mo=!mo;
+            mn.classList.toggle('active');
+            mt.classList.toggle('active');
+            mt.setAttribute('aria-expanded',mo);
+        });
+
+        if(ct)ct.addEventListener('click',function(e){
+            e.stopPropagation();
+            co=!co;
+            cw.classList.toggle('open');
+            ct.setAttribute('aria-expanded',co);
+        });
+
+        document.addEventListener('click',function(e){
+            if(co&&cw&&!cw.contains(e.target)){
+                co=false;
+                cw.classList.remove('open');
+                ct.setAttribute('aria-expanded','false');
+            }
+            if(mo&&mn&&mt&&!mn.contains(e.target)&&!mt.contains(e.target)){
+                mo=false;
+                mn.classList.remove('active');
+                mt.classList.remove('active');
+                mt.setAttribute('aria-expanded','false');
+            }
+        });
+
+        window.addEventListener('scroll',function(){
+            if(bt){
+                if(window.scrollY>300) bt.classList.add('show');
+                else bt.classList.remove('show');
+            }
+        },{passive:true});
+
+        if(bt)bt.addEventListener('click',function(){
+            window.scrollTo({top:0,behavior:'smooth'});
+        });
+    })();
+    </script>
+</body>
+</html>
