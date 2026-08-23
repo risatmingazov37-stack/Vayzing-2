@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Технический план и БТИ в Казани от 4000₽ — Таткадастр | С 2013</title>
+    <meta name="description" content="【Таткадастр】 ✅ Технический план в Казани от 4500₽ ✅ Техпаспорт БТИ от 4000₽ ✅ Сроки от 1 дня ✅ Кадастровый инженер с опытом 12 лет. Бесплатная консультация!">
+    <meta name="keywords" content="технический план казань, техплан казань, бти казань, техпаспорт казань, кадастровый инженер казань, техническая инвентаризация казань, кадастровые работы казань, техплан дома, технический план квартиры, технический план здания, техпаспорт бти, кадастровый учет, техпаспорт на дом казань, техпаспорт на квартиру казань, техпаспорт на баню казань, техпаспорт на гараж казань, техпаспорт на хозпостройку">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="author" content="ООО Таткадастр">
+    <meta name="geo.region" content="RU-TA">
+    <meta name="geo.placename" content="Казань">
+    <meta name="geo.position" content="55.7887;49.1221">
+    <meta name="ICBM" content="55.7887, 49.1221">
+
+    <meta name="yandex-verification" content="">
+    <meta name="google-site-verification" content="">
+
+    <link rel="canonical" href="https://xn--80aqdcbhfl5h.xn--p1ai/">
+    <link rel="alternate" hreflang="ru" href="https://xn--80aqdcbhfl5h.xn--p1ai/">
+    <link rel="alternate" hreflang="x-default" href="https://xn--80aqdcbhfl5h.xn--p1ai/">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://mc.yandex.ru">
+
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://mc.yandex.ru https://api.xn--80aaap2a3bgcbf.xn--p1ai; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https://mc.yandex.ru; connect-src 'self' https://mc.yandex.ru https://api.xn--80aaap2a3bgcbf.xn--p1ai;">
+
+    <meta name="theme-color" content="#1e3a8a">
+    <meta name="msapplication-TileColor" content="#1e3a8a">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Таткадастр">
+
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='50' y='68' font-size='50' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>ТК</text></svg>">
+    <link rel="icon" type="image/png" sizes="32x32" id="favicon32">
+    <link rel="icon" type="image/png" sizes="16x16" id="favicon16">
+    <link rel="apple-touch-icon" sizes="180x180" id="appleTouchIcon">
+    <link rel="shortcut icon" id="faviconIco">
+    <link rel="manifest" href="/manifest.json">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://xn--80aqdcbhfl5h.xn--p1ai/">
+    <meta property="og:title" content="Технический план и БТИ в Казани — Таткадастр | С 2013">
+    <meta property="og:description" content="✅ Технический план от 4500₽ ✅ Техпаспорт БТИ от 4000₽ ✅ Сроки от 1 дня ✅ Бесплатная консультация">
+    <meta property="og:image" content="https://xn--80aqdcbhfl5h.xn--p1ai/images/og-cover.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Таткадастр - техническая инвентаризация в Казани">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Таткадастр">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Технический план и БТИ в Казани — Таткадастр">
+    <meta name="twitter:description" content="✅ Техплан от 4500₽ ✅ Техпаспорт от 4000₽ ✅ От 1 дня ✅ Бесплатная консультация">
+    <meta name="twitter:image" content="https://xn--80aqdcbhfl5h.xn--p1ai/images/og-cover.jpg">
+
+    <script type="application/ld+json">
+    {
+        "@context":"https://schema.org","@type":"LocalBusiness",
+        "@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization",
+        "name":"Таткадастр",
+        "alternateName":["ООО Таткадастр","TatKadastr","Таткадастр Казань","БТИ Таткадастр"],
+        "description":"Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде. Технические планы, техпаспорта на дом, квартиру, хозпостройку, постановка на кадастровый учёт от 1 дня.",
+        "url":"https://xn--80aqdcbhfl5h.xn--p1ai",
+        "telephone":"+7-937-776-27-11",
+        "email":"kadastr.116@yandex.ru",
+        "foundingDate":"2013",
+        "priceRange":"₽₽",
+        "currenciesAccepted":"RUB",
+        "paymentAccepted":["Cash","Credit Card","Bank Transfer"],
+        "areaServed":[
+            {"@type":"City","name":"Казань","@id":"https://www.wikidata.org/wiki/Q900"}
+        ],
+        "address":{"@type":"PostalAddress","addressLocality":"Казань","addressRegion":"Республика Татарстан","addressCountry":"RU","postalCode":"420000"},
+        "geo":{"@type":"GeoCoordinates","latitude":"55.7887","longitude":"49.1221"},
+        "openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"}],
+        "contactPoint":{"@type":"ContactPoint","telephone":"+7-937-776-27-11","contactType":"customer service","availableLanguage":"Russian","areaServed":"RU-TA"},
+        "sameAs":["https://t.me/tatkadastr","https://t.me/tatkadastr116","https://vk.com/club43451793","https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI"]
+    }
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","serviceType":"Технический план","name":"Технический план в Казани","description":"Подготовка технического плана для постановки на кадастровый учёт квартиры, дома, нежилого помещения в Казани и пригороде","provider":{"@type":"LocalBusiness","@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization"},"areaServed":{"@type":"City","name":"Казань"},"offers":{"@type":"Offer","price":"4500","priceCurrency":"RUB","priceValidUntil":"2026-12-31","availability":"https://schema.org/InStock"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","serviceType":"Технический паспорт БТИ","name":"Технический паспорт БТИ в Казани","description":"Техническая инвентаризация и подготовка технического паспорта БТИ на дом, квартиру, хозпостройку","provider":{"@type":"LocalBusiness","@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization"},"areaServed":{"@type":"City","name":"Казань"},"offers":{"@type":"Offer","price":"4000","priceCurrency":"RUB","priceValidUntil":"2026-12-31","availability":"https://schema.org/InStock"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","serviceType":"Техпаспорт на жилой дом","name":"Техпаспорт на жилой (садовый) дом в Казани","description":"Технический паспорт БТИ на частный жилой или садовый дом для сделок, ипотеки, наследства в Казани","provider":{"@type":"LocalBusiness","@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization"},"areaServed":{"@type":"City","name":"Казань"},"offers":{"@type":"Offer","price":"4000","priceCurrency":"RUB","priceValidUntil":"2026-12-31","availability":"https://schema.org/InStock"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","serviceType":"Техпаспорт на квартиру","name":"Техпаспорт на квартиру в Казани","description":"Технический паспорт БТИ на квартиру в новостройке или вторичном жилье для ипотеки, продажи, наследства","provider":{"@type":"LocalBusiness","@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization"},"areaServed":{"@type":"City","name":"Казань"},"offers":{"@type":"Offer","price":"4000","priceCurrency":"RUB","priceValidUntil":"2026-12-31","availability":"https://schema.org/InStock"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","serviceType":"Техпаспорт на хозпостройку","name":"Техпаспорт на хозпостройку в Казани","description":"Технический паспорт БТИ на баню, гараж, сарай, хозблок для регистрации права собственности","provider":{"@type":"LocalBusiness","@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization"},"areaServed":{"@type":"City","name":"Казань"},"offers":{"@type":"Offer","price":"4000","priceCurrency":"RUB","priceValidUntil":"2026-12-31","availability":"https://schema.org/InStock"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://xn--80aqdcbhfl5h.xn--p1ai/"}]}
+    </script>
+
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+        {"@type":"Question","name":"Сколько стоит технический план в Казани?","acceptedAnswer":{"@type":"Answer","text":"Стоимость технического плана в Казани начинается от 4500 рублей. Точная цена зависит от типа объекта, площади и сложности работ. Звоните: +7 937 776 27 11."}},
+        {"@type":"Question","name":"Какие сроки изготовления технического плана?","acceptedAnswer":{"@type":"Answer","text":"От 1 рабочего дня при наличии доступа к объекту и документов. Стандартные сроки — 3-5 рабочих дней."}},
+        {"@type":"Question","name":"В каких районах вы работаете?","acceptedAnswer":{"@type":"Answer","text":"Работаем в Казани и пригороде: Высокогорский, Лаишевский, Пестречинский, Зеленодольский районы."}},
+        {"@type":"Question","name":"Чем технический план отличается от технического паспорта БТИ?","acceptedAnswer":{"@type":"Answer","text":"Технический план — электронный XML-документ для Росреестра. Техпаспорт БТИ — бумажный документ для сделок, ипотеки, перепланировки."}},
+        {"@type":"Question","name":"Какие документы нужны для заказа технического плана?","acceptedAnswer":{"@type":"Answer","text":"Правоустанавливающие документы (выписка ЕГРН, договор), паспорт заказчика, доступ к объекту для обмеров."}},
+        {"@type":"Question","name":"Сколько стоит техпаспорт БТИ в Казани?","acceptedAnswer":{"@type":"Answer","text":"От 4000 рублей. Цена зависит от типа объекта и площади."}},
+        {"@type":"Question","name":"Сколько стоит техпаспорт на дом в Казани?","acceptedAnswer":{"@type":"Answer","text":"Техпаспорт на жилой или садовый дом стоит от 4000 рублей. Точная стоимость зависит от площади дома и удалённости объекта."}},
+        {"@type":"Question","name":"Сколько стоит техпаспорт на квартиру в Казани?","acceptedAnswer":{"@type":"Answer","text":"Техпаспорт на квартиру стоит от 4000 рублей. Цена зависит от количества комнат и площади квартиры."}},
+        {"@type":"Question","name":"Нужен ли техпаспорт для продажи квартиры?","acceptedAnswer":{"@type":"Answer","text":"Да, техпаспорт часто требуется банком при оформлении ипотеки покупателем, а также для подтверждения отсутствия несогласованных перепланировок."}},
+        {"@type":"Question","name":"Сколько стоит техпаспорт на баню или хозпостройку?","acceptedAnswer":{"@type":"Answer","text":"Техпаспорт на баню, гараж, сарай или хозблок стоит от 4000 рублей в Казани и пригороде."}},
+        {"@type":"Question","name":"Как заказать технический план онлайн?","acceptedAnswer":{"@type":"Answer","text":"Через сайт таткадастр.рф, по телефону +7 937 776 27 11, в Telegram @tatkadastr116 или по email kadastr.116@yandex.ru."}},
+        {"@type":"Question","name":"Нужен ли технический план для регистрации дома по дачной амнистии?","acceptedAnswer":{"@type":"Answer","text":"Да, для регистрации жилого или садового дома по дачной амнистии обязательно требуется технический план, подготовленный кадастровым инженером."}},
+        {"@type":"Question","name":"Можно ли сделать технический план без выезда на объект?","acceptedAnswer":{"@type":"Answer","text":"Нет, выезд кадастрового инженера на объект обязателен для проведения обмеров и фиксации координат. Это требование законодательства."}},
+        {"@type":"Question","name":"Что делать, если Росреестр приостановил регистрацию?","acceptedAnswer":{"@type":"Answer","text":"Мы бесплатно устраняем замечания Росреестра и повторно подаём документы. Гарантия регистрации входит в стоимость услуги."}},
+        {"@type":"Question","name":"Как долго действует технический план?","acceptedAnswer":{"@type":"Answer","text":"Технический план не имеет срока действия. Однако при изменении характеристик объекта (перепланировка, реконструкция) требуется подготовка нового технического плана."}},
+        {"@type":"Question","name":"Выезжаете ли вы в пригород Казани?","acceptedAnswer":{"@type":"Answer","text":"Да, работаем в Казани и пригороде: Высокогорский, Лаишевский, Пестречинский, Зеленодольский районы."}}
+    ]}
+    </script>
+
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebSite","name":"Таткадастр","url":"https://xn--80aqdcbhfl5h.xn--p1ai","description":"Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде. Техпаспорт на дом, квартиру, хозпостройку.","publisher":{"@type":"LocalBusiness","@id":"https://xn--80aqdcbhfl5h.xn--p1ai/#organization"},"inLanguage":"ru-RU"}
+    </script>
+
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap&text=АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя0123456789" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+
+    <style>
+        :root {
+            --primary:#1e3a8a;--primary-light:#3b82f6;--accent:#f59e0b;--accent-light:#fbbf24;
+            --dark:#111827;--gray:#f9fafb;--white:#ffffff;--text-primary:#111827;--text-secondary:#6b7280;
+            --shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);
+            --shadow-lg:0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04);
+            --gradient-primary:linear-gradient(135deg,var(--primary),var(--primary-light));
+            --gradient-accent:linear-gradient(135deg,var(--accent),var(--accent-light));
+            --gradient-dark:linear-gradient(135deg,var(--dark),var(--primary));
+        }
+        *{margin:0;padding:0;box-sizing:border-box}
+        html{scroll-behavior:smooth}
+        body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.6;color:var(--text-primary);overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+
+        .skip-link{position:absolute;top:-100px;left:50%;transform:translateX(-50%);background:var(--primary);color:white;padding:12px 24px;z-index:10000;text-decoration:none;font-weight:600;border-radius:0 0 8px 8px;transition:top .3s}
+        .skip-link:focus{top:0;outline:3px solid var(--accent);outline-offset:2px}
+        :focus{outline:3px solid var(--accent);outline-offset:2px}
+        :focus:not(:focus-visible){outline:none}
+        :focus-visible{outline:3px solid var(--accent);outline-offset:3px;box-shadow:0 0 0 3px rgba(245, 158, 11, 0.4)}
+        a{text-decoration-skip-ink:auto}
+
+        header{position:fixed;top:0;width:100%;background:rgba(255,255,255,.95);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);z-index:1000;box-shadow:var(--shadow);transition:all .3s}
+        nav{max-width:1200px;margin:0 auto;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center}
+        .logo{font-family:'Montserrat',sans-serif;font-size:1.8rem;font-weight:800;color:var(--primary);text-decoration:none}
+        .nav-links{display:flex;list-style:none;gap:2rem}
+        .nav-links a{color:var(--text-secondary);text-decoration:none;font-weight:500;font-size:.95rem;transition:color .3s}
+        .nav-links a:hover{color:var(--primary)}
+        .cta-button{background:var(--gradient-primary);color:var(--white)!important;padding:.8rem 1.8rem;border-radius:50px;text-decoration:none;font-weight:600;font-size:.9rem;box-shadow:var(--shadow);transition:all .3s;display:flex;align-items:center;gap:.5rem;white-space:nowrap}
+        .cta-button:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+        .cta-button i{color:var(--white)}
+        .menu-toggle{display:none;flex-direction:column;cursor:pointer;gap:5px;padding:5px;z-index:1001;background:none;border:none}
+        .menu-toggle span{width:25px;height:3px;background:var(--primary);transition:all .3s;transform-origin:center;display:block}
+        .menu-toggle.active span:nth-child(1){transform:rotate(45deg) translate(5px,6px)}
+        .menu-toggle.active span:nth-child(2){opacity:0;transform:translateX(-10px)}
+        .menu-toggle.active span:nth-child(3){transform:rotate(-45deg) translate(5px,-6px)}
+        .nav-links.mobile{display:none}
+
+        .back-to-top{position:fixed;bottom:30px;right:30px;background:var(--gradient-primary);color:white;border:none;border-radius:50%;width:60px;height:60px;font-size:1.5rem;cursor:pointer;box-shadow:var(--shadow-lg);opacity:0;visibility:hidden;transform:translateY(20px);transition:all .3s;z-index:999}
+        .back-to-top.show{opacity:1;visibility:visible;transform:translateY(0)}
+        .back-to-top:hover{transform:translateY(-5px) scale(1.05)}
+
+        .chat-widget{position:fixed;bottom:100px;right:30px;z-index:997;display:flex;flex-direction:column;align-items:flex-end;gap:12px}
+        .chat-options{display:flex;flex-direction:column;gap:10px;align-items:flex-end;opacity:0;visibility:hidden;transform:translateY(20px) scale(.8);transition:all .3s cubic-bezier(.68,-.55,.265,1.55);pointer-events:none}
+        .chat-widget.open .chat-options{opacity:1;visibility:visible;transform:translateY(0) scale(1);pointer-events:auto}
+        .chat-option{display:flex;align-items:center;gap:10px;text-decoration:none;padding:10px 16px;border-radius:50px;color:white;font-weight:600;font-size:.9rem;box-shadow:var(--shadow);transition:all .3s;white-space:nowrap}
+        .chat-option:hover{transform:translateX(-5px) scale(1.05);box-shadow:var(--shadow-lg)}
+        .chat-option.telegram{background:#0088cc}
+        .chat-option.messengers{background:#7c3aed}
+        .chat-option.phone{background:#10b981}
+        .chat-option i{font-size:1.1rem}
+        .chat-toggle{width:60px;height:60px;border-radius:50%;border:none;background:var(--gradient-primary);color:white;font-size:1.5rem;cursor:pointer;box-shadow:var(--shadow-lg);transition:all .4s;display:flex;align-items:center;justify-content:center;position:relative}
+        .chat-toggle:hover{transform:scale(1.1)}
+        .chat-widget.open .chat-toggle{background:#ef4444;transform:rotate(45deg)}
+        .chat-badge{position:absolute;top:-2px;right:-2px;width:16px;height:16px;background:#ef4444;border-radius:50%;border:2px solid white;animation:pulse 2s infinite}
+        .chat-widget.open .chat-badge{display:none}
+        @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+
+        .hero {
+            min-height: 100vh;
+            background: var(--gradient-dark);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            position: relative;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at 30% 70%,rgba(255,255,255,.1) 0%,transparent 50%),radial-gradient(circle at 70% 30%,rgba(245,158,11,.15) 0%,transparent 50%);
+            pointer-events: none;
+        }
+
+        .hero-content {
+            max-width: 900px;
+            padding: 2rem;
+            position: relative;
+            z-index: 2;
+            margin: auto;
+            width: 100%;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin-top: 40px;
+        }
+
+        .hero-badge{display:inline-block;background:rgba(245,158,11,.2);color:var(--accent-light);padding:.5rem 1.5rem;border-radius:25px;font-size:.9rem;font-weight:600;margin-bottom:1.5rem;border:1px solid rgba(245,158,11,.3)}
+        .hero h1{font-family:'Montserrat',sans-serif;font-size:clamp(2.5rem,8vw,4.5rem);font-weight:800;margin-bottom:1.5rem;line-height:1.1;text-align:center;margin-left:auto;margin-right:auto;}
+        .hero-subtitle{font-size:clamp(1.1rem,3vw,1.5rem);margin-bottom:3rem;opacity:.95;max-width:650px;margin-left:auto;margin-right:auto;line-height:1.7;text-align:center;}
+        .hero-buttons{display:flex;gap:1.5rem;justify-content:center;align-items:center;flex-wrap:wrap;margin:0 auto;}
+
+        .btn-primary{background:var(--gradient-accent);color:white!important;padding:1.2rem 3rem;border-radius:50px;text-decoration:none;font-weight:700;font-size:1.1rem;box-shadow:var(--shadow-lg);transition:all .4s;display:inline-flex;align-items:center;justify-content:center;gap:.75rem;text-transform:uppercase;letter-spacing:.05em;border:2px solid transparent;cursor:pointer;font-family:inherit}
+        .btn-primary:hover{transform:translateY(-4px);box-shadow:0 25px 50px -12px rgba(245,158,11,.4);color:white!important}
+        .btn-primary:disabled{opacity:.6;cursor:not-allowed;transform:none}
+
+        .btn-outline{color:white!important;padding:1.2rem 3rem;border-radius:50px;text-decoration:none;font-weight:700;font-size:1.1rem;border:2px solid rgba(255,255,255,.8);transition:all .4s;display:inline-flex;align-items:center;gap:.75rem;text-transform:uppercase;letter-spacing:.05em;backdrop-filter:blur(10px);background:transparent}
+        .btn-outline:hover{background:white;color:var(--primary)!important;transform:translateY(-4px)}
+
+        section{padding:6rem 2rem;max-width:1200px;margin:0 auto}
+        section:not(.hero){content-visibility:auto;contain-intrinsic-size:auto 600px}
+
+        h2{font-family:'Montserrat',sans-serif;font-size:clamp(2rem,5vw,3rem);text-align:center;margin-bottom:1rem;background:var(--gradient-primary);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:700}
+        .section-subtitle{text-align:center;font-size:1.2rem;color:var(--text-secondary);max-width:600px;margin:0 auto 4rem}
+
+        .benefits-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:2rem}
+        .benefit-card{background:white;padding:2.5rem 2rem;border-radius:20px;text-align:center;box-shadow:var(--shadow);transition:all .4s;border:1px solid #f3f4f6;contain:layout style}
+        .benefit-card:hover{transform:translateY(-10px);box-shadow:var(--shadow-lg)}
+        .benefit-icon{width:80px;height:80px;background:var(--gradient-primary);border-radius:16px;display:flex;align-items:center;justify-content:center;margin:0 auto 1.5rem;font-size:2rem;color:white;box-shadow:var(--shadow)}
+        .benefit-card h3{font-size:1.3rem;font-weight:700;color:var(--primary);margin-bottom:1rem}
+        .benefit-card p{color:var(--text-secondary);line-height:1.7}
+
+        .services-tabs{display:flex;gap:.5rem;margin-bottom:3rem;justify-content:center;flex-wrap:wrap}
+        .tab{padding:.8rem 1.5rem;background:#f9fafb;color:var(--text-secondary);border-radius:50px;cursor:pointer;font-weight:600;white-space:nowrap;transition:all .3s;border:2px solid transparent;font-size:.95rem;text-align:center;font-family:inherit}
+        .tab:hover{background:#e5e7eb}
+        .tab.active{background:var(--gradient-primary);color:white;transform:translateY(-2px)}
+        .services-content{display:none}
+        .services-content.active{display:block;animation:fadeIn .5s ease}
+        @keyframes fadeIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+        .services-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:2rem}
+        .service-card{background:white;border-radius:20px;overflow:hidden;box-shadow:var(--shadow);transition:all .4s;border:1px solid #f3f4f6;contain:layout style}
+        .service-card:hover{transform:translateY(-8px);box-shadow:var(--shadow-lg)}
+        .service-image{height:200px;background:var(--gradient-primary);position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}
+        .service-image svg{width:80px;height:80px;fill:rgba(255,255,255,.9);transform:scale(1);transition:transform 0.3s ease}
+        .service-card:hover .service-image svg{transform:scale(1.1)}
+        .service-image.primary{background:var(--gradient-primary)}
+        .service-image.dark-blue{background:var(--gradient-dark)}
+        .service-image.light-blue{background:linear-gradient(135deg,var(--primary-light),#60a5fa)}
+        .service-image.accent{background:var(--gradient-accent)}
+        .service-image.mixed{background:linear-gradient(135deg,var(--primary),var(--accent))}
+        .service-image.green{background:linear-gradient(135deg,#059669,#10b981)}
+        .service-info{padding:2rem}
+        .service-title{font-size:1.3rem;font-weight:700;color:var(--primary);margin-bottom:.5rem}
+        .service-price{font-size:1.6rem;font-weight:800;color:var(--accent);margin-bottom:1rem}
+        .service-info p{color:var(--text-secondary);line-height:1.7;font-weight:500}
+        .service-info .btn-primary{width:100%;margin-top:1.5rem}
+        .btn-details{display:inline-flex;align-items:center;gap:.5rem;color:var(--primary);text-decoration:none;font-weight:600;font-size:.95rem;padding:.5rem 0;margin-bottom:1rem;transition:all .3s;border:none;background:none;cursor:pointer;border-bottom:2px solid transparent;font-family:inherit}
+        .btn-details:hover{color:var(--primary-light);border-bottom-color:var(--primary-light);transform:translateX(5px)}
+        .btn-details i{font-size:.85rem;transition:transform .3s}
+        .btn-details:hover i:last-child{transform:translateX(5px)}
+
+        .stages{background:#f9fafb;max-width:100%}
+        .stages-inner{max-width:1200px;margin:0 auto}
+        .timeline{max-width:1000px;margin:4rem auto 0;position:relative}
+        .timeline::before{content:'';position:absolute;left:50%;width:4px;height:100%;background:var(--gradient-accent);transform:translateX(-50%)}
+        .stage{display:flex;margin:4rem 0;position:relative}
+        .stage:nth-child(even){flex-direction:row-reverse}
+        .stage-content{width:48%;background:white;padding:2.5rem;border-radius:20px;box-shadow:var(--shadow);position:relative;margin-left:3rem}
+        .stage-content h3{margin-top:1.5rem;color:var(--primary);font-size:1.3rem}
+        .stage-content p{color:var(--text-secondary);line-height:1.7;margin-top:.5rem}
+        .stage-number{position:absolute;left:50%;top:2rem;transform:translateX(-50%);width:60px;height:60px;background:var(--gradient-accent);color:white;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.4rem;box-shadow:var(--shadow-lg);z-index:2}
+
+        .contacts{background:var(--gradient-dark);color:white;text-align:center;max-width:100%;padding:6rem 2rem}
+        .contacts h2{background:none!important;-webkit-text-fill-color:white!important;color:white!important}
+        .contacts .section-subtitle{color:rgba(255,255,255,.85)}
+        .contact-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;margin-top:3rem;max-width:1200px;margin-left:auto;margin-right:auto}
+        .contact-item{background:rgba(255,255,255,.1);padding:2rem 1.5rem;border-radius:16px;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);transition:all .3s}
+        .contact-item:hover{transform:translateY(-5px);background:rgba(255,255,255,.15)}
+        .contact-item h3{font-size:1.2rem;margin-bottom:1.5rem;color:var(--accent-light)}
+        .contact-link{color:white;text-decoration:none;font-weight:600;font-size:1.1rem;display:flex;align-items:center;gap:.75rem;margin-bottom:.75rem;transition:all .3s;word-break:break-word}
+        .contact-link:hover{color:var(--accent-light);transform:translateX(5px)}
+
+        .modal{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.8);z-index:2000;backdrop-filter:blur(5px);-webkit-backdrop-filter:blur(5px)}
+        .modal.active{display:flex;align-items:center;justify-content:center}
+        .modal-content{max-width:900px;max-height:90vh;background:var(--white);padding:3rem;border-radius:20px;box-shadow:var(--shadow-lg);overflow-y:auto;position:relative;margin:1rem}
+        .modal h2{font-family:'Montserrat',sans-serif;font-size:1.8rem;color:var(--primary)!important;margin-bottom:1.5rem;text-align:left;background:none!important;-webkit-text-fill-color:var(--primary)!important}
+        .modal h3{font-family:'Montserrat',sans-serif;font-size:1.4rem;color:var(--primary)!important;margin:2rem 0 1rem;font-weight:700;background:none!important;-webkit-text-fill-color:var(--primary)!important}
+        .modal p{font-size:1.05rem;line-height:1.8;margin-bottom:1rem;color:#4b5563}
+        .modal ul{margin:1rem 0 1.5rem 0;padding-left:0}
+        .modal li{font-size:1.05rem;line-height:1.8;margin-bottom:.75rem;color:#4b5563;position:relative;padding-left:1.75rem;list-style:none}
+        .modal li::before{content:'';position:absolute;left:0;top:.65rem;width:8px;height:8px;background:var(--accent);border-radius:50%}
+        .modal a{color:var(--primary);text-decoration:underline;text-decoration-skip-ink:auto;transition:color .3s}
+        .modal a:hover{color:var(--primary-light)}
+        .modal .modal-cta a{color:white;text-decoration:none}
+        .close-modal{position:absolute;top:1.5rem;right:1.5rem;background:#f3f4f6;border:none;font-size:1.5rem;color:var(--text-secondary);cursor:pointer;width:44px;height:44px;display:flex;align-items:center;justify-content:center;transition:all .3s;border-radius:50%;line-height:1}
+        .close-modal:hover{color:var(--primary);background:#e5e7eb;transform:rotate(90deg)}
+        .highlight-box{background:linear-gradient(135deg,var(--gray),#e5e7eb);padding:2rem;border-radius:16px;margin:2rem 0;border-left:4px solid var(--accent)}
+        .highlight-box h3{font-family:'Montserrat',sans-serif;font-size:1.2rem;color:var(--primary)!important;-webkit-text-fill-color:var(--primary)!important;margin:0 0 1rem 0!important}
+        .modal-price-badge{display:inline-block;background:var(--gradient-accent);color:white;padding:.5rem 1.5rem;border-radius:50px;font-size:1.3rem;font-weight:700;margin-bottom:1.5rem}
+        .modal-cta{background:var(--gradient-primary);padding:2rem;border-radius:16px;text-align:center;margin-top:2rem}
+        .modal-cta h3{color:white!important;-webkit-text-fill-color:white!important;margin:0 0 .5rem 0!important}
+        .modal-cta p{color:rgba(255,255,255,.9);margin-bottom:1.5rem}
+        .modal-cta .btn-primary{background:var(--gradient-accent)}
+
+        footer{background:var(--dark);color:#9ca3af;text-align:center;padding:3rem 2rem;font-size:.95rem}
+        .footer-links{margin-bottom:1.5rem;display:flex;justify-content:center;flex-wrap:wrap;gap:1rem}
+        .footer-links a{color:#9ca3af;text-decoration:none;transition:color .3s}
+        .footer-links a:hover{color:var(--accent-light)}
+        footer p{line-height:1.7}
+
+        .toast{position:fixed;bottom:100px;right:30px;background:white;padding:1rem 1.5rem;border-radius:12px;box-shadow:var(--shadow-lg);z-index:3000;display:none;align-items:center;gap:1rem;max-width:350px;animation:slideIn .3s}
+        .toast.show{display:flex}
+        @keyframes slideIn{from{transform:translateX(400px);opacity:0}to{transform:translateX(0);opacity:1}}
+        .toast.success{border-left:4px solid #10b981}
+        .toast.error{border-left:4px solid #ef4444}
+        .toast-icon{font-size:1.5rem}
+        .toast.success .toast-icon{color:#10b981}
+        .toast.error .toast-icon{color:#ef4444}
+        .toast-message{flex:1;color:var(--text-primary)}
+
+        .pwa-install-banner{display:none;position:fixed;bottom:0;left:0;right:0;background:var(--gradient-primary);color:white;padding:1rem 2rem;z-index:3001;box-shadow:0 -4px 20px rgba(0,0,0,.2);align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap}
+        .pwa-install-banner.show{display:flex}
+        .pwa-install-banner p{font-weight:600}
+        .pwa-install-btn{background:var(--gradient-accent);color:white;border:none;padding:.6rem 1.5rem;border-radius:50px;font-weight:700;cursor:pointer;font-family:inherit;font-size:.9rem;transition:all .3s}
+        .pwa-install-btn:hover{transform:scale(1.05)}
+        .pwa-install-close{background:none;border:none;color:white;font-size:1.3rem;cursor:pointer;padding:.5rem;opacity:.8;transition:opacity .3s}
+        .pwa-install-close:hover{opacity:1}
+
+        @font-face {
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-display: swap;
+            src: local('Inter'), url(https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2) format('woff2');
+        }
+
+        @media(max-width:768px) {
+            .hero-content {padding-top: 70px;padding-bottom: 70px;}
+            .nav-links:not(.mobile){display:none}
+            .nav-links.mobile{display:none;position:fixed;top:80px;left:0;width:100%;background:rgba(255,255,255,.98);flex-direction:column;padding:2rem;box-shadow:var(--shadow);animation:slideDown .2s ease;list-style:none;gap:1rem}
+            .nav-links.mobile.active{display:flex}
+            @keyframes slideDown{from{opacity:0;transform:translateY(-20px)}to{opacity:1;transform:translateY(0)}}
+            .menu-toggle{display:flex}
+            nav{padding:1rem}
+            .cta-button span{display:none}
+            .cta-button{padding:.7rem 1rem}
+            .hero-buttons{flex-direction:column;align-items:center}
+            .btn-primary,.btn-outline{width:100%;max-width:350px;justify-content:center}
+            .services-tabs{display:grid;grid-template-columns:repeat(2,1fr);gap:.5rem;padding:0 .5rem}
+            .tab{padding:.8rem .5rem;font-size:.85rem;border-radius:12px;white-space:normal;line-height:1.3}
+            .tab.active{transform:none}
+            .service-image{height:120px}
+            .service-image svg{width:60px;height:60px}
+            .service-info{padding:1.25rem}
+            .service-title{font-size:1.15rem}
+            .service-price{font-size:1.4rem;margin-bottom:.75rem}
+            .service-info p{font-size:.9rem;line-height:1.6}
+            .service-info .btn-primary{padding:.9rem 1.5rem;font-size:.9rem;margin-top:1rem}
+            .timeline{margin-top:2rem}
+            .timeline::before{left:25px}
+            .stage{flex-direction:column!important;margin:2rem 0}
+            .stage-content{width:calc(100% - 50px);margin:0 0 0 50px;padding:1.25rem}
+            .stage-content h3{margin-top:0;font-size:1.1rem}
+            .stage-content p{font-size:.9rem;margin-top:.3rem}
+            .stage-number{left:25px!important;top:0;width:40px;height:40px;font-size:1rem}
+            .back-to-top{bottom:20px;right:20px;width:50px;height:50px;font-size:1.2rem}
+            .chat-widget{bottom:80px;right:20px}
+            .chat-toggle{width:50px;height:50px;font-size:1.2rem}
+            .chat-option{padding:8px 14px;font-size:.85rem}
+            .contact-link{font-size:1rem;justify-content:flex-start}
+            .services-grid{grid-template-columns:1fr;gap:1.5rem}
+            section{padding:4rem 1rem}
+            .contacts{padding:4rem 1rem}
+            .footer-links{flex-direction:column;gap:.75rem}
+            .footer-links a{display:block;padding:.5rem 0;font-size:1rem}
+            footer p{font-size:.85rem}
+            .modal-content{padding:2rem 1.5rem;margin:.5rem}
+            .modal h2{font-size:1.4rem;padding-right:3rem}
+            .modal h3{font-size:1.2rem}
+            .modal p,.modal li{font-size:.95rem}
+            .close-modal{top:1rem;right:1rem;width:40px;height:40px;font-size:1.3rem}
+            .toast{right:10px;left:10px;bottom:90px;max-width:none}
+        }
+        @media(max-width:480px){
+            .hero h1{font-size:2.2rem}
+            .tab{padding:.7rem .4rem;font-size:.8rem}
+            .service-image{height:100px}
+            .service-image svg{width:50px;height:50px}
+            .service-info{padding:1rem}
+            .service-title{font-size:1.1rem}
+            .service-price{font-size:1.3rem}
+            .service-info p{font-size:.85rem}
+            .service-info .btn-primary{padding:.8rem 1.25rem;font-size:.85rem}
+            .stage{margin:1.5rem 0}
+            .stage-content{margin-left:45px;width:calc(100% - 45px);padding:1rem}
+            .stage-content h3{font-size:1rem}
+            .stage-content p{font-size:.85rem}
+            .stage-number{width:35px;height:35px;font-size:.9rem;left:20px!important}
+            .timeline::before{left:20px}
+            .contact-link{font-size:.95rem;flex-wrap:wrap;gap:.5rem}
+            footer p{font-size:.8rem;padding:0 .5rem}
+        }
+
+        @media(min-width:1920px) {
+            .hero {background-size: cover;background-position: center;}
+            .hero-content {max-width: 1200px;}
+        }
+
+        @media(prefers-reduced-motion:reduce){
+            *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+            html{scroll-behavior:auto}
+        }
+        @media print{
+            header,.back-to-top,.chat-widget,.modal,.hero-buttons,.btn-primary,.btn-details,.toast,.pwa-install-banner{display:none!important}
+            body{font-size:12pt;line-height:1.5;color:black}
+            .hero{min-height:auto;padding:2rem;background:white!important;color:black!important}
+            .hero h1{color:black}
+            section{page-break-inside:avoid;padding:1rem;content-visibility:visible}
+            h2{color:black!important;-webkit-text-fill-color:black!important}
+        }
+
+        .critical-content {display: block !important;content-visibility: auto;contain-intrinsic-size: auto 500px;}
+    </style>
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Перейти к основному содержимому</a>
+
+    <header role="banner">
+        <nav role="navigation" aria-label="Основная навигация">
+            <a href="#home" class="logo" aria-label="Таткадастр - на главную">Таткадастр</a>
+            <ul class="nav-links" aria-label="Основное меню">
+                <li><a href="#services">Услуги</a></li>
+                <li><a href="#benefits">Преимущества</a></li>
+                <li><a href="#stages">Этапы</a></li>
+                <li><a href="#contacts">Контакты</a></li>
+                <li><a href="https://project20740686.tilda.ws/articles">Статьи</a></li>
+                <li><a href="#" data-modal="privacyModal">Политика</a></li>
+                <li><a href="#" data-modal="consentModal">Согласие ПДн</a></li>
+            </ul>
+            <ul class="nav-links mobile" id="mobileNav" aria-label="Мобильное меню">
+                <li><a href="#services">Услуги</a></li>
+                <li><a href="#benefits">Преимущества</a></li>
+                <li><a href="#stages">Этапы</a></li>
+                <li><a href="#contacts">Контакты</a></li>
+                <li><a href="https://project20740686.tilda.ws/articles">Статьи</a></li>
+                <li><a href="#" data-modal="privacyModal">Политика</a></li>
+                <li><a href="#" data-modal="consentModal">Согласие ПДн</a></li>
+            </ul>
+            <button class="menu-toggle" id="menuToggle" aria-label="Открыть меню" aria-expanded="false" aria-controls="mobileNav">
+                <span></span><span></span><span></span>
+            </button>
+            <a href="tel:+79377762711" class="cta-button" aria-label="Позвонить: +7 937 776 27 11">
+                <i class="fas fa-phone" aria-hidden="true"></i><span>+7 937 776 27 11</span>
+            </a>
+        </nav>
+    </header>
+
+    <button class="back-to-top" id="backToTop" aria-label="Вернуться наверх">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <div class="chat-widget" id="chatWidget">
+        <div class="chat-options" id="chatOptions">
+            <a href="https://t.me/tatkadastr116" class="chat-option telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram" data-goal="telegram_click">
+                <i class="fab fa-telegram-plane" aria-hidden="true"></i> Написать
+            </a>
+            <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="chat-option messengers" target="_blank" rel="noopener noreferrer" aria-label="Max" data-goal="max_click">
+                <i class="fas fa-comment-dots" aria-hidden="true"></i> Max
+            </a>
+            <a href="tel:+79377762711" class="chat-option phone" aria-label="Позвонить" data-goal="phone_click">
+                <i class="fas fa-phone" aria-hidden="true"></i> Позвонить
+            </a>
+        </div>
+        <button class="chat-toggle" id="chatToggle" aria-label="Открыть чат" aria-expanded="false">
+            <i class="fas fa-comments" aria-hidden="true"></i>
+            <span class="chat-badge" aria-hidden="true"></span>
+        </button>
+    </div>
+
+    <div class="toast" id="toast" role="alert" aria-live="polite">
+        <i class="toast-icon fas fa-check-circle" aria-hidden="true"></i>
+        <div class="toast-message"></div>
+    </div>
+
+    <div class="pwa-install-banner" id="pwaInstallBanner" role="alert">
+        <p><i class="fas fa-download" aria-hidden="true"></i> Установите Таткадастр на главный экран</p>
+        <button class="pwa-install-btn" id="pwaInstallBtn">Установить</button>
+        <button class="pwa-install-close" id="pwaInstallClose" aria-label="Закрыть">&times;</button>
+    </div>
+
+    <main id="main-content">
+        <section id="home" class="hero critical-content" aria-labelledby="hero-title">
+            <div class="hero-content">
+                <div class="hero-badge"><i class="fas fa-crown" aria-hidden="true"></i> С 2013 года</div>
+                <h1 id="hero-title" lang="ru">Технический план и техпаспорт БТИ в Казани</h1>
+                <p class="hero-subtitle" lang="ru">Технические планы и технические паспорта от 1 дня. <strong>Гарантия результата. Бесплатная консультация.</strong></p>
+                <div class="hero-buttons">
+                    <a href="#contacts" class="btn-primary" aria-label="Бесплатная консультация"><i class="fas fa-headset" aria-hidden="true"></i><span>Бесплатная консультация</span></a>
+                    <a href="#services" class="btn-outline" aria-label="Все услуги и цены"><i class="fas fa-list-check" aria-hidden="true"></i><span>Все услуги и цены</span></a>
+                </div>
+            </div>
+        </section>
+
+        <section id="benefits" aria-labelledby="benefits-title">
+            <h2 id="benefits-title">Почему выбирают Таткадастр</h2>
+            <p class="section-subtitle">13 лет опыта. 7000+ объектов. Работаем в Казани и пригороде.</p>
+            <div class="benefits-grid">
+                <article class="benefit-card">
+                    <div class="benefit-icon" aria-hidden="true"><i class="fas fa-clock"></i></div>
+                    <h3>Сроки от 1 дня</h3>
+                    <p>Самые быстрые сроки в Казани. Готовые документы уже завтра при наличии доступа к объекту.</p>
+                </article>
+                <article class="benefit-card">
+                    <div class="benefit-icon" aria-hidden="true"><i class="fas fa-building"></i></div>
+                    <h3>С 2013 года</h3>
+                    <p>Более 7000 выполненных объектов в Казани и пригороде. Знаем все нюансы законодательства.</p>
+                </article>
+                <article class="benefit-card">
+                    <div class="benefit-icon" aria-hidden="true"><i class="fas fa-shield-alt"></i></div>
+                    <h3>Гарантия результата</h3>
+                    <p>Работаем до получения выписки из ЕГРН. Сопровождаем на всех этапах.</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="services" aria-labelledby="services-title">
+            <h2 id="services-title">Услуги и цены</h2>
+            <p class="section-subtitle">Точные сроки и стоимость после бесплатной консультации.</p>
+            <div class="services-tabs" role="tablist" aria-label="Категории услуг">
+                <button class="tab active" role="tab" id="tab-plans" aria-selected="true" aria-controls="panel-plans" tabindex="0" data-tab="plans">Тех.планы</button>
+                <button class="tab" role="tab" id="tab-invent" aria-selected="false" aria-controls="panel-invent" tabindex="-1" data-tab="invent">Тех.паспорта</button>
+                <button class="tab" role="tab" id="tab-cadastre" aria-selected="false" aria-controls="panel-cadastre" tabindex="-1" data-tab="cadastre">Росреестр</button>
+                <button class="tab" role="tab" id="tab-inspection" aria-selected="false" aria-controls="panel-inspection" tabindex="-1" data-tab="inspection">Акт обследования</button>
+                <button class="tab" role="tab" id="tab-geodesy" aria-selected="false" aria-controls="panel-geodesy" tabindex="-1" data-tab="geodesy">Геодезия</button>
+                <button class="tab" role="tab" id="tab-certificates" aria-selected="false" aria-controls="panel-certificates" tabindex="-1" data-tab="certificates">Справки</button>
+                <button class="tab" role="tab" id="tab-delivery" aria-selected="false" aria-controls="panel-delivery" tabindex="-1" data-tab="delivery">Доставка</button>
+            </div>
+
+            <div id="panel-plans" class="services-content active" role="tabpanel" aria-labelledby="tab-plans">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на дом</h3>
+                            <button class="btn-details" data-modal="techplanModal" aria-haspopup="dialog"><i class="fas fa-info-circle" aria-hidden="true"></i> <span>Подробнее</span> <i class="fas fa-arrow-right" aria-hidden="true"></i></button>
+                            <div class="service-price">от 6 000 ₽</div>
+                            <p>Жилые и садовые дома. Постановка на учёт, дачная амнистия, уведомительный порядок оформления. Выезд кадастрового инженера для обмеров.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image dark-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на здание / сооружение</h3>
+                            <div class="service-price">от 6 000 ₽</div>
+                            <p>Коммерческие здания, производственные объекты, сооружения. Расчёт индивидуально по площади и сложности.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image light-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 22H2V10l7-3v2l5-2v3l8-3v15zM12 9.95l-5 2V10l-3 1.32V20h16V8.97l-5.62 2.25L12 9.95zM11 18h2v-4h-2v4zm-4 0h2v-4H7v4zm10-4h-2v4h2v-4z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на объект незавершённого строительства</h3>
+                            <div class="service-price">от 6 000 ₽</div>
+                            <p>Недострой, объекты в стадии строительства. Постановка на кадастровый учёт для оформления права собственности или продажи.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image accent"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M17 11V3H7v4H3v14h8v-4h2v4h8V11h-4zM7 19H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm4 4H9v-2h2v2zm0-4H9V9h2v2zm0-4H9V5h2v2zm4 8h-2v-2h2v2zm0-4h-2V9h2v2zm0-4h-2V5h2v2zm4 12h-2v-2h2v2zm0-4h-2v-2h2v2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на квартиру</h3>
+                            <div class="service-price">от 4 500 ₽</div>
+                            <p>Новостройки, вторичное жильё. Постановка на кадастровый учёт, регистрация права собственности в ЕГРН.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image mixed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на нежилое помещение</h3>
+                            <div class="service-price">от 3 500 ₽</div>
+                            <p>Офисы, магазины, склады. Выделение, раздел помещения, смена назначения, постановка на учёт коммерческой недвижимости.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на гараж</h3>
+                            <div class="service-price">от 6 000 ₽</div>
+                            <p>Гаражи, гаражные боксы в ГСК. Оформление по гаражной амнистии, постановка на кадастровый учёт.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image dark-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 19h10V4H7v15zm-5-2h4V6H2v11zM18 6v11h4V6h-4z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на баню / хозпостройку</h3>
+                            <div class="service-price">от 6 000 ₽</div>
+                            <p>Бани, сараи, хозблоки, беседки. Регистрация вспомогательных построек на земельном участке.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image light-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M13 13v8h8v-8h-8zM3 21h8v-8H3v8zM3 3v8h8V3H3zm13.66-1.31L11 7.34 16.66 13l5.66-5.66-5.66-5.65z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план на машиноместо</h3>
+                            <div class="service-price">от 5 000 ₽</div>
+                            <p>Подземные и наземные паркинги. Выделение машиноместа, постановка на кадастровый учёт.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image accent"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12h-2v3h-3v2h5v-5zM7 9h3V7H5v5h2V9zm14-6H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16.01H3V4.99h18v14.02z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Технический план при перепланировке</h3>
+                            <div class="service-price">от 5 000 ₽</div>
+                            <p>Узаконивание перепланировки, внесение изменений в ЕГРН. Актуализация сведений после реконструкции.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div id="panel-invent" class="services-content" role="tabpanel" aria-labelledby="tab-invent">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image dark-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Техническая инвентаризация БТИ</h3>
+                            <button class="btn-details" data-modal="techpassportModal" aria-haspopup="dialog"><i class="fas fa-info-circle" aria-hidden="true"></i> <span>Подробнее о техпаспорте</span> <i class="fas fa-arrow-right" aria-hidden="true"></i></button>
+                            <div class="service-price">от 4 000 ₽</div>
+                            <p>Обследование объектов недвижимости. Подготовка и актуализация техпаспортов для домов, квартир, нежилых помещений.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Техпаспорт на жилой (садовый) дом</h3>
+                            <div class="service-price">от 4 000 ₽</div>
+                            <p>Технический паспорт БТИ на частный жилой или садовый дом. Необходим для оформления купли-продажи, ипотеки, дарения, вступления в наследство.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image accent"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M17 11V3H7v4H3v14h8v-4h2v4h8V11h-4zM7 19H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm4 4H9v-2h2v2zm0-4H9V9h2v2zm0-4H9V5h2v2zm4 8h-2v-2h2v2zm0-4h-2V9h2v2zm0-4h-2V5h2v2zm4 12h-2v-2h2v2zm0-4h-2v-2h2v2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Техпаспорт на квартиру</h3>
+                            <div class="service-price">от 4 000 ₽</div>
+                            <p>Технический паспорт на квартиру в новостройке или вторичном жилье. Требуется банком для оформления ипотеки, при продаже квартиры.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image green"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 19h10V4H7v15zm-5-2h4V6H2v11zM18 6v11h4V6h-4z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Техпаспорт на хоз.постройку</h3>
+                            <div class="service-price">от 4 000 ₽</div>
+                            <p>Технический паспорт БТИ на баню, гараж, сарай, хозблок. Для оформления права собственности, продажи участка с постройками.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image light-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3v18h18V3H3zm16 16H5V5h14v14zM11 7h2v2h-2zm0 4h2v6h-2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Поэтажный план БТИ</h3>
+                            <div class="service-price">от 3 000 ₽</div>
+                            <p>Актуальные планы этажей для продажи, обмена, оформления ипотеки.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                    <article class="service-card">
+                        <div class="service-image mixed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Экспликация помещений</h3>
+                            <div class="service-price">от 2 500 ₽</div>
+                            <p>Таблица площадей помещений с разбивкой по типам для отчетности.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div id="panel-cadastre" class="services-content" role="tabpanel" aria-labelledby="tab-cadastre">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image dark-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Постановка на кадастровый учёт</h3>
+                            <button class="btn-details" data-modal="rosreestrModal" aria-haspopup="dialog"><i class="fas fa-info-circle" aria-hidden="true"></i> <span>Подробнее об услуге</span> <i class="fas fa-arrow-right" aria-hidden="true"></i></button>
+                            <div class="service-price">от 1 500 ₽</div>
+                            <p>Электронная подача документов в Росреестр. Срок регистрации от 2 дней. Без очередей и бюрократии.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div id="panel-inspection" class="services-content" role="tabpanel" aria-labelledby="tab-inspection">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Акт обследования</h3>
+                            <div class="service-price">от 3 500 ₽</div>
+                            <p>Документ для снятия объекта с кадастрового учёта. Подтверждает отсутствие здания или сооружения на участке.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div id="panel-geodesy" class="services-content" role="tabpanel" aria-labelledby="tab-geodesy">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image light-blue"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Геодезические работы</h3>
+                            <div class="service-price">от 3 000 ₽</div>
+                            <p>Вынос границ участка в натуру. Закрепление поворотных точек межевыми знаками на местности.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div id="panel-certificates" class="services-content" role="tabpanel" aria-labelledby="tab-certificates">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image mixed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zM6 20V4h7v5h5v11H6z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Справки и заключения</h3>
+                            <div class="service-price">от 2 000 ₽</div>
+                            <p>Заключение о наличии/отсутствии строений на участке. Справки о характеристиках объекта для сделок и наследства.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div id="panel-delivery" class="services-content" role="tabpanel" aria-labelledby="tab-delivery">
+                <div class="services-grid">
+                    <article class="service-card">
+                        <div class="service-image accent"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zM6 18.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm13.5-9l1.96 2.5H17V9.5h2.5zm-1.5 9c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg></div>
+                        <div class="service-info">
+                            <h3 class="service-title">Доставка документов</h3>
+                            <div class="service-price">от 500 ₽</div>
+                            <p>Курьерская доставка готовых документов по Казани в удобное для вас время.</p>
+                            <a href="#contacts" class="btn-primary"><i class="fas fa-shopping-cart" aria-hidden="true"></i> <span>Заказать</span></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="stages" class="stages" aria-labelledby="stages-title">
+            <div class="stages-inner">
+                <h2 id="stages-title">Этапы работы</h2>
+                <p class="section-subtitle">Прозрачный процесс от заявки до результата</p>
+                <div class="timeline">
+                    <div class="stage"><div class="stage-number" aria-hidden="true">1</div><div class="stage-content"><h3>Заявка и консультация</h3><p>Позвоните или напишите в мессенджер. Бесплатная оценка сроков и стоимости.</p></div></div>
+                    <div class="stage"><div class="stage-number" aria-hidden="true">2</div><div class="stage-content"><h3>Заключение договора</h3><p>Фиксируем сроки, стоимость и назначаем ответственного инженера.</p></div></div>
+                    <div class="stage"><div class="stage-number" aria-hidden="true">3</div><div class="stage-content"><h3>Выполнение работ</h3><p>Выезд на объект, обмеры, подготовка документации. Согласование перед подачей.</p></div></div>
+                    <div class="stage"><div class="stage-number" aria-hidden="true">4</div><div class="stage-content"><h3>Результат</h3><p>Готовые документы + сопровождение до получения выписки из ЕГРН.</p></div></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contacts" class="contacts" aria-labelledby="contacts-title">
+            <h2 id="contacts-title">Контакты в Казани</h2>
+            <p class="section-subtitle">Ответим в рабочее время. Бесплатная консультация.</p>
+            <div class="contact-grid">
+                <div class="contact-item">
+                    <h3><i class="fas fa-phone" aria-hidden="true"></i> Телефон</h3>
+                    <a href="tel:+79377762711" class="contact-link" data-goal="phone_click"><i class="fas fa-phone" aria-hidden="true"></i> <span>+7 937 776 27 11</span></a>
+                </div>
+                <div class="contact-item">
+                    <h3><i class="fas fa-envelope" aria-hidden="true"></i> Email</h3>
+                    <a href="mailto:kadastr.116@yandex.ru" class="contact-link" data-goal="email_click"><i class="fas fa-envelope" aria-hidden="true"></i> <span>kadastr.116@yandex.ru</span></a>
+                </div>
+                <div class="contact-item">
+                    <h3><i class="fas fa-comments" aria-hidden="true"></i> Мессенджеры</h3>
+                    <a href="https://t.me/tatkadastr116" class="contact-link" target="_blank" rel="noopener noreferrer" data-goal="telegram_click"><i class="fab fa-telegram-plane" aria-hidden="true"></i> <span>Написать</span></a>
+                    <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="contact-link" target="_blank" rel="noopener noreferrer" data-goal="max_click"><i class="fas fa-comment-dots" aria-hidden="true"></i> <span>Max: написать</span></a>
+                </div>
+                <div class="contact-item">
+                    <h3><i class="fas fa-share-alt" aria-hidden="true"></i> Соцсети</h3>
+                    <a href="https://t.me/tatkadastr" class="contact-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram" aria-hidden="true"></i> <span>Telegram канал</span></a>
+                    <a href="https://m.vk.com/club43451793" class="contact-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-vk" aria-hidden="true"></i> <span>Группа ВКонтакте</span></a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- МОДАЛЬНЫЕ ОКНА -->
+    <div id="techplanModal" class="modal" role="dialog" aria-labelledby="techplanTitle" aria-modal="true">
+        <div class="modal-content">
+            <button class="close-modal" data-close-modal aria-label="Закрыть">&times;</button>
+            <h2 id="techplanTitle">Технический план в Казани</h2>
+            <div class="modal-price-badge">от 4 500 ₽</div>
+            <p><strong>Технический план</strong> — это электронный документ в формате XML, который подготавливает <strong>кадастровый инженер</strong> — специалист с действующим квалификационным аттестатом. Только кадастровый инженер уполномочен проводить обмеры объекта, фиксировать его точные координаты и характеристики, заверять технический план своей усиленной квалифицированной электронной подписью (УКЭП) и направлять его в Росреестр.</p>
+            <p>В ООО «Таткадастр» работают аттестованные кадастровые инженеры с опытом более 12 лет. Мы готовим технические планы на все типы объектов: квартиры, жилые дома, нежилые помещения, здания, сооружения, машиноместа — в Казани и пригороде.</p>
+            <h3>Когда нужен технический план?</h3>
+            <ul>
+                <li>Постановка на кадастровый учёт нового объекта (дом, квартира, гараж, баня, склад)</li>
+                <li>Регистрация права собственности на объект недвижимости</li>
+                <li>Внесение изменений в ЕГРН после реконструкции или перепланировки</li>
+                <li>Раздел, объединение, выдел помещений</li>
+                <li>Исправление кадастровой ошибки</li>
+                <li>Оформление машиноместа в подземном паркинге</li>
+                <li>Постановка на учёт объекта незавершённого строительства</li>
+            </ul>
+            <div class="highlight-box">
+                <h3>Наши преимущества</h3>
+                <ul>
+                    <li><strong>Аттестованные кадастровые инженеры</strong> — с опытом работы более 12 лет</li>
+                    <li><strong>Лазерное 3D-сканирование</strong> — идеальная точность измерений</li>
+                    <li><strong>Онлайн-доступ</strong> — мгновенное получение XML-файла для Росреестра</li>
+                    <li><strong>Казань и пригород</strong> — выезжаем в ближайшие районы</li>
+                    <li><strong>Гарантия регистрации</strong> — сопровождаем до получения выписки ЕГРН</li>
+                </ul>
+            </div>
+            <div class="modal-cta">
+                <h3>Закажите технический план</h3>
+                <p>Кадастровый инженер свяжется с вами для бесплатной консультации!</p>
+                <a href="#contacts" class="btn-primary" data-close-modal><i class="fas fa-paper-plane" aria-hidden="true"></i> <span>Оставить заявку</span></a>
+            </div>
+        </div>
+    </div>
+
+    <div id="techpassportModal" class="modal" role="dialog" aria-labelledby="techpassportTitle" aria-modal="true">
+        <div class="modal-content">
+            <button class="close-modal" data-close-modal aria-label="Закрыть">&times;</button>
+            <h2 id="techpassportTitle">Технический паспорт БТИ в Казани</h2>
+            <div class="modal-price-badge">от 4 000 ₽</div>
+            <p><strong>Технический паспорт</strong> — официальный документ с полной информацией об объекте: площадь, планировка, конструктивные элементы. Мы готовим техпаспорта на квартиры, дома и нежилые помещения в Казани и пригороде.</p>
+            <p>Незаменим для сделок купли-продажи, оформления ипотеки, наследства или перепланировки.</p>
+            <h3>Когда требуется техпаспорт БТИ?</h3>
+            <ul>
+                <li>Продажа квартиры, дома или другой недвижимости</li>
+                <li>Оформление ипотечного кредита в банке</li>
+                <li>Вступление в наследство на объект недвижимости</li>
+                <li>Узаконивание перепланировки помещения</li>
+                <li>Оценка недвижимости для различных целей</li>
+                <li>Приватизация жилья</li>
+                <li>Судебные разбирательства по недвижимости</li>
+            </ul>
+            <div class="highlight-box">
+                <h3>Возможности Таткадастр</h3>
+                <ul>
+                    <li><strong>3D-сканирование</strong> — точность для сложных объектов</li>
+                    <li><strong>Экспресс-выдача</strong> — бумажный и электронный формат</li>
+                    <li><strong>Казань и пригород</strong> — выезжаем в ближайшие районы</li>
+                    <li><strong>Техпаспорт на дом</strong> — жилые и садовые дома от 4000 ₽</li>
+                    <li><strong>Техпаспорт на квартиру</strong> — новостройки и вторичка от 4000 ₽</li>
+                    <li><strong>Техпаспорт на хозпостройку</strong> — бани, гаражи, сараи от 4000 ₽</li>
+                </ul>
+            </div>
+            <div class="modal-cta">
+                <h3>Готовы к инвентаризации?</h3>
+                <p>Оформим техпаспорт оперативно!</p>
+                <a href="#contacts" class="btn-primary" data-close-modal><i class="fas fa-paper-plane" aria-hidden="true"></i> <span>Оставить заявку</span></a>
+            </div>
+        </div>
+    </div>
+
+    <div id="rosreestrModal" class="modal" role="dialog" aria-labelledby="rosreestrTitle" aria-modal="true">
+        <div class="modal-content">
+            <button class="close-modal" data-close-modal aria-label="Закрыть">&times;</button>
+            <h2 id="rosreestrTitle">Подача в Росреестр в Казани</h2>
+            <div class="modal-price-badge">от 1 500 ₽</div>
+            <p>Берём на себя подачу технического плана в Росреестр — от подготовки XML до получения выписки ЕГРН.</p>
+            <h3>Почему доверить нам?</h3>
+            <p>Забудьте о поездках в МФЦ. Подаём документы онлайн, регистрация от 2 дней.</p>
+            <div class="highlight-box">
+                <h3>Что входит в услугу</h3>
+                <ul>
+                    <li>Подготовка техплана по требованиям Росреестра</li>
+                    <li>Электронная подача через ЕСИА</li>
+                    <li>Контроль статуса регистрации</li>
+                    <li>Доставка выписки ЕГРН на email</li>
+                </ul>
+            </div>
+            <div class="modal-cta">
+                <h3>Закажите подачу сегодня</h3>
+                <p>Зарегистрируем право быстро и надёжно!</p>
+                <a href="#contacts" class="btn-primary" data-close-modal><i class="fas fa-paper-plane" aria-hidden="true"></i> <span>Оставить заявку</span></a>
+            </div>
+        </div>
+    </div>
+
+    <div id="privacyModal" class="modal" role="dialog" aria-labelledby="privacyTitle" aria-modal="true">
+        <div class="modal-content">
+            <button class="close-modal" data-close-modal aria-label="Закрыть">&times;</button>
+            <h2 id="privacyTitle">Политика в отношении обработки персональных данных</h2>
+            <p><strong>Утверждена: 01.01.2025 г.</strong></p>
+            <p>Настоящая Политика разработана в соответствии с Федеральным законом от 27.07.2006 № 152-ФЗ «О персональных данных» и определяет порядок обработки персональных данных <strong>ООО «Таткадастр»</strong> (далее — «Оператор»).</p>
+            <h3>1. Общие положения</h3>
+            <p>1.1. Оператор: <strong>ООО «Таткадастр»</strong>, ИНН 1624445860.</p>
+            <p>1.2. Политика действует в отношении всех персональных данных, получаемых через сайт <strong>таткадастр.рф</strong>, по телефону, email, в мессенджерах и при личном обращении.</p>
+            <p>1.3. Использование сайта означает согласие с настоящей Политикой.</p>
+            <h3>2. Персональные данные</h3>
+            <ul><li>Фамилия, имя, отчество</li><li>Дата рождения</li><li>Паспортные данные</li><li>Адрес регистрации и фактического проживания</li><li>Номер телефона</li><li>Email</li><li>СНИЛС (при необходимости)</li><li>Сведения об объектах недвижимости</li><li>Реквизиты правоустанавливающих документов</li><li>Иные данные, добровольно предоставленные Пользователем</li></ul>
+            <p>Также обрабатываются обезличенные данные (cookie, данные Яндекс Метрики).</p>
+            <h3>3. Цели обработки</h3>
+            <ul><li>Приём и обработка заявок</li><li>Идентификация Пользователя</li><li>Заключение, исполнение и прекращение договоров</li><li>Связь с Пользователем</li><li>Подготовка документации</li><li>Подача документов в Росреестр, МФЦ и иные госорганы</li><li>Улучшение качества обслуживания</li><li>Выполнение требований законодательства РФ</li></ul>
+            <h3>4. Правовые основания</h3>
+            <ul><li>ФЗ-152 «О персональных данных»</li><li>ФЗ-218 «О государственной регистрации недвижимости»</li><li>Гражданский кодекс РФ</li><li>Договоры между Оператором и субъектом ПДн</li><li>Согласие субъекта ПДн</li></ul>
+            <h3>5. Порядок обработки</h3>
+            <p>Сбор, запись, систематизация, накопление, хранение, уточнение, извлечение, использование, передача, обезличивание, блокирование, удаление, уничтожение — с использованием средств автоматизации и без них.</p>
+            <h3>6. Передача третьим лицам</h3>
+            <ul><li>При согласии Пользователя</li><li>Для исполнения договора (кадастровым инженерам, геодезистам, оценщикам)</li><li>В случаях, предусмотренных законодательством (Росреестр, МФЦ, БТИ, суд)</li><li>Для защиты прав Оператора</li></ul>
+            <p>Трансграничная передача не осуществляется.</p>
+            <h3>7. Безопасность</h3>
+            <p>Оператор принимает организационные и технические меры для защиты персональных данных.</p>
+            <h3>8. Сроки хранения</h3>
+            <p>До достижения целей обработки. По истечении — данные уничтожаются.</p>
+            <h3>9. Права субъекта ПДн</h3>
+            <ul><li>Получать информацию об обработке</li><li>Требовать уточнения, блокирования или уничтожения</li><li>Отозвать согласие</li><li>Обжаловать в Роскомнадзор или суд</li></ul>
+            <h3>10. Актуализация</h3>
+            <p>Актуальная версия — на сайте таткадастр.рф.</p>
+            <div class="highlight-box">
+                <h3>Контактные данные Оператора</h3>
+                <p><strong>ООО «Таткадастр»</strong></p>
+                <p>ИНН: 1624445860</p>
+                <p>Телефон: <a href="tel:+79377762711">+7 937 776 27 11</a></p>
+                <p>Email: <a href="mailto:kadastr.116@yandex.ru">kadastr.116@yandex.ru</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div id="consentModal" class="modal" role="dialog" aria-labelledby="consentTitle" aria-modal="true">
+        <div class="modal-content">
+            <button class="close-modal" data-close-modal aria-label="Закрыть">&times;</button>
+            <h2 id="consentTitle">Согласие на обработку персональных данных</h2>
+            <p>Настоящим я (далее — <strong>«Субъект персональных данных»</strong>), в соответствии со ст. 9 ФЗ от 27.07.2006 № 152-ФЗ «О персональных данных», свободно, своей волей и в своём интересе даю согласие <strong>ООО «Таткадастр»</strong> (ИНН 1624445860), далее — <strong>«Оператор»</strong>, на обработку моих персональных данных на следующих условиях:</p>
+            <h3>1. Перечень персональных данных</h3>
+            <ul><li>Фамилия, имя, отчество</li><li>Дата рождения</li><li>Паспортные данные</li><li>Адрес регистрации и фактического проживания</li><li>Номер телефона</li><li>Email</li><li>СНИЛС (при необходимости)</li><li>Сведения об объектах недвижимости</li><li>Реквизиты правоустанавливающих документов</li><li>Иные данные, добровольно предоставленные Субъектом</li></ul>
+            <h3>2. Цели обработки</h3>
+            <ul><li>Приём и обработка заявок</li><li>Заключение, исполнение и прекращение договоров</li><li>Идентификация Субъекта</li><li>Связь с Субъектом</li><li>Подготовка документации</li><li>Подача документов в Росреестр, МФЦ и иные госорганы</li><li>Выполнение требований законодательства РФ</li></ul>
+            <h3>3. Перечень действий</h3>
+            <p>Сбор, запись, систематизация, накопление, хранение, уточнение, извлечение, использование, передача, обезличивание, блокирование, удаление, уничтожение.</p>
+            <h3>4. Способы обработки</h3>
+            <p>С использованием средств автоматизации и без них (на бумажных носителях).</p>
+            <h3>5. Передача третьим лицам</h3>
+            <ul><li>При согласии Субъекта</li><li>В случаях, предусмотренных законодательством</li><li>Для исполнения договора (кадастровым инженерам, геодезистам, оценщикам)</li><li>В Росреестр, МФЦ, БТИ, суды и иные госорганы</li></ul>
+            <p>Трансграничная передача не осуществляется.</p>
+            <h3>6. Срок действия</h3>
+            <p>С момента предоставления до достижения целей обработки или до отзыва. По истечении договора — <strong>3 года</strong>.</p>
+            <h3>7. Порядок отзыва</h3>
+            <p>Письменное заявление на <a href="mailto:kadastr.116@yandex.ru">kadastr.116@yandex.ru</a> с темой <em>«Отзыв согласия на обработку ПДн»</em>. Срок уничтожения — до <strong>30 дней</strong>.</p>
+            <h3>8. Защита данных</h3>
+            <p>Оператор принимает необходимые организационные и технические меры защиты.</p>
+            <h3>9. Заключительные положения</h3>
+            <p>Согласие является <strong>конкретным, информированным и сознательным</strong>. Субъект ознакомлен с <a href="#" data-switch-modal="privacyModal">Политикой обработки ПДн</a> Оператора.</p>
+            <div class="highlight-box">
+                <h3>Контактные данные Оператора</h3>
+                <p><strong>ООО «Таткадастр»</strong></p>
+                <p>ИНН: 1624445860</p>
+                <p>Телефон: <a href="tel:+79377762711">+7 937 776 27 11</a></p>
+                <p>Email: <a href="mailto:kadastr.116@yandex.ru">kadastr.116@yandex.ru</a></p>
+            </div>
+            <p style="margin-top:2rem;font-size:.9rem;color:#9ca3af"><em>Пользуясь сайтом таткадастр.рф, вы подтверждаете, что ознакомлены с настоящим Согласием и <a href="#" data-switch-modal="privacyModal">Политикой обработки ПДн</a>.</em></p>
+        </div>
+    </div>
+
+    <footer role="contentinfo">
+        <div class="footer-links">
+            <a href="#services">Услуги</a>
+            <a href="#contacts">Контакты</a>
+            <a href="https://project20740686.tilda.ws/articles">Статьи</a>
+            <a href="#" data-modal="privacyModal">Политика конфиденциальности</a>
+            <a href="#" data-modal="consentModal">Согласие на обработку ПДн</a>
+        </div>
+        <p>© 2025 ООО «Таткадастр». ИНН 1624445860. Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде с 2013 года.</p>
+    </footer>
+
+    <script type="text/javascript">
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+       ym(106426795,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/106426795" style="position:absolute;left:-9999px;" alt=""/></div></noscript>
+
+    <script>
+    (function(){
+        'use strict';
+        var elements={menuToggle:document.getElementById('menuToggle'),mobileNav:document.getElementById('mobileNav'),backToTop:document.getElementById('backToTop'),toast:document.getElementById('toast'),chatWidget:document.getElementById('chatWidget'),chatToggle:document.getElementById('chatToggle'),body:document.body};
+        var state={currentModal:null,lastFocusedElement:null,isMenuOpen:false,isChatOpen:false,focusTrapHandler:null};
+
+        function debounce(fn,w){var t;return function(){var a=arguments,c=this;clearTimeout(t);t=setTimeout(function(){fn.apply(c,a)},w)}}
+        function showToast(msg,type){type=type||'success';if(!elements.toast)return;var m=elements.toast.querySelector('.toast-message'),i=elements.toast.querySelector('.toast-icon');if(m)m.textContent=msg;elements.toast.className='toast show '+type;if(i)i.className='toast-icon fas '+(type==='success'?'fa-check-circle':'fa-exclamation-circle');setTimeout(function(){elements.toast.classList.remove('show')},3000)}
+        function trackGoal(g){try{if(typeof ym==='function')ym(106426795,'reachGoal',g)}catch(e){}}
+
+        function initAnalytics(){
+            document.addEventListener('click',function(e){var g=e.target.closest('[data-goal]');if(g)trackGoal(g.dataset.goal)});
+            var tracked=false,cs=document.getElementById('contacts');
+            if(cs&&'IntersectionObserver' in window){
+                var obs=new IntersectionObserver(function(entries){entries.forEach(function(en){if(en.isIntersecting&&!tracked){tracked=true;trackGoal('scroll_to_contacts')}})},{threshold:.3});
+                obs.observe(cs)
+            }
+        }
+
+        function initSmoothScroll(){
+            document.querySelectorAll('a[href^="#"]').forEach(function(a){
+                a.addEventListener('click',function(e){var h=this.getAttribute('href');if(h!=='#'&&!this.dataset.modal&&!this.dataset.switchModal&&!this.hasAttribute('data-close-modal')){e.preventDefault();var t=document.querySelector(h);if(t){t.scrollIntoView({behavior:'smooth'});closeMobileMenu()}}})
+            })
+        }
+
+        function openModal(id){
+            try{var m=document.getElementById(id);if(!m)return;state.lastFocusedElement=document.activeElement;state.currentModal=m;m.classList.add('active');elements.body.style.overflow='hidden';var c=m.querySelector('.close-modal');if(c)setTimeout(function(){c.focus()},100);if(history.pushState)history.pushState({modal:id},'','#'+id);if(state.focusTrapHandler)document.removeEventListener('keydown',state.focusTrapHandler);state.focusTrapHandler=trapFocus(m)}catch(e){console.error('Modal error:',e)}
+        }
+        function closeModal(m){
+            try{if(!m)m=state.currentModal;if(!m)return;m.classList.remove('active');elements.body.style.overflow='auto';if(state.focusTrapHandler){document.removeEventListener('keydown',state.focusTrapHandler);state.focusTrapHandler=null}if(state.lastFocusedElement)state.lastFocusedElement.focus();if(history.pushState)history.pushState({},document.title,window.location.pathname);state.currentModal=null}catch(e){console.error('Close error:',e)}
+        }
+        function trapFocus(el){
+            var f=el.querySelectorAll('button,[href],input,select,textarea,[tabindex]:not([tabindex="-1"])');if(!f.length)return null;
+            var first=f[0],last=f[f.length-1];
+            var h=function(e){if(e.key!=='Tab')return;if(e.shiftKey){if(document.activeElement===first){last.focus();e.preventDefault()}}else{if(document.activeElement===last){first.focus();e.preventDefault()}}};
+            document.addEventListener('keydown',h);return h
+        }
+
+        document.addEventListener('click',function(e){
+            var sw=e.target.closest('[data-switch-modal]');
+            if(sw){e.preventDefault();e.stopPropagation();var nid=sw.dataset.switchModal;closeModal();setTimeout(function(){openModal(nid)},350);return}
+            var cs=e.target.closest('a[data-close-modal][href^="#"]');
+            if(cs){e.preventDefault();var hr=cs.getAttribute('href');closeModal();setTimeout(function(){var t=document.querySelector(hr);if(t)t.scrollIntoView({behavior:'smooth'})},350);return}
+            var cl=e.target.closest('button[data-close-modal]');
+            if(cl){closeModal();return}
+            var ml=e.target.closest('[data-modal]');
+            if(ml){e.preventDefault();var mid=ml.dataset.modal;closeMobileMenu();if(state.currentModal){closeModal();setTimeout(function(){openModal(mid)},350)}else{openModal(mid)}return}
+            if(e.target.classList.contains('modal'))closeModal(e.target)
+        });
+
+        document.addEventListener('keydown',function(e){if(e.key==='Escape'){if(state.currentModal)closeModal();if(state.isMenuOpen)closeMobileMenu();if(state.isChatOpen)toggleChat()}});
+        window.addEventListener('popstate',function(){if(state.currentModal)closeModal()});
+
+        function initTabs(){
+            var tabs=document.querySelectorAll('.tab');
+            tabs.forEach(function(tab,i){
+                if(!tab.classList.contains('active'))tab.setAttribute('tabindex','-1');
+                tab.addEventListener('click',function(){switchTab(tab)});
+                tab.addEventListener('keydown',function(e){var ni=i;if(e.key==='ArrowRight'||e.key==='ArrowDown'){ni=(i+1)%tabs.length;e.preventDefault()}else if(e.key==='ArrowLeft'||e.key==='ArrowUp'){ni=(i-1+tabs.length)%tabs.length;e.preventDefault()}else if(e.key==='Home'){ni=0;e.preventDefault()}else if(e.key==='End'){ni=tabs.length-1;e.preventDefault()}if(ni!==i){switchTab(tabs[ni]);tabs[ni].focus()}})
+            })
+        }
+        function switchTab(tab){
+            var t=tab.dataset.tab;
+            document.querySelectorAll('.tab').forEach(function(x){x.classList.remove('active');x.setAttribute('aria-selected','false');x.setAttribute('tabindex','-1')});
+            document.querySelectorAll('.services-content').forEach(function(c){c.classList.remove('active')});
+            tab.classList.add('active');tab.setAttribute('aria-selected','true');tab.setAttribute('tabindex','0');
+            var p=document.getElementById('panel-'+t);if(p)p.classList.add('active')
+        }
+
+        var handleScroll=debounce(function(){
+            try{var h=document.querySelector('header');if(h)h.style.background=window.scrollY>100?'rgba(255,255,255,.98)':'rgba(255,255,255,.95)';if(elements.backToTop){if(window.scrollY>200){elements.backToTop.classList.add('show')}else{elements.backToTop.classList.remove('show')}}}catch(e){}
+        },5);
+
+        function toggleMobileMenu(){if(!elements.mobileNav||!elements.menuToggle)return;state.isMenuOpen=!state.isMenuOpen;elements.mobileNav.classList.toggle('active');elements.menuToggle.classList.toggle('active');elements.menuToggle.setAttribute('aria-expanded',state.isMenuOpen);elements.menuToggle.setAttribute('aria-label',state.isMenuOpen?'Закрыть меню':'Открыть меню')}
+        function closeMobileMenu(){if(!elements.mobileNav||!elements.menuToggle)return;state.isMenuOpen=false;elements.mobileNav.classList.remove('active');elements.menuToggle.classList.remove('active');elements.menuToggle.setAttribute('aria-expanded','false');elements.menuToggle.setAttribute('aria-label','Открыть меню')}
+
+        function toggleChat(){if(!elements.chatWidget||!elements.chatToggle)return;state.isChatOpen=!state.isChatOpen;elements.chatWidget.classList.toggle('open');elements.chatToggle.setAttribute('aria-expanded',state.isChatOpen);elements.chatToggle.setAttribute('aria-label',state.isChatOpen?'Закрыть чат':'Открыть чат');if(state.isChatOpen)trackGoal('chat_open')}
+
+        document.addEventListener('click',function(e){if(state.isChatOpen&&elements.chatWidget&&!elements.chatWidget.contains(e.target)){state.isChatOpen=false;elements.chatWidget.classList.remove('open');if(elements.chatToggle)elements.chatToggle.setAttribute('aria-expanded','false')}});
+
+        var deferredPrompt=null;
+        function initPWA(){
+            if('serviceWorker' in navigator){
+                window.addEventListener('load',function(){
+                    navigator.serviceWorker.register('/service-worker.js').then(function(r){console.log('SW registered:',r.scope)}).catch(function(e){console.log('SW not available')})
+                })
+            }
+            window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();deferredPrompt=e;var b=document.getElementById('pwaInstallBanner');if(b)b.classList.add('show')});
+            var ib=document.getElementById('pwaInstallBtn');if(ib)ib.addEventListener('click',function(){if(deferredPrompt){deferredPrompt.prompt();deferredPrompt.userChoice.then(function(r){if(r.outcome==='accepted'){trackGoal('pwa_install');showToast('Приложение установлено!','success')}deferredPrompt=null;var b=document.getElementById('pwaInstallBanner');if(b)b.classList.remove('show')})}});
+            var ic=document.getElementById('pwaInstallClose');if(ic)ic.addEventListener('click',function(){var b=document.getElementById('pwaInstallBanner');if(b)b.classList.remove('show')})
+        }
+
+        function generateFavicons(){
+            try{
+                var c=document.createElement('canvas');if(!c.getContext)return;var x=c.getContext('2d');
+                c.width=32;c.height=32;x.fillStyle='#1e3a8a';rr(x,0,0,32,32,6);x.fill();x.fillStyle='white';x.font='bold 16px Arial';x.textAlign='center';x.textBaseline='middle';x.fillText('ТК',16,17);
+                var l32=document.getElementById('favicon32');if(l32)l32.href=c.toDataURL('image/png');
+                c.width=16;c.height=16;x.clearRect(0,0,16,16);x.fillStyle='#1e3a8a';rr(x,0,0,16,16,3);x.fill();x.fillStyle='white';x.font='bold 8px Arial';x.textAlign='center';x.textBaseline='middle';x.fillText('ТК',8,9);
+                var l16=document.getElementById('favicon16');if(l16)l16.href=c.toDataURL('image/png');
+                c.width=180;c.height=180;x.clearRect(0,0,180,180);x.fillStyle='#1e3a8a';rr(x,0,0,180,180,36);x.fill();x.fillStyle='white';x.font='bold 90px Arial';x.textAlign='center';x.textBaseline='middle';x.fillText('ТК',90,96);
+                var la=document.getElementById('appleTouchIcon');if(la)la.href=c.toDataURL('image/png');
+                c.width=32;c.height=32;x.clearRect(0,0,32,32);x.fillStyle='#1e3a8a';rr(x,0,0,32,32,6);x.fill();x.fillStyle='white';x.font='bold 16px Arial';x.textAlign='center';x.textBaseline='middle';x.fillText('ТК',16,17);
+                var lico=document.getElementById('faviconIco');if(lico)lico.href=c.toDataURL('image/png');
+            }catch(e){console.log('Favicon generation skipped')}
+        }
+        function rr(c,x,y,w,h,r){c.beginPath();c.moveTo(x+r,y);c.lineTo(x+w-r,y);c.quadraticCurveTo(x+w,y,x+w,y+r);c.lineTo(x+w,y+h-r);c.quadraticCurveTo(x+w,y+h,x+w-r,y+h);c.lineTo(x+r,y+h);c.quadraticCurveTo(x,y+h,x,y+h-r);c.lineTo(x,y+r);c.quadraticCurveTo(x,y,x+r,y);c.closePath()}
+
+        function init(){
+            try{
+                initSmoothScroll();initTabs();initAnalytics();initPWA();generateFavicons();
+                window.addEventListener('scroll',handleScroll,{passive:true});
+                if(elements.backToTop)elements.backToTop.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'})});
+                if(elements.menuToggle)elements.menuToggle.addEventListener('click',toggleMobileMenu);
+                if(elements.chatToggle)elements.chatToggle.addEventListener('click',function(e){e.stopPropagation();toggleChat()});
+                document.addEventListener('click',function(e){if(state.isMenuOpen&&elements.mobileNav&&elements.menuToggle&&!elements.mobileNav.contains(e.target)&&!elements.menuToggle.contains(e.target))closeMobileMenu()});
+                var hash=window.location.hash.replace('#','');
+                if(hash&&document.getElementById(hash)&&document.getElementById(hash).classList.contains('modal'))setTimeout(function(){openModal(hash)},500);
+                console.log('Таткадастр v2.8 ready')
+            }catch(e){console.error('Init:',e)}
+        }
+        if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init()
+    })();
+    </script>
+</body>
+</html>
