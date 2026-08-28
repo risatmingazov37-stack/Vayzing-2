@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Как узаконить перепланировку квартиры в Казани, Татарстане? — Таткадастр</title>
+    <meta name="description" content="Пошаговая инструкция по узакониванию перепланировки квартиры в Казани и Татарстане в 2026 году. Документы, сроки, стоимость и куда обращаться. Советы от кадастровых инженеров.">
+    <meta name="keywords" content="узаконить перепланировку казань, перепланировка квартиры татарстан, согласование перепланировки, техпаспорт бти перепланировка, техническая инвентаризация казань">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="ООО Таткадастр">
+    <meta name="geo.region" content="RU-TA">
+    <meta name="geo.placename" content="Казань">
+    <link rel="canonical" href="https://project20740686.tilda.ws/article-uzakonit-pereplanirovku">
+
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://project20740686.tilda.ws/article-uzakonit-pereplanirovku">
+    <meta property="og:title" content="Как узаконить перепланировку квартиры в Казани, Татарстане?">
+    <meta property="og:description" content="Пошаговая инструкция по узакониванию перепланировки квартиры в Казани. Документы, сроки, стоимость.">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Таткадастр">
+    <meta property="article:published_time" content="2026-03-11">
+    <meta property="article:author" content="ООО Таткадастр">
+    <meta property="article:section" content="Недвижимость">
+    <meta name="theme-color" content="#1e3a8a">
+
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='50' y='68' font-size='50' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>ТК</text></svg>">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Как узаконить перепланировку квартиры в Казани, Татарстане?",
+        "description": "Пошаговая инструкция по узакониванию перепланировки квартиры в Казани и Татарстане в 2026 году.",
+        "datePublished": "2026-03-11",
+        "dateModified": "2026-03-11",
+        "author": {
+            "@type": "Organization",
+            "name": "ООО Таткадастр",
+            "url": "https://project20740686.tilda.ws/"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "ООО Таткадастр"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://project20740686.tilda.ws/article-uzakonit-pereplanirovku"
+        }
+    }
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+        {"@type":"ListItem","position":1,"name":"Главная","item":"https://project20740686.tilda.ws/"},
+        {"@type":"ListItem","position":2,"name":"Статьи","item":"https://project20740686.tilda.ws/articles"},
+        {"@type":"ListItem","position":3,"name":"Как узаконить перепланировку квартиры","item":"https://project20740686.tilda.ws/article-uzakonit-pereplanirovku"}
+    ]}
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --primary-light: #3b82f6;
+            --accent: #f59e0b;
+            --accent-light: #fbbf24;
+            --dark: #111827;
+            --gray: #f9fafb;
+            --white: #ffffff;
+            --text-primary: #111827;
+            --text-secondary: #6b7280;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+            --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04);
+            --gradient-primary: linear-gradient(135deg, var(--primary), var(--primary-light));
+            --gradient-accent: linear-gradient(135deg, var(--accent), var(--accent-light));
+            --gradient-dark: linear-gradient(135deg, var(--dark), var(--primary));
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6; color: var(--text-primary);
+            overflow-x: hidden; -webkit-font-smoothing: antialiased;
+        }
+
+        /* === HEADER === */
+        header {
+            position: fixed; top: 0; width: 100%;
+            background: rgba(255,255,255,.95);
+            backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+            z-index: 1000; box-shadow: var(--shadow);
+        }
+        nav {
+            max-width: 1200px; margin: 0 auto; padding: 1rem 2rem;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.8rem; font-weight: 800;
+            color: var(--primary); text-decoration: none;
+        }
+        .nav-links { display: flex; list-style: none; gap: 2rem; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none;
+            font-weight: 500; font-size: .95rem; transition: color .3s;
+        }
+        .nav-links a:hover, .nav-links a.active { color: var(--primary); }
+        .cta-button {
+            background: var(--gradient-primary); color: var(--white) !important;
+            padding: .8rem 1.8rem; border-radius: 50px; text-decoration: none;
+            font-weight: 600; font-size: .9rem; box-shadow: var(--shadow);
+            transition: all .3s; display: flex; align-items: center;
+            gap: .5rem; white-space: nowrap;
+        }
+        .cta-button:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+        .menu-toggle {
+            display: none; flex-direction: column; cursor: pointer;
+            gap: 5px; padding: 5px; z-index: 1001; background: none; border: none;
+        }
+        .menu-toggle span {
+            width: 25px; height: 3px; background: var(--primary);
+            transition: all .3s; display: block;
+        }
+        .menu-toggle.active span:nth-child(1) { transform: rotate(45deg) translate(5px,6px); }
+        .menu-toggle.active span:nth-child(2) { opacity: 0; }
+        .menu-toggle.active span:nth-child(3) { transform: rotate(-45deg) translate(5px,-6px); }
+        .nav-links.mobile { display: none; }
+
+        /* === ARTICLE HERO === */
+        .article-hero {
+            padding: 8rem 2rem 3rem;
+            background: linear-gradient(135deg, #7c2d12, #f59e0b);
+            color: white; position: relative;
+        }
+        .article-hero::before {
+            content: ''; position: absolute; inset: 0;
+            background: radial-gradient(circle at 70% 30%, rgba(255,255,255,.12) 0%, transparent 50%);
+            pointer-events: none;
+        }
+        .article-hero-inner {
+            max-width: 900px; margin: 0 auto; position: relative; z-index: 2;
+        }
+        .article-hero-badge {
+            display: inline-block;
+            background: rgba(255,255,255,.2); backdrop-filter: blur(8px);
+            padding: .4rem 1.2rem; border-radius: 50px;
+            font-size: .85rem; font-weight: 600; margin-bottom: 1.5rem;
+            border: 1px solid rgba(255,255,255,.3);
+        }
+        .article-hero h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: clamp(1.8rem, 4vw, 2.8rem);
+            font-weight: 800; line-height: 1.3; margin-bottom: 1.5rem;
+        }
+        .article-hero-meta {
+            display: flex; flex-wrap: wrap; gap: 1.5rem;
+            font-size: .95rem; opacity: .9;
+        }
+        .article-hero-meta i { margin-right: .4rem; }
+
+        /* === BREADCRUMBS === */
+        .breadcrumbs {
+            max-width: 900px; margin: 0 auto;
+            padding: 1.5rem 2rem 0; font-size: .95rem;
+        }
+        .breadcrumbs a { color: var(--primary); text-decoration: none; }
+        .breadcrumbs a:hover { color: var(--primary-light); }
+        .breadcrumbs span { color: var(--text-secondary); margin: 0 .5rem; }
+
+        /* === ARTICLE CONTENT === */
+        .article-wrapper {
+            max-width: 900px; margin: 0 auto;
+            padding: 2rem 2rem 4rem;
+        }
+
+        /* Table of Contents */
+        .article-toc {
+            background: var(--gray); border-radius: 16px;
+            padding: 2rem; margin-bottom: 3rem;
+            border-left: 4px solid var(--primary);
+        }
+        .article-toc h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.1rem; font-weight: 700;
+            color: var(--primary); margin-bottom: 1rem;
+        }
+        .article-toc ol {
+            padding-left: 1.2rem; counter-reset: toc;
+            list-style: none;
+        }
+        .article-toc ol li {
+            counter-increment: toc; margin-bottom: .6rem;
+        }
+        .article-toc ol li::before {
+            content: counter(toc) ". ";
+            color: var(--primary); font-weight: 600;
+        }
+        .article-toc a {
+            color: var(--text-primary); text-decoration: none;
+            transition: color .3s; font-size: .95rem;
+        }
+        .article-toc a:hover { color: var(--primary); }
+
+        /* Article Body */
+        .article-body h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: clamp(1.4rem, 3vw, 1.8rem);
+            font-weight: 700; color: var(--primary);
+            margin: 2.5rem 0 1rem;
+            padding-bottom: .5rem;
+            border-bottom: 2px solid #e5e7eb;
+        }
+        .article-body h3 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.2rem; font-weight: 700;
+            color: var(--dark); margin: 2rem 0 .75rem;
+        }
+        .article-body p {
+            margin-bottom: 1.2rem; line-height: 1.85;
+            color: var(--text-primary); font-size: 1.05rem;
+        }
+        .article-body ul, .article-body ol {
+            margin: 1rem 0 1.5rem 1.5rem;
+        }
+        .article-body li {
+            margin-bottom: .6rem; line-height: 1.8;
+            font-size: 1.05rem;
+        }
+        .article-body strong { color: var(--dark); }
+
+        /* Info Box */
+        .info-box {
+            background: #eff6ff; border-left: 4px solid var(--primary-light);
+            border-radius: 0 12px 12px 0;
+            padding: 1.5rem 2rem; margin: 2rem 0;
+        }
+        .info-box.warning {
+            background: #fef3c7; border-left-color: var(--accent);
+        }
+        .info-box.danger {
+            background: #fef2f2; border-left-color: #ef4444;
+        }
+        .info-box.success {
+            background: #ecfdf5; border-left-color: #10b981;
+        }
+        .info-box-title {
+            font-weight: 700; font-size: 1rem;
+            margin-bottom: .5rem; display: flex;
+            align-items: center; gap: .5rem;
+        }
+        .info-box p { margin-bottom: .5rem; font-size: 1rem; }
+        .info-box p:last-child { margin-bottom: 0; }
+
+        /* Steps */
+        .step-list {
+            list-style: none; padding: 0; margin: 1.5rem 0;
+        }
+        .step-list li {
+            position: relative; padding: 1.5rem 1.5rem 1.5rem 4.5rem;
+            background: white; border-radius: 12px;
+            box-shadow: var(--shadow); margin-bottom: 1rem;
+            border: 1px solid #f3f4f6;
+        }
+        .step-list li::before {
+            content: attr(data-step);
+            position: absolute; left: 1.2rem; top: 1.4rem;
+            width: 2.2rem; height: 2.2rem; border-radius: 50%;
+            background: var(--gradient-primary); color: white;
+            display: flex; align-items: center; justify-content: center;
+            font-weight: 700; font-size: .95rem;
+        }
+        .step-list li strong { display: block; margin-bottom: .3rem; color: var(--primary); }
+
+        /* Documents Table */
+        .doc-table {
+            width: 100%; border-collapse: collapse;
+            margin: 1.5rem 0; font-size: .95rem;
+            border-radius: 12px; overflow: hidden;
+            box-shadow: var(--shadow);
+        }
+        .doc-table thead { background: var(--primary); color: white; }
+        .doc-table th, .doc-table td {
+            padding: 1rem 1.2rem; text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        .doc-table tbody tr:nth-child(even) { background: var(--gray); }
+        .doc-table tbody tr:hover { background: #eff6ff; }
+
+        /* CTA Block */
+        .article-cta {
+            background: var(--gradient-dark);
+            border-radius: 20px; padding: 3rem;
+            text-align: center; color: white;
+            margin: 3rem 0;
+        }
+        .article-cta h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.6rem; font-weight: 800;
+            margin-bottom: 1rem; border: none;
+            padding-bottom: 0; color: white;
+        }
+        .article-cta p {
+            font-size: 1.1rem; opacity: .9;
+            margin-bottom: 2rem; color: white;
+        }
+        .article-cta-buttons {
+            display: flex; gap: 1rem;
+            justify-content: center; flex-wrap: wrap;
+        }
+        .article-cta .btn {
+            display: inline-flex; align-items: center; gap: .5rem;
+            padding: 1rem 2rem; border-radius: 50px;
+            font-weight: 700; font-size: 1rem;
+            text-decoration: none; transition: all .3s;
+        }
+        .article-cta .btn-primary {
+            background: var(--gradient-accent); color: var(--dark);
+        }
+        .article-cta .btn-outline {
+            background: transparent; color: white;
+            border: 2px solid rgba(255,255,255,.4);
+        }
+        .article-cta .btn:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
+
+        /* Related Articles */
+        .related-section {
+            max-width: 900px; margin: 0 auto;
+            padding: 0 2rem 4rem;
+        }
+        .related-section h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.6rem; font-weight: 700;
+            color: var(--primary); margin-bottom: 1.5rem;
+        }
+        .related-grid {
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+        .related-card {
+            background: white; border-radius: 16px;
+            box-shadow: var(--shadow); border: 1px solid #f3f4f6;
+            padding: 1.5rem; text-decoration: none; color: inherit;
+            transition: all .3s;
+        }
+        .related-card:hover {
+            transform: translateY(-4px); box-shadow: var(--shadow-lg);
+        }
+        .related-card h3 {
+            font-size: 1.05rem; font-weight: 700;
+            color: var(--primary); margin-bottom: .5rem; line-height: 1.4;
+        }
+        .related-card p {
+            color: var(--text-secondary); font-size: .9rem; line-height: 1.6;
+        }
+
+        /* === WIDGETS === */
+        .back-to-top {
+            position: fixed; bottom: 30px; right: 30px;
+            background: var(--gradient-primary); color: white;
+            border: none; border-radius: 50%; width: 60px; height: 60px;
+            font-size: 1.5rem; cursor: pointer; box-shadow: var(--shadow-lg);
+            opacity: 0; visibility: hidden; transform: translateY(20px);
+            transition: all .3s; z-index: 999;
+        }
+        .back-to-top.show { opacity: 1; visibility: visible; transform: translateY(0); }
+        .back-to-top:hover { transform: translateY(-5px) scale(1.05); }
+
+        .chat-widget {
+            position: fixed; bottom: 100px; right: 30px; z-index: 997;
+            display: flex; flex-direction: column; align-items: flex-end; gap: 12px;
+        }
+        .chat-options {
+            display: flex; flex-direction: column; gap: 10px; align-items: flex-end;
+            opacity: 0; visibility: hidden;
+            transform: translateY(20px) scale(.8);
+            transition: all .3s cubic-bezier(.68,-.55,.265,1.55);
+            pointer-events: none;
+        }
+        .chat-widget.open .chat-options {
+            opacity: 1; visibility: visible;
+            transform: translateY(0) scale(1); pointer-events: auto;
+        }
+        .chat-option {
+            display: flex; align-items: center; gap: 10px;
+            text-decoration: none; padding: 10px 16px; border-radius: 50px;
+            color: white; font-weight: 600; font-size: .9rem;
+            box-shadow: var(--shadow); transition: all .3s; white-space: nowrap;
+        }
+        .chat-option:hover { transform: translateX(-5px) scale(1.05); }
+        .chat-option.telegram { background: #0088cc; }
+        .chat-option.messengers { background: #7c3aed; }
+        .chat-option.phone { background: #10b981; }
+        .chat-toggle {
+            width: 60px; height: 60px; border-radius: 50%; border: none;
+            background: var(--gradient-primary); color: white; font-size: 1.5rem;
+            cursor: pointer; box-shadow: var(--shadow-lg); transition: all .4s;
+            display: flex; align-items: center; justify-content: center;
+            position: relative;
+        }
+        .chat-toggle:hover { transform: scale(1.1); }
+        .chat-widget.open .chat-toggle { background: #ef4444; transform: rotate(45deg); }
+        .chat-badge {
+            position: absolute; top: -2px; right: -2px;
+            width: 16px; height: 16px; background: #ef4444;
+            border-radius: 50%; border: 2px solid white;
+            animation: pulse 2s infinite;
+        }
+        .chat-widget.open .chat-badge { display: none; }
+        @keyframes pulse { 0%,100%{transform:scale(1)} 50%{transform:scale(1.05)} }
+
+        /* === FOOTER === */
+        footer {
+            background: var(--dark); color: #9ca3af;
+            text-align: center; padding: 3rem 2rem; font-size: .95rem;
+        }
+        .footer-links {
+            margin-bottom: 1.5rem; display: flex;
+            justify-content: center; flex-wrap: wrap; gap: 1rem;
+        }
+        .footer-links a { color: #9ca3af; text-decoration: none; transition: color .3s; }
+        .footer-links a:hover { color: var(--accent-light); }
+        footer p { line-height: 1.7; }
+
+        /* === MOBILE === */
+        @media (max-width: 768px) {
+            .nav-links:not(.mobile) { display: none; }
+            .nav-links.mobile {
+                display: none; position: fixed; top: 80px; left: 0; width: 100%;
+                background: rgba(255,255,255,.98); flex-direction: column;
+                padding: 2rem; box-shadow: var(--shadow); list-style: none; gap: 1rem;
+            }
+            .nav-links.mobile.active { display: flex; }
+            .menu-toggle { display: flex; }
+            nav { padding: 1rem; }
+            .cta-button span { display: none; }
+            .cta-button { padding: .7rem 1rem; }
+            .article-hero { padding: 7rem 1rem 2.5rem; }
+            .article-hero-meta { gap: 1rem; font-size: .85rem; }
+            .article-wrapper { padding: 1.5rem 1rem 3rem; }
+            .article-toc { padding: 1.5rem; }
+            .article-cta { padding: 2rem 1.5rem; }
+            .doc-table { font-size: .85rem; }
+            .doc-table th, .doc-table td { padding: .75rem .8rem; }
+            .step-list li { padding: 1.2rem 1.2rem 1.2rem 4rem; }
+            .related-grid { grid-template-columns: 1fr; }
+            .back-to-top { bottom: 20px; right: 20px; width: 50px; height: 50px; font-size: 1.2rem; }
+            .chat-widget { bottom: 80px; right: 20px; }
+            .chat-toggle { width: 50px; height: 50px; font-size: 1.2rem; }
+            .footer-links { flex-direction: column; gap: .75rem; }
+        }
+        @media (max-width: 480px) {
+            .article-body h2 { font-size: 1.3rem; }
+            .article-body p, .article-body li { font-size: 1rem; }
+            .article-cta h2 { font-size: 1.3rem; }
+            .article-cta-buttons { flex-direction: column; align-items: center; }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: .01ms !important;
+                transition-duration: .01ms !important;
+            }
+            html { scroll-behavior: auto; }
+        }
+        @media print {
+            header, .back-to-top, .chat-widget, footer, .article-cta, .related-section { display: none !important; }
+            .article-hero { background: white !important; color: black !important; padding-top: 2rem; }
+            .article-body h2 { color: black !important; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="https://project20740686.tilda.ws/" class="logo">Таткадастр</a>
+            <ul class="nav-links">
+                <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+                <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+                <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+                <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+                <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+            </ul>
+            <ul class="nav-links mobile" id="mobileNav">
+                <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+                <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+                <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+                <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+                <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+            </ul>
+            <button class="menu-toggle" id="menuToggle" aria-label="Открыть меню" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+            <a href="tel:+79377762711" class="cta-button" aria-label="Позвонить">
+                <i class="fas fa-phone" aria-hidden="true"></i><span>+7 937 776 27 11</span>
+            </a>
+        </nav>
+    </header>
+
+    <button class="back-to-top" id="backToTop" aria-label="Наверх">
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <div class="chat-widget" id="chatWidget">
+        <div class="chat-options">
+            <a href="https://t.me/tatkadastr116" class="chat-option telegram" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram-plane" aria-hidden="true"></i> Написать</a>
+            <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="chat-option messengers" target="_blank" rel="noopener noreferrer"><i class="fas fa-comment-dots" aria-hidden="true"></i> Max</a>
+            <a href="tel:+79377762711" class="chat-option phone"><i class="fas fa-phone" aria-hidden="true"></i> Позвонить</a>
+        </div>
+        <button class="chat-toggle" id="chatToggle" aria-label="Открыть чат" aria-expanded="false">
+            <i class="fas fa-comments" aria-hidden="true"></i>
+            <span class="chat-badge" aria-hidden="true"></span>
+        </button>
+    </div>
+
+    <main id="main-content">
+
+        <div class="article-hero">
+            <div class="article-hero-inner">
+                <span class="article-hero-badge"><i class="fas fa-drafting-compass" aria-hidden="true"></i> Полезное</span>
+                <h1>Как узаконить перепланировку квартиры в&nbsp;Казани, Татарстане?</h1>
+                <div class="article-hero-meta">
+                    <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 11 марта 2026</span>
+                    <span><i class="fas fa-clock" aria-hidden="true"></i> 15 мин чтения</span>
+                    <span><i class="fas fa-user" aria-hidden="true"></i> Таткадастр</span>
+                </div>
+            </div>
+        </div>
+
+        <nav class="breadcrumbs" aria-label="Навигационная цепочка">
+            <a href="https://project20740686.tilda.ws/">Главная</a>
+            <span>›</span>
+            <a href="https://project20740686.tilda.ws/articles">Статьи</a>
+            <span>›</span>
+            <strong>Как узаконить перепланировку квартиры</strong>
+        </nav>
+
+        <article class="article-wrapper">
+
+            <nav class="article-toc" aria-label="Содержание статьи">
+                <h2><i class="fas fa-list" aria-hidden="true"></i> Содержание</h2>
+                <ol>
+                    <li><a href="#what-is">Что такое перепланировка и переустройство</a></li>
+                    <li><a href="#what-allowed">Какие работы требуют согласования</a></li>
+                    <li><a href="#before-works">Порядок согласования до начала работ</a></li>
+                    <li><a href="#after-works">Как узаконить уже сделанную перепланировку</a></li>
+                    <li><a href="#documents">Какие документы нужны</a></li>
+                    <li><a href="#where-kazan">Куда обращаться в Казани</a></li>
+                    <li><a href="#cost-time">Стоимость и сроки</a></li>
+                    <li><a href="#consequences">Что будет, если не узаконить</a></li>
+                    <li><a href="#role-bti">Роль технической инвентаризации (БТИ)</a></li>
+                    <li><a href="#faq">Частые вопросы</a></li>
+                </ol>
+            </nav>
+
+            <div class="article-body">
+
+                <p>Перепланировка квартиры — одна из самых распространённых причин обращения к&nbsp;кадастровым инженерам и специалистам БТИ в&nbsp;Казани. Расширили кухню, объединили санузел, снесли перегородку между комнатами? Все эти действия требуют оформления. Без узаконенной перепланировки вы&nbsp;не&nbsp;сможете продать квартиру, оформить ипотеку или передать недвижимость по&nbsp;наследству без проблем.</p>
+
+                <p>В&nbsp;этой статье мы&nbsp;подробно разберём, как в&nbsp;2026&nbsp;году согласовать и узаконить перепланировку квартиры в&nbsp;Казани и Республике Татарстан: какие шаги предпринять, куда обращаться и сколько это стоит.</p>
+
+                <h2 id="what-is">1. Что такое перепланировка и переустройство</h2>
+
+                <p>Жилищный кодекс РФ (глава&nbsp;4, статьи&nbsp;25–29) чётко разграничивает два понятия:</p>
+
+                <ul>
+                    <li><strong>Перепланировка</strong> — изменение конфигурации помещения: снос или возведение стен и перегородок, устройство или заделка дверных проёмов, изменение площади комнат. Всё, что меняет план помещения на&nbsp;чертеже.</li>
+                    <li><strong>Переустройство</strong> — установка, замена или перенос инженерных сетей, санитарно-технического, электрического и другого оборудования: перенос кухонной мойки, газовой плиты, замена газовой плиты на&nbsp;электрическую, перенос батарей отопления.</li>
+                </ul>
+
+                <div class="info-box">
+                    <div class="info-box-title"><i class="fas fa-info-circle" aria-hidden="true"></i> Важно</div>
+                    <p>И&nbsp;перепланировка, и&nbsp;переустройство требуют предварительного согласования с&nbsp;органом местного самоуправления. В&nbsp;Казани это Исполнительный комитет муниципального образования г.&nbsp;Казани (через Управление градостроительных разрешений).</p>
+                </div>
+
+                <h2 id="what-allowed">2. Какие работы требуют согласования</h2>
+
+                <h3>Требуют согласования (перепланировка / переустройство):</h3>
+                <ul>
+                    <li>Снос ненесущих перегородок между комнатами</li>
+                    <li>Возведение новых перегородок</li>
+                    <li>Объединение или разделение санузла</li>
+                    <li>Расширение кухни за&nbsp;счёт коридора или кладовой</li>
+                    <li>Устройство или заделка дверных проёмов</li>
+                    <li>Перенос кухонного оборудования, раковины, ванны</li>
+                    <li>Замена газовой плиты на&nbsp;электрическую</li>
+                    <li>Устройство встроенного шкафа, изменяющего площадь комнаты</li>
+                </ul>
+
+                <h3>Запрещены и не могут быть согласованы:</h3>
+                <ul>
+                    <li>Снос или нарушение целостности несущих стен и&nbsp;пилонов</li>
+                    <li>Перенос кухни с&nbsp;газовой плитой в&nbsp;жилую комнату</li>
+                    <li>Размещение санузла над жилыми комнатами соседей снизу</li>
+                    <li>Ликвидация или уменьшение вентиляционных каналов</li>
+                    <li>Объединение балкона или лоджии с&nbsp;жилой комнатой с&nbsp;демонтажем подоконного блока (в&nbsp;большинстве домов)</li>
+                    <li>Перенос радиаторов отопления на&nbsp;балкон или лоджию</li>
+                    <li>Устройство тёплых полов от&nbsp;системы центрального отопления</li>
+                </ul>
+
+                <div class="info-box danger">
+                    <div class="info-box-title"><i class="fas fa-exclamation-triangle" aria-hidden="true"></i> Внимание</div>
+                    <p>Если перепланировка затрагивает несущие конструкции, общедомовое имущество или может угрожать безопасности жильцов, она&nbsp;не&nbsp;подлежит согласованию. Суд обяжет привести помещение в&nbsp;прежнее состояние за&nbsp;ваш счёт.</p>
+                </div>
+
+                <h2 id="before-works">3. Порядок согласования до начала работ</h2>
+
+                <p>Идеальный вариант — согласовать перепланировку <strong>до&nbsp;начала строительных работ</strong>. Это проще, дешевле и полностью законно.</p>
+
+                <ol class="step-list">
+                    <li data-step="1">
+                        <strong>Заказать проект перепланировки</strong>
+                        Обратитесь в&nbsp;проектную организацию, имеющую допуск СРО. Проектировщик разработает проект с&nbsp;учётом строительных норм и&nbsp;правил. Для простых перепланировок (снос ненесущих перегородок) достаточно эскиза.
+                    </li>
+                    <li data-step="2">
+                        <strong>Подготовить техпаспорт (техническую инвентаризацию)</strong>
+                        Закажите актуальный техпаспорт БТИ на&nbsp;квартиру. Именно этот документ фиксирует текущее состояние помещения «до» перепланировки. Специалисты «Таткадастр» подготовят техпаспорт за&nbsp;3–5&nbsp;рабочих дней.
+                    </li>
+                    <li data-step="3">
+                        <strong>Подать заявление на согласование</strong>
+                        Подайте заявление с&nbsp;пакетом документов в&nbsp;Управление градостроительных разрешений Исполкома г.&nbsp;Казани — лично или через МФЦ «Мои документы». Также можно подать через портал Госуслуг.
+                    </li>
+                    <li data-step="4">
+                        <strong>Получить решение о согласовании</strong>
+                        Орган местного самоуправления принимает решение в&nbsp;течение 45&nbsp;дней. Решение о&nbsp;согласовании является основанием для начала ремонтных работ.
+                    </li>
+                    <li data-step="5">
+                        <strong>Выполнить работы и подписать акт</strong>
+                        После завершения ремонта приёмочная комиссия составляет акт о&nbsp;завершении перепланировки. Акт подтверждает, что работы выполнены в&nbsp;соответствии с&nbsp;проектом.
+                    </li>
+                    <li data-step="6">
+                        <strong>Обновить техпаспорт и внести изменения в ЕГРН</strong>
+                        На&nbsp;основании акта приёмочной комиссии закажите новый техпаспорт, отражающий фактическое состояние квартиры. Далее кадастровый инженер подготовит технический план для внесения изменений в&nbsp;ЕГРН (Единый государственный реестр недвижимости).
+                    </li>
+                </ol>
+
+                <h2 id="after-works">4. Как узаконить уже сделанную перепланировку</h2>
+
+                <p>Если перепланировка уже выполнена без предварительного согласования, её&nbsp;можно узаконить. Однако процедура сложнее и в&nbsp;отдельных случаях требует обращения в&nbsp;суд.</p>
+
+                <h3>Вариант 1: Административное узаконивание</h3>
+
+                <p>В&nbsp;некоторых случаях Исполком г.&nbsp;Казани принимает документы на&nbsp;согласование перепланировки «по&nbsp;факту». Для этого необходимо:</p>
+                <ol>
+                    <li>Получить техническое заключение проектной организации (с&nbsp;допуском СРО) о&nbsp;том, что выполненная перепланировка не&nbsp;нарушает строительные нормы и&nbsp;не&nbsp;угрожает безопасности.</li>
+                    <li>Заказать техпаспорт БТИ с&nbsp;фиксацией фактического состояния помещения.</li>
+                    <li>Подать заявление на&nbsp;согласование с&nbsp;полным комплектом документов.</li>
+                </ol>
+
+                <h3>Вариант 2: Узаконивание через суд</h3>
+
+                <p>Если административный путь не&nbsp;дал результата (получен отказ), сохранить перепланировку можно через суд. Основание — ст.&nbsp;29&nbsp;Жилищного кодекса&nbsp;РФ.</p>
+
+                <p>Суд примет решение в&nbsp;вашу пользу, если будет доказано, что перепланировка:</p>
+                <ul>
+                    <li>не нарушает права и&nbsp;законные интересы других граждан;</li>
+                    <li>не создаёт угрозу жизни и&nbsp;здоровью;</li>
+                    <li>соответствует строительным нормам и&nbsp;правилам.</li>
+                </ul>
+
+                <div class="info-box warning">
+                    <div class="info-box-title"><i class="fas fa-gavel" aria-hidden="true"></i> Судебная практика</div>
+                    <p>В&nbsp;судах Казани подавляющее большинство исков об&nbsp;узаконивании перепланировки удовлетворяются, если представлено качественное техническое заключение и&nbsp;перепланировка не&nbsp;затрагивает несущие конструкции. Средний срок рассмотрения дела — 2–3&nbsp;месяца.</p>
+                </div>
+
+                <h2 id="documents">5. Какие документы нужны</h2>
+
+                <table class="doc-table">
+                    <thead>
+                        <tr>
+                            <th>№</th>
+                            <th>Документ</th>
+                            <th>Где получить</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Заявление о&nbsp;согласовании перепланировки</td>
+                            <td>МФЦ / Госуслуги / Исполком</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Правоустанавливающие документы на&nbsp;квартиру (выписка из&nbsp;ЕГРН или свидетельство о&nbsp;праве)</td>
+                            <td>Росреестр / МФЦ</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Техпаспорт БТИ (техническая инвентаризация)</td>
+                            <td>ООО&nbsp;«Таткадастр» или другая организация</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Проект перепланировки и/или переустройства</td>
+                            <td>Проектная организация (член СРО)</td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Техническое заключение о&nbsp;допустимости работ (при&nbsp;узаконивании «по&nbsp;факту»)</td>
+                            <td>Проектная организация (член СРО)</td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Согласие всех собственников квартиры (если их&nbsp;несколько)</td>
+                            <td>Нотариус</td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Согласие управляющей компании (при&nbsp;затрагивании общедомового имущества)</td>
+                            <td>УК / ТСЖ</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h2 id="where-kazan">6. Куда обращаться в Казани</h2>
+
+                <p>В&nbsp;Казани согласованием перепланировок занимается <strong>Управление градостроительных разрешений Исполнительного комитета муниципального образования города Казани</strong>.</p>
+
+                <p>Подать документы можно несколькими способами:</p>
+                <ul>
+                    <li><strong>Лично</strong> — в&nbsp;Управление градостроительных разрешений Исполкома г.&nbsp;Казани</li>
+                    <li><strong>Через МФЦ</strong> — в&nbsp;любом отделении «Мои документы» в&nbsp;Казани и городах Татарстана</li>
+                    <li><strong>Через Госуслуги</strong> — на&nbsp;Портале государственных и&nbsp;муниципальных услуг Республики Татарстан (<a href="https://uslugi.tatarstan.ru" target="_blank" rel="noopener noreferrer" style="color: var(--primary);">uslugi.tatarstan.ru</a>)</li>
+                </ul>
+
+                <div class="info-box success">
+                    <div class="info-box-title"><i class="fas fa-check-circle" aria-hidden="true"></i> Совет от Таткадастр</div>
+                    <p>Начните с&nbsp;получения техпаспорта БТИ — это базовый документ, без которого не&nbsp;получится ни&nbsp;согласовать перепланировку, ни&nbsp;заказать проект, ни&nbsp;обратиться в&nbsp;суд. Мы&nbsp;подготовим техпаспорт за&nbsp;1-3&nbsp;рабочих дней с&nbsp;выездом инженера на&nbsp;объект.</p>
+                </div>
+
+                <h2 id="cost-time">7. Стоимость и сроки</h2>
+
+                <p>Ориентировочные расходы на&nbsp;согласование и узаконивание перепланировки в&nbsp;Казани в&nbsp;2026&nbsp;году:</p>
+
+                <table class="doc-table">
+                    <thead>
+                        <tr>
+                            <th>Услуга</th>
+                            <th>Стоимость</th>
+                            <th>Срок</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Техпаспорт БТИ (техническая инвентаризация)</td>
+                            <td>от&nbsp;5&nbsp;000&nbsp;₽</td>
+                            <td>3–5 рабочих дней</td>
+                        </tr>
+                        <tr>
+                            <td>Проект перепланировки</td>
+                            <td>от&nbsp;10&nbsp;000&nbsp;₽</td>
+                            <td>5–15 рабочих дней</td>
+                        </tr>
+                        <tr>
+                            <td>Техническое заключение (при&nbsp;узаконивании по&nbsp;факту)</td>
+                            <td>от&nbsp;15&nbsp;000&nbsp;₽</td>
+                            <td>5–10 рабочих дней</td>
+                        </tr>
+                        <tr>
+                            <td>Рассмотрение заявления в&nbsp;Исполкоме</td>
+                            <td>бесплатно</td>
+                            <td>до 45 дней</td>
+                        </tr>
+                        <tr>
+                            <td>Технический план (для&nbsp;ЕГРН)</td>
+                            <td>от&nbsp;8&nbsp;000&nbsp;₽</td>
+                            <td>3–7 рабочих дней</td>
+                        </tr>
+                        <tr>
+                            <td>Судебное узаконивание (с&nbsp;юристом)</td>
+                            <td>от&nbsp;30&nbsp;000&nbsp;₽</td>
+                            <td>2–4 месяца</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>Общий срок полного цикла согласования — от&nbsp;2&nbsp;до&nbsp;4&nbsp;месяцев при&nbsp;административном порядке и&nbsp;от&nbsp;4&nbsp;до&nbsp;8&nbsp;месяцев при&nbsp;узаконивании через суд.</p>
+
+                <h2 id="consequences">8. Что будет, если не узаконить</h2>
+
+                <p>Последствия неузаконенной перепланировки могут быть весьма серьёзными:</p>
+
+                <ul>
+                    <li><strong>Штраф</strong> — от&nbsp;2&nbsp;000 до&nbsp;2&nbsp;500&nbsp;₽ для физических лиц (ст.&nbsp;7.21&nbsp;КоАП&nbsp;РФ). При повторных нарушениях суммы увеличиваются.</li>
+                    <li><strong>Предписание о&nbsp;приведении в&nbsp;прежнее состояние</strong> — суд может обязать за&nbsp;ваш счёт вернуть всё&nbsp;как было. Это зачастую стоит дороже, чем сам ремонт.</li>
+                    <li><strong>Проблемы при&nbsp;продаже</strong> — банки не&nbsp;одобряют ипотеку на&nbsp;квартиру с&nbsp;несогласованной перепланировкой, покупатели требуют скидку или отказываются от&nbsp;сделки.</li>
+                    <li><strong>Невозможность оформить наследство</strong> — при&nbsp;расхождении плана квартиры с&nbsp;данными ЕГРН могут возникнуть сложности с&nbsp;регистрацией права.</li>
+                    <li><strong>Ответственность за&nbsp;ущерб</strong> — если незаконная перепланировка привела к&nbsp;повреждению несущих конструкций, затоплению соседей и&nbsp;т.д., собственник несёт полную ответственность, включая уголовную.</li>
+                </ul>
+
+                <div class="info-box danger">
+                    <div class="info-box-title"><i class="fas fa-exclamation-circle" aria-hidden="true"></i> Реальный пример из&nbsp;практики</div>
+                    <p>К&nbsp;нам обратился собственник квартиры в&nbsp;Ново-Савиновском районе Казани, который при&nbsp;продаже обнаружил, что 10&nbsp;лет назад снесённая перегородка не&nbsp;была согласована. Банк покупателя отказал в&nbsp;ипотеке. Мы&nbsp;помогли подготовить техпаспорт, техническое заключение и&nbsp;сопроводили узаконивание через Исполком — процедура заняла 2&nbsp;месяца, и&nbsp;сделка состоялась.</p>
+                </div>
+
+                <h2 id="role-bti">9. Роль технической инвентаризации (БТИ)</h2>
+
+                <p>Техпаспорт БТИ (документ технической инвентаризации) — ключевой документ при&nbsp;любой перепланировке. Он&nbsp;необходим на&nbsp;каждом этапе:</p>
+
+                <ul>
+                    <li><strong>До&nbsp;перепланировки</strong> — фиксирует исходное состояние квартиры, становится основой для проекта.</li>
+                    <li><strong>При&nbsp;узаконивании по&nbsp;факту</strong> — отражает фактические изменения, позволяет проектировщику подготовить техническое заключение.</li>
+                    <li><strong>После&nbsp;перепланировки</strong> — обновлённый техпаспорт подтверждает соответствие выполненных работ проекту.</li>
+                </ul>
+
+                <p>Специалисты ООО&nbsp;«Таткадастр» имеют более 12&nbsp;лет опыта в&nbsp;технической инвентаризации. Мы&nbsp;выполняем полный комплекс работ:</p>
+                <ul>
+                    <li>Выезд инженера для обмеров квартиры</li>
+                    <li>Подготовка техпаспорта с&nbsp;поэтажным планом и&nbsp;экспликацией</li>
+                    <li>Подготовка технического плана для&nbsp;внесения изменений в&nbsp;ЕГРН</li>
+                    <li>Консультации по&nbsp;порядку согласования</li>
+                </ul>
+
+                <h2 id="faq">10. Частые вопросы</h2>
+
+                <h3>Нужно ли согласовывать остекление балкона?</h3>
+                <p>Само остекление балкона, как правило, не&nbsp;является перепланировкой и&nbsp;не&nbsp;требует согласования. Однако если вы&nbsp;демонтируете подоконный блок, убираете дверь между комнатой и&nbsp;балконом или утепляете балкон с&nbsp;переносом батареи — это уже перепланировка/переустройство, которые нужно согласовать.</p>
+
+                <h3>Можно ли сносить стену между кухней и&nbsp;комнатой?</h3>
+                <p>Если стена ненесущая и&nbsp;кухня оборудована электрической плитой — как правило, да. Если на&nbsp;кухне газовая плита, объединять кухню с&nbsp;жилой комнатой <strong>запрещено</strong> (требуется хотя&nbsp;бы раздвижная перегородка). Если стена несущая — демонтаж запрещён.</p>
+
+                <h3>Сколько стоит узаконить перепланировку под ключ?</h3>
+                <p>В&nbsp;Казани полный цикл узаконивания обычно обходится в&nbsp;сумму от&nbsp;25&nbsp;000 до&nbsp;80&nbsp;000&nbsp;₽ в&nbsp;зависимости от&nbsp;сложности. В&nbsp;эту сумму входит техпаспорт, проект, техническое заключение и&nbsp;технический план. Судебное узаконивание обойдётся дороже — от&nbsp;50&nbsp;000&nbsp;₽.</p>
+
+                <h3>Нужно ли согласовывать перепланировку в&nbsp;новостройке?</h3>
+                <p>Да. Новостройка — не&nbsp;исключение. Даже если застройщик позиционирует квартиру как «свободная планировка», возведение перегородок считается перепланировкой и&nbsp;требует согласования. Техпаспорт нужен и&nbsp;в&nbsp;этом случае.</p>
+
+                <h3>Можно ли перенести санузел?</h3>
+                <p>Расширить или перенести санузел можно только за&nbsp;счёт нежилых помещений (коридор, кладовая). Размещать санузел (мокрую зону) над жилыми комнатами соседей снизу — запрещено, кроме квартир на&nbsp;первом этаже или над нежилыми помещениями.</p>
+
+            </div>
+
+            <div class="article-cta">
+                <h2>Нужно узаконить перепланировку?</h2>
+                <p>Подготовим техпаспорт БТИ и&nbsp;технический план. Проконсультируем по&nbsp;порядку согласования. Опыт — более 12&nbsp;лет.</p>
+                <div class="article-cta-buttons">
+                    <a href="tel:+79377762711" class="btn btn-primary"><i class="fas fa-phone" aria-hidden="true"></i> +7 937 776 27 11</a>
+                    <a href="https://t.me/tatkadastr116" class="btn btn-outline" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram-plane" aria-hidden="true"></i> Написать в Telegram</a>
+                </div>
+            </div>
+
+        </article>
+
+        <section class="related-section">
+            <h2>Читайте также</h2>
+            <div class="related-grid">
+                <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhener-adres" class="related-card">
+                    <h3><i class="fas fa-map-marker-alt" style="color: var(--primary-light); margin-right: .4rem;" aria-hidden="true"></i> С 01.02.2026 кадастровый инженер имеет право инициировать присвоение адреса объекту</h3>
+                    <p>Разбираем ключевые изменения в&nbsp;законодательстве и&nbsp;что они значат для собственников.</p>
+                </a>
+                <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhenerhtml" class="related-card">
+                    <h3><i class="fas fa-user-tie" style="color: var(--primary-light); margin-right: .4rem;" aria-hidden="true"></i> Кто такой кадастровый инженер и как выбрать профессионала?</h3>
+                    <p>Что делает кадастровый инженер, как проверить квалификацию и на что обратить внимание.</p>
+                </a>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="footer-links">
+            <a href="https://project20740686.tilda.ws/#services">Услуги</a>
+            <a href="https://project20740686.tilda.ws/#contacts">Контакты</a>
+            <a href="https://project20740686.tilda.ws/articles">Статьи</a>
+        </div>
+        <p>© 2026 ООО «Таткадастр». ИНН 1624445860. Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде с 2013 года.</p>
+    </footer>
+
+    <script type="text/javascript">
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+       ym(106426795,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/106426795" style="position:absolute;left:-9999px;" alt=""></div></noscript>
+
+    <script>
+    (function(){
+        'use strict';
+        var menuToggle = document.getElementById('menuToggle');
+        var mobileNav = document.getElementById('mobileNav');
+        var backToTop = document.getElementById('backToTop');
+        var chatWidget = document.getElementById('chatWidget');
+        var chatToggle = document.getElementById('chatToggle');
+        var isMenuOpen = false, isChatOpen = false;
+
+        if (menuToggle) menuToggle.addEventListener('click', function(){
+            isMenuOpen = !isMenuOpen;
+            mobileNav.classList.toggle('active');
+            menuToggle.classList.toggle('active');
+            menuToggle.setAttribute('aria-expanded', isMenuOpen);
+        });
+
+        if (chatToggle) chatToggle.addEventListener('click', function(e){
+            e.stopPropagation();
+            isChatOpen = !isChatOpen;
+            chatWidget.classList.toggle('open');
+            chatToggle.setAttribute('aria-expanded', isChatOpen);
+        });
+
+        document.addEventListener('click', function(e){
+            if (isChatOpen && chatWidget && !chatWidget.contains(e.target)) {
+                isChatOpen = false;
+                chatWidget.classList.remove('open');
+                chatToggle.setAttribute('aria-expanded', 'false');
+            }
+            if (isMenuOpen && mobileNav && menuToggle && !mobileNav.contains(e.target) && !menuToggle.contains(e.target)) {
+                isMenuOpen = false;
+                mobileNav.classList.remove('active');
+                menuToggle.classList.remove('active');
+                menuToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+
+        window.addEventListener('scroll', function(){
+            if (backToTop) {
+                if (window.scrollY > 300) backToTop.classList.add('show');
+                else backToTop.classList.remove('show');
+            }
+        }, {passive: true});
+
+        if (backToTop) backToTop.addEventListener('click', function(){
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+    })();
+    </script>
+</body>
+</html>

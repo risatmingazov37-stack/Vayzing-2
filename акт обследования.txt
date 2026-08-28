@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Акт обследования для снятия с кадастрового учета в Казани | Таткадастр</title>
+    <meta name="description" content="Акт обследования для снятия объекта с кадастрового учета (ЕГРН): когда нужен, документы (в т.ч. уведомление о завершении сноса после 04.08.2018), порядок подачи в Росреестр, сроки и цена от 4 000 ₽. Звоните: +7 937 776 27 11.">
+    <meta name="keywords" content="акт обследования казань, акт обследования снять с кадастрового учета, акт обследования росреестр, снять объект с кадастрового учета, прекращение существования объекта, уведомление о завершении сноса, акт обследования цена, кадастровый инженер акт обследования казань">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="ООО Таткадастр">
+    <meta name="geo.region" content="RU-TA">
+    <meta name="geo.placename" content="Казань">
+    <link rel="canonical" href="https://project20740686.tilda.ws/article-akt-obsledovaniya">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://project20740686.tilda.ws/article-akt-obsledovaniya">
+    <meta property="og:title" content="Акт обследования для снятия с кадастрового учета в Казани">
+    <meta property="og:description" content="Акт обследования для снятия объекта с кадастрового учета: порядок, документы, сроки и цена от 4 000 ₽.">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Таткадастр">
+    <meta name="theme-color" content="#1e3a8a">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='50' y='68' font-size='50' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>ТК</text></svg>">
+
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Article","headline":"Акт обследования для снятия объекта с кадастрового учета: порядок, документы, цена","description":"Акт обследования для снятия объекта с кадастрового учета (ЕГРН): когда нужен, какие документы подготовить (в т.ч. уведомление о завершении сноса после 04.08.2018), как подать в Росреестр и сколько стоит (от 4 000 ₽).","datePublished":"2026-08-14","dateModified":"2026-08-14","author":{"@type":"Organization","name":"ООО Таткадастр","url":"https://project20740686.tilda.ws/"},"publisher":{"@type":"Organization","name":"ООО Таткадастр"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://project20740686.tilda.ws/article-akt-obsledovaniya"}}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная","item":"https://project20740686.tilda.ws/"},{"@type":"ListItem","position":2,"name":"Статьи","item":"https://project20740686.tilda.ws/articles"},{"@type":"ListItem","position":3,"name":"Акт обследования (для снятия объекта с кадастрового учета)"}]}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Что такое акт обследования?","acceptedAnswer":{"@type":"Answer","text":"Акт обследования — документ, который подготавливает кадастровый инженер по результатам осмотра места нахождения объекта и с учетом сведений ЕГРН. Он подтверждает прекращение существования объекта недвижимости и используется для снятия объекта с кадастрового учета."}},{"@type":"Question","name":"Когда нужен акт обследования для снятия с учета?","acceptedAnswer":{"@type":"Answer","text":"Когда объект недвижимости прекратил существование (снесен, уничтожен, погиб) и нужно убрать его из ЕГРН. Если объект существует, но изменились характеристики (площадь, контур, этажность), обычно нужен технический план для учета изменений."}},{"@type":"Question","name":"Нужно ли уведомление о завершении сноса?","acceptedAnswer":{"@type":"Answer","text":"Если снос выполнен после 04.08.2018, в акте обследования, как правило, указывают сведения об уведомлении о завершении сноса, направленном в орган местного самоуправления. Без этого документа часто возникают приостановки."}},{"@type":"Question","name":"В каком виде готовится акт обследования?","acceptedAnswer":{"@type":"Answer","text":"По общему правилу акт обследования подготавливается в форме электронного документа и подписывается усиленной квалифицированной электронной подписью кадастрового инженера. Приложения прикладываются в виде электронных образов (обычно PDF)."}},{"@type":"Question","name":"Сколько стоит акт обследования?","acceptedAnswer":{"@type":"Answer","text":"Стоимость подготовки акта обследования зависит от объекта и документов. Ориентир по услуге — от 4 000 ₽."}}]}
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <style>
+        :root{--primary:#1e3a8a;--primary-light:#3b82f6;--accent:#f59e0b;--accent-light:#fbbf24;--dark:#111827;--gray:#f9fafb;--white:#fff;--text-primary:#111827;--text-secondary:#6b7280;--shadow:0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -1px rgba(0,0,0,.06);--shadow-lg:0 20px 25px -5px rgba(0,0,0,.1),0 10px 10px -5px rgba(0,0,0,.04);--gradient-primary:linear-gradient(135deg,var(--primary),var(--primary-light));--gradient-accent:linear-gradient(135deg,var(--accent),var(--accent-light));--gradient-dark:linear-gradient(135deg,var(--dark),var(--primary))}
+        *{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.6;color:var(--text-primary);overflow-x:hidden;-webkit-font-smoothing:antialiased}
+        header{position:fixed;top:0;width:100%;background:rgba(255,255,255,.95);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);z-index:1000;box-shadow:var(--shadow)}
+        nav{max-width:1200px;margin:0 auto;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center}
+        .logo{font-family:'Montserrat',sans-serif;font-size:1.8rem;font-weight:800;color:var(--primary);text-decoration:none}
+        .nav-links{display:flex;list-style:none;gap:2rem}.nav-links a{color:var(--text-secondary);text-decoration:none;font-weight:500;font-size:.95rem;transition:color .3s}.nav-links a:hover,.nav-links a.active{color:var(--primary)}
+        .cta-button{background:var(--gradient-primary);color:var(--white)!important;padding:.8rem 1.8rem;border-radius:50px;text-decoration:none;font-weight:600;font-size:.9rem;box-shadow:var(--shadow);transition:all .3s;display:flex;align-items:center;gap:.5rem;white-space:nowrap}.cta-button:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+        .menu-toggle{display:none;flex-direction:column;cursor:pointer;gap:5px;padding:5px;z-index:1001;background:none;border:none}.menu-toggle span{width:25px;height:3px;background:var(--primary);transition:all .3s;display:block}.menu-toggle.active span:nth-child(1){transform:rotate(45deg) translate(5px,6px)}.menu-toggle.active span:nth-child(2){opacity:0}.menu-toggle.active span:nth-child(3){transform:rotate(-45deg) translate(5px,-6px)}.nav-links.mobile{display:none}
+        .article-hero{padding:8rem 2rem 3rem;background:var(--gradient-dark);color:#fff;text-align:center;position:relative}.article-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 30% 70%,rgba(255,255,255,.1) 0%,transparent 50%);pointer-events:none}.article-hero-content{position:relative;z-index:2;max-width:900px;margin:0 auto}
+        .article-hero-badge{display:inline-block;background:var(--gradient-accent);color:#fff;padding:.4rem 1.2rem;border-radius:50px;font-size:.85rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:1.5rem}
+        .article-hero h1{font-family:'Montserrat',sans-serif;font-size:clamp(1.8rem,4.5vw,2.8rem);font-weight:800;margin-bottom:1rem;line-height:1.3}
+        .article-hero-meta{display:flex;justify-content:center;gap:2rem;font-size:1rem;opacity:.85;flex-wrap:wrap}.article-hero-meta i{margin-right:.4rem}
+        .breadcrumbs{max-width:900px;margin:0 auto;padding:1.5rem 2rem 0;font-size:.95rem}.breadcrumbs a{color:var(--primary);text-decoration:none}.breadcrumbs a:hover{color:var(--primary-light)}.breadcrumbs span{color:var(--text-secondary);margin:0 .5rem}
+        .article-content{max-width:900px;margin:0 auto;padding:2rem 2rem 4rem}
+        .article-content h2{font-family:'Montserrat',sans-serif;font-size:clamp(1.4rem,3.5vw,1.9rem);color:var(--primary);margin:2.5rem 0 1rem;padding-bottom:.5rem;border-bottom:3px solid var(--accent);font-weight:700;line-height:1.3}
+        .article-content h3{font-family:'Montserrat',sans-serif;font-size:clamp(1.15rem,3vw,1.4rem);color:var(--dark);margin:2rem 0 .75rem;font-weight:700;line-height:1.4}
+        .article-content p{margin-bottom:1.2rem;line-height:1.9;color:var(--text-primary);font-size:1.05rem}
+        .article-content ul,.article-content ol{margin:1rem 0 1.5rem 1.5rem;line-height:1.9;font-size:1.05rem}.article-content li{margin-bottom:.6rem}.article-content li::marker{color:var(--primary)}.article-content strong{color:var(--dark)}
+        .article-content a.internal-link{color:var(--primary);font-weight:500;text-decoration:none;border-bottom:1px solid var(--primary-light);transition:all .3s}.article-content a.internal-link:hover{color:var(--primary-light);border-bottom-color:var(--accent)}
+        .info-box{background:linear-gradient(135deg,#eff6ff,#dbeafe);border-left:5px solid var(--primary-light);padding:1.5rem 2rem;border-radius:0 16px 16px 0;margin:2rem 0;font-size:1.02rem;line-height:1.8}.info-box.warning{background:linear-gradient(135deg,#fef3c7,#fde68a);border-left-color:var(--accent)}.info-box.success{background:linear-gradient(135deg,#d1fae5,#a7f3d0);border-left-color:#10b981}.info-box.danger{background:linear-gradient(135deg,#fee2e2,#fecaca);border-left-color:#ef4444}.info-box-title{font-weight:700;margin-bottom:.5rem;display:flex;align-items:center;gap:.5rem;font-size:1.1rem}
+        .steps-list{counter-reset:step;list-style:none;padding-left:0;margin:1.5rem 0}.steps-list li{counter-increment:step;position:relative;padding:1.5rem 1.5rem 1.5rem 5rem;margin-bottom:1rem;background:var(--gray);border-radius:16px;border:1px solid #e5e7eb;font-size:1.02rem;line-height:1.8}.steps-list li::before{content:counter(step);position:absolute;left:1.5rem;top:1.4rem;width:2.5rem;height:2.5rem;border-radius:50%;background:var(--gradient-primary);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.1rem}.steps-list li strong{display:block;margin-bottom:.3rem;color:var(--primary);font-size:1.08rem}
+        .article-table-wrapper{overflow-x:auto;margin:1.5rem 0 2rem;border-radius:16px;box-shadow:var(--shadow)}.article-table{width:100%;border-collapse:collapse;font-size:1rem;min-width:540px}.article-table thead{background:var(--gradient-primary)}.article-table th{color:#fff;padding:1rem 1.2rem;text-align:left;font-weight:600;font-size:.95rem}.article-table td{padding:1rem 1.2rem;border-bottom:1px solid #e5e7eb;vertical-align:top;line-height:1.7}.article-table tbody tr:nth-child(even){background:#f9fafb}.article-table tbody tr:hover{background:#eff6ff}
+        .faq-item{background:#fff;border:1px solid #e5e7eb;border-radius:16px;margin-bottom:1rem;overflow:hidden;box-shadow:var(--shadow)}.faq-question{width:100%;padding:1.3rem 1.5rem;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:1.05rem;font-weight:600;color:var(--primary);text-align:left;gap:1rem;font-family:'Inter',sans-serif;transition:background .3s}.faq-question:hover{background:#f9fafb}.faq-question i{transition:transform .3s;flex-shrink:0;font-size:.9rem}.faq-question.active i{transform:rotate(180deg)}.faq-answer{max-height:0;overflow:hidden;transition:max-height .4s ease,padding .4s ease;padding:0 1.5rem;line-height:1.8;color:var(--text-secondary);font-size:1rem}.faq-answer.active{max-height:800px;padding:0 1.5rem 1.5rem}.faq-answer p{margin-bottom:.8rem;color:var(--text-secondary);font-size:1rem}.faq-answer ul{margin:.5rem 0 1rem 1.5rem}.faq-answer li{margin-bottom:.4rem;color:var(--text-secondary)}
+        .cta-block{background:var(--gradient-dark);padding:3rem;border-radius:24px;text-align:center;margin:3rem 0;position:relative;overflow:hidden}.cta-block::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 80% 20%,rgba(245,158,11,.2) 0%,transparent 50%);pointer-events:none}
+        .article-content .cta-block h3{color:#ffffff;font-family:'Montserrat',sans-serif;font-size:1.9rem;font-weight:800;margin:0 0 1rem;padding-bottom:0;border-bottom:none;position:relative;z-index:2;line-height:1.3}
+        .article-content .cta-block p{color:rgba(255,255,255,.93);font-size:1.1rem;margin-bottom:2rem;max-width:680px;margin-left:auto;margin-right:auto;position:relative;z-index:2;line-height:1.7}
+        .cta-block-buttons{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;position:relative;z-index:2}
+        .cta-block-btn{display:inline-flex;align-items:center;gap:.5rem;padding:1rem 2rem;border-radius:50px;text-decoration:none;font-weight:700;font-size:1.05rem;transition:all .3s;box-shadow:var(--shadow)}
+        .cta-block-btn:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg)}
+        .article-content .cta-block .cta-block-btn.primary,.article-content .cta-block .cta-block-btn.primary:visited,.article-content .cta-block .cta-block-btn.primary:hover{background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.4);color:#ffffff}
+        .article-content .cta-block .cta-block-btn.primary:hover{background:rgba(255,255,255,.22)}
+        .article-content .cta-block .cta-block-btn.secondary,.article-content .cta-block .cta-block-btn.secondary:visited,.article-content .cta-block .cta-block-btn.secondary:hover{background:var(--gradient-accent);color:#ffffff;border:none}
+        .article-nav{display:flex;gap:1rem;margin-top:3rem;flex-wrap:wrap}
+        .article-nav a{flex:1;min-width:240px;background:var(--gray);border:1px solid #e5e7eb;border-radius:16px;padding:1.3rem 1.5rem;text-decoration:none;color:var(--text-primary);transition:all .3s}
+        .article-nav a:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+        .article-nav .label{display:block;color:var(--text-secondary);font-size:.9rem;margin-bottom:.3rem}
+        .article-nav .title{display:block;font-weight:700;color:var(--primary);line-height:1.4}
+        .back-to-top{position:fixed;bottom:30px;right:30px;background:var(--gradient-primary);color:#fff;border:none;border-radius:50%;width:60px;height:60px;font-size:1.5rem;cursor:pointer;box-shadow:var(--shadow-lg);opacity:0;visibility:hidden;transform:translateY(20px);transition:all .3s;z-index:999}
+        .back-to-top.show{opacity:1;visibility:visible;transform:translateY(0)}
+        .back-to-top:hover{transform:translateY(-5px) scale(1.05)}
+        .chat-widget{position:fixed;bottom:100px;right:30px;z-index:997;display:flex;flex-direction:column;align-items:flex-end;gap:12px}
+        .chat-options{display:flex;flex-direction:column;gap:10px;align-items:flex-end;opacity:0;visibility:hidden;transform:translateY(20px) scale(.8);transition:all .3s cubic-bezier(.68,-.55,.265,1.55);pointer-events:none}
+        .chat-widget.open .chat-options{opacity:1;visibility:visible;transform:translateY(0) scale(1);pointer-events:auto}
+        .chat-option{display:flex;align-items:center;gap:.7rem;background:#10b981;color:#fff;padding:.9rem 1.2rem;border-radius:50px;text-decoration:none;font-weight:600;font-size:.95rem;box-shadow:var(--shadow);transition:all .3s;white-space:nowrap}
+        .chat-option:hover{transform:translateX(-5px) scale(1.05)}
+        .chat-option.max{background:#7c3aed}
+        .chat-option.phone{background:#10b981}
+        .chat-toggle{width:60px;height:60px;border-radius:50%;border:none;background:var(--gradient-primary);color:#fff;font-size:1.5rem;cursor:pointer;box-shadow:var(--shadow-lg);transition:all .4s;display:flex;align-items:center;justify-content:center;position:relative}
+        .chat-toggle:hover{transform:scale(1.1)}
+        .chat-widget.open .chat-toggle{background:#ef4444;transform:rotate(45deg)}
+        .chat-badge{position:absolute;top:-2px;right:-2px;width:16px;height:16px;background:#ef4444;border-radius:50%;border:2px solid #fff;animation:pulse 2s infinite}
+        .chat-widget.open .chat-badge{display:none}
+        @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+        footer{background:var(--dark);color:#9ca3af;text-align:center;padding:3rem 2rem;font-size:.95rem}.footer-links{margin-bottom:1.5rem;display:flex;justify-content:center;flex-wrap:wrap;gap:1rem}.footer-links a{color:#9ca3af;text-decoration:none;transition:color .3s}.footer-links a:hover{color:var(--accent-light)}footer p{line-height:1.7}
+        @media(max-width:768px){.nav-links:not(.mobile){display:none}.nav-links.mobile{display:none;position:fixed;top:80px;left:0;width:100%;background:rgba(255,255,255,.98);flex-direction:column;padding:2rem;box-shadow:var(--shadow);list-style:none;gap:1rem}.nav-links.mobile.active{display:flex}.menu-toggle{display:flex}nav{padding:1rem}.cta-button span{display:none}.cta-button{padding:.7rem 1rem}.article-hero{padding:7rem 1rem 2.5rem}.article-hero-meta{gap:1rem;font-size:.9rem}.article-content{padding:1.5rem 1rem 3rem}.article-content h2{font-size:1.3rem}.steps-list li{padding-left:4.5rem}.cta-block{padding:2rem 1.5rem}.article-content .cta-block h3{font-size:1.4rem}.article-nav{flex-direction:column}.back-to-top{bottom:20px;right:20px;width:50px;height:50px;font-size:1.2rem}.chat-widget{bottom:80px;right:20px}.chat-toggle{width:50px;height:50px;font-size:1.2rem}.footer-links{flex-direction:column;gap:.75rem}.info-box{padding:1.2rem 1.5rem}}
+        @media(max-width:480px){.article-content p,.article-content li{font-size:.98rem}.steps-list li{padding:1.2rem 1.2rem 1.2rem 4rem}.steps-list li::before{left:1rem;width:2.2rem;height:2.2rem;font-size:1rem}}
+        @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}html{scroll-behavior:auto}}
+        @media print{header,.back-to-top,.chat-widget,footer,.cta-block{display:none!important}.article-hero{background:#fff!important;color:#000!important;padding-top:2rem}.article-content{max-width:100%}}
+    </style>
+</head>
+<body>
+
+<header>
+    <nav>
+        <a href="https://project20740686.tilda.ws/" class="logo">Таткадастр</a>
+        <ul class="nav-links">
+            <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+            <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+            <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+            <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+            <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+        </ul>
+        <ul class="nav-links mobile" id="mobileNav">
+            <li><a href="https://project20740686.tilda.ws/#services">Услуги</a></li>
+            <li><a href="https://project20740686.tilda.ws/#benefits">Преимущества</a></li>
+            <li><a href="https://project20740686.tilda.ws/#stages">Этапы</a></li>
+            <li><a href="https://project20740686.tilda.ws/#contacts">Контакты</a></li>
+            <li><a href="https://project20740686.tilda.ws/articles" class="active">Статьи</a></li>
+        </ul>
+        <button class="menu-toggle" id="menuToggle" aria-label="Открыть меню" aria-expanded="false"><span></span><span></span><span></span></button>
+        <a href="tel:+79377762711" class="cta-button" aria-label="Позвонить"><i class="fas fa-phone" aria-hidden="true"></i><span>+7 937 776 27 11</span></a>
+    </nav>
+</header>
+
+<button class="back-to-top" id="backToTop" aria-label="Наверх"><i class="fas fa-arrow-up" aria-hidden="true"></i></button>
+
+<div class="chat-widget" id="chatWidget">
+    <div class="chat-options">
+        <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="chat-option max" target="_blank" rel="noopener noreferrer"><i class="fas fa-comment-dots" aria-hidden="true"></i> Написать в Max</a>
+        <a href="tel:+79377762711" class="chat-option phone"><i class="fas fa-phone" aria-hidden="true"></i> Позвонить</a>
+    </div>
+    <button class="chat-toggle" id="chatToggle" aria-label="Открыть чат" aria-expanded="false"><i class="fas fa-comments" aria-hidden="true"></i><span class="chat-badge" aria-hidden="true"></span></button>
+</div>
+
+<main id="main-content">
+    <div class="article-hero">
+        <div class="article-hero-content">
+            <span class="article-hero-badge"><i class="fas fa-clipboard-check" aria-hidden="true"></i> новая</span>
+            <h1>Акт обследования для снятия объекта с кадастрового учета: порядок, документы, цена</h1>
+            <div class="article-hero-meta">
+                <span><i class="fas fa-calendar-alt" aria-hidden="true"></i> 14 августа 2026</span>
+                <span><i class="fas fa-clock" aria-hidden="true"></i> 14 мин чтения</span>
+                <span><i class="fas fa-user" aria-hidden="true"></i> Таткадастр</span>
+            </div>
+        </div>
+    </div>
+    <nav class="breadcrumbs" aria-label="Навигационная цепочка">
+        <a href="https://project20740686.tilda.ws/">Главная</a><span>›</span>
+        <a href="https://project20740686.tilda.ws/articles">Статьи</a><span>›</span>
+        <strong>Акт обследования (снятие с учета)</strong>
+    </nav>
+
+    <article class="article-content">
+        <p>Если здание, сооружение, помещение, машино-место или объект незавершенного строительства <strong>уже перестал существовать</strong> (например, снесён или уничтожен), но продолжает числиться в ЕГРН, это часто приводит к проблемам: мешает сделкам, вызывает вопросы у покупателей и банков, а иногда и приводит к ситуациям, когда <strong>данные в реестре не совпадают с фактом</strong>.</p>
+
+        <div class="info-box success">
+            <div class="info-box-title"><i class="fas fa-check-circle" aria-hidden="true"></i> Главное коротко</div>
+            <p style="margin-bottom:0"><strong>Акт обследования</strong> — документ кадастрового инженера, который подтверждает <strong>прекращение существования</strong> объекта недвижимости. Он нужен, чтобы <strong>снять объект с кадастрового учета</strong> (обновить сведения ЕГРН). При сносе после <strong>04.08.2018</strong> важно иметь документы по уведомительному порядку сноса — в том числе <strong>уведомление о завершении сноса</strong>. Стоимость подготовки акта обследования — <strong>от 4 000 ₽</strong>.</p>
+        </div>
+
+        <h2>Содержание статьи</h2>
+        <ol>
+            <li><a href="#what" style="color:var(--primary);text-decoration:none;font-weight:500">Что такое акт обследования</a></li>
+            <li><a href="#when" style="color:var(--primary);text-decoration:none;font-weight:500">Когда он нужен</a></li>
+            <li><a href="#docs" style="color:var(--primary);text-decoration:none;font-weight:500">Какие документы подготовить (и почему важна дата 04.08.2018)</a></li>
+            <li><a href="#steps" style="color:var(--primary);text-decoration:none;font-weight:500">Пошаговый порядок оформления</a></li>
+            <li><a href="#electronic" style="color:var(--primary);text-decoration:none;font-weight:500">Электронный формат и подпись (УКЭП)</a></li>
+            <li><a href="#price" style="color:var(--primary);text-decoration:none;font-weight:500">Сроки и стоимость</a></li>
+            <li><a href="#mistakes" style="color:var(--primary);text-decoration:none;font-weight:500">Частые ошибки и причины приостановки</a></li>
+            <li><a href="#faq" style="color:var(--primary);text-decoration:none;font-weight:500">Часто задаваемые вопросы</a></li>
+        </ol>
+
+        <h2 id="what">1. Что такое акт обследования</h2>
+        <p><strong>Акт обследования</strong> — это документ, который подготавливает <a href="https://project20740686.tilda.ws/article-kadastrovyj-inzhenerhtml" class="internal-link">кадастровый инженер</a> после осмотра места нахождения объекта и анализа сведений ЕГРН. Смысл акта — подтвердить, что объект недвижимости <strong>прекратил существование</strong>.</p>
+        <p>Важно понимать: акт обследования подходит именно для случаев «объекта больше нет». Если объект есть, но изменились характеристики (площадь, контур, этажность) — чаще требуется <strong>технический план</strong> для учета изменений. Если вам нужно разобраться в документах, смотрите статью: <a href="https://project20740686.tilda.ws/article-techpassport-vs-techplan" class="internal-link">чем отличается техпаспорт БТИ от техплана</a>.</p>
+
+        <div class="info-box warning">
+            <div class="info-box-title"><i class="fas fa-exclamation-triangle" aria-hidden="true"></i> Важно</div>
+            <p style="margin-bottom:0">Акт обследования — это не «подтверждение перепланировки» и не «исправление площади». Он подтверждает <strong>прекращение существования</strong> объекта недвижимости.</p>
+        </div>
+
+        <h2 id="when">2. Когда нужен акт обследования</h2>
+        <p>Акт обследования обычно нужен, когда требуется снять объект недвижимости с кадастрового учета, потому что он:</p>
+        <ul>
+            <li><strong>снесён</strong> (демонтирован);</li>
+            <li><strong>уничтожен</strong> или погиб (например, пожар, обрушение, ЧС);</li>
+            <li>прекратило существование <strong>помещение</strong> или <strong>машино-место</strong> из‑за гибели/уничтожения здания (или его части), в пределах которого оно было расположено.</li>
+        </ul>
+
+        <h2 id="docs">3. Какие документы подготовить (и почему важна дата 04.08.2018)</h2>
+        <p>Набор документов зависит от причины прекращения существования объекта: снос, пожар, уничтожение, судебное решение и т. п. Кадастровый инженер отражает документы в разделе «Перечень документов, использованных при подготовке акта обследования».</p>
+
+        <h3>3.1. Если объект снесен после 04.08.2018</h3>
+        <p>Если объект прекратил существование из‑за <strong>сноса после 04.08.2018</strong>, для подготовки акта обследования обычно требуется документ из уведомительного порядка сноса — <strong>уведомление о завершении сноса</strong>, направленное в орган местного самоуправления.</p>
+
+        <div class="info-box success">
+            <div class="info-box-title"><i class="fas fa-info-circle" aria-hidden="true"></i> Практический совет</div>
+            <p style="margin-bottom:0">Уведомление о завершении сноса по общему правилу подают <strong>не позднее 7 рабочих дней</strong> после завершения работ. Если документов нет — часто возникает приостановка, потому что Росреестр ожидает подтверждение факта сноса по установленным правилам.</p>
+        </div>
+
+        <h3>3.2. Если объект уничтожен (пожар, обрушение и т. п.)</h3>
+        <p>Если объект прекратил существование не из‑за «планового» сноса, а из‑за уничтожения, могут потребоваться документы, подтверждающие факт гибели/уничтожения (в зависимости от ситуации): справки/акты уполномоченных органов, судебные акты, документы местной администрации и т. д.</p>
+
+        <h3>3.3. Что чаще всего нужно кадастровому инженеру для работы</h3>
+        <ul>
+            <li>кадастровый номер объекта (или выписка ЕГРН, если есть);</li>
+            <li>документы, подтверждающие прекращение существования (по вашей ситуации);</li>
+            <li>доступ к месту расположения объекта (для осмотра);</li>
+            <li>при необходимости — доверенность, если действует представитель.</li>
+        </ul>
+
+        <h3>3.4. Нормативная база (без «воды»)</h3>
+        <ul>
+            <li><strong>218‑ФЗ</strong> (о государственной регистрации недвижимости): определяет, что такое акт обследования и что он подготавливается как электронный документ, подписанный УКЭП кадастрового инженера.</li>
+            <li><strong>Приказ Росреестра № П/0217</strong>: устанавливает форму и требования к подготовке акта обследования (в том числе порядок отражения документов, связанных со сносом).</li>
+            <li><strong>ГрК РФ, ст. 55.31</strong>: регулирует уведомительный порядок сноса (в т. ч. уведомление о завершении сноса в срок после завершения работ).</li>
+            <li><strong>Приказ Минстроя № 34/пр</strong>: утверждает формы уведомлений о планируемом сносе и о завершении сноса.</li>
+            <li><strong>Приказ Росреестра № П/0346</strong>: размещение XML‑схемы, используемой для формирования акта обследования в электронном виде.</li>
+        </ul>
+
+        <h2 id="steps">4. Пошаговый порядок оформления</h2>
+        <ol class="steps-list">
+            <li><strong>Проверьте фактическое состояние объекта</strong>Важно убедиться, что объект действительно прекратил существование. Если он существует (даже частично) и подлежит «изменению характеристик», может потребоваться не акт обследования, а техплан.</li>
+            <li><strong>Соберите документы по основанию прекращения существования</strong>При сносе после 04.08.2018 — подготовьте документы по уведомительному порядку (в т. ч. уведомление о завершении сноса).</li>
+            <li><strong>Закажите акт обследования у кадастрового инженера</strong>Инженер выезжает на место, выполняет осмотр, анализирует сведения ЕГРН и готовит акт обследования по утвержденной форме.</li>
+            <li><strong>Получите акт обследования в электронном виде</strong>По общему правилу акт подготавливается как электронный документ и подписывается УКЭП кадастрового инженера.</li>
+            <li><strong>Подайте документы на снятие с учета</strong>Подача выполняется в установленном порядке (часто через МФЦ или электронно) для внесения изменений в ЕГРН и снятия объекта с кадастрового учета.</li>
+            <li><strong>Проверьте результат в ЕГРН</strong>После завершения процедуры убедитесь, что объект снят с учета, а сведения актуальны.</li>
+        </ol>
+
+        <h2 id="electronic">5. Электронный формат и подпись (УКЭП)</h2>
+        <p>Акт обследования по общему правилу подготавливается <strong>в форме электронного документа</strong> и подписывается <strong>усиленной квалифицированной электронной подписью (УКЭП)</strong> кадастрового инженера.</p>
+        <p>Если к акту обследования нужно приложить документы на бумаге, их, как правило, включают в «Приложение» в виде <strong>электронных образов</strong> (обычно PDF), также подписанных УКЭП кадастрового инженера.</p>
+
+        <div class="info-box warning">
+            <div class="info-box-title"><i class="fas fa-shield-alt" aria-hidden="true"></i> Почему это важно для результата</div>
+            <p style="margin-bottom:0">Одна из частых причин «затягивания» — когда у заказчика нет понятного электронного комплекта: документ есть «на руках», но его нельзя корректно включить/указать в акте, либо он не соответствует формальным требованиям к приложению. Поэтому комплект лучше собирать до подготовки акта.</p>
+        </div>
+
+        <h2 id="price">6. Сроки и стоимость</h2>
+        <div class="article-table-wrapper">
+            <table class="article-table">
+                <thead><tr><th>Этап</th><th>Срок / стоимость</th></tr></thead>
+                <tbody>
+                    <tr><td><strong>Подготовка акта обследования</strong></td><td><strong>от 4 000 ₽</strong> (зависит от объекта и документов)</td></tr>
+                    <tr><td><strong>Подача в Росреестр (МФЦ / электронно)</strong></td><td>по установленным срокам учетных действий</td></tr>
+                    <tr><td><strong>Итог</strong></td><td>снятие объекта с учета и актуальные сведения в ЕГРН</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2 id="mistakes">7. Частые ошибки и причины приостановки</h2>
+        <ul>
+            <li><strong>Объект фактически существует</strong> (сохранились капитальные конструкции) — нужен другой вид кадастровых работ.</li>
+            <li><strong>Нет документов</strong>, подтверждающих прекращение существования (или они не подходят под вашу ситуацию).</li>
+            <li><strong>Снос после 04.08.2018</strong>, но отсутствуют документы уведомительного порядка (в т. ч. уведомление о завершении сноса).</li>
+            <li><strong>Ошибки в идентификации объекта</strong>: неверный кадастровый номер, перепутаны объект/помещение/ОНС.</li>
+            <li><strong>Неполная подача</strong>: когда одновременно требуется и прекращение права, и снятие с учета (в зависимости от ситуации и того, что сейчас записано в ЕГРН).</li>
+        </ul>
+
+        <h2 id="faq">8. Часто задаваемые вопросы</h2>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Что такое акт обследования?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p><strong>Акт обследования</strong> — документ кадастрового инженера, подтверждающий прекращение существования объекта недвижимости и используемый для снятия объекта с кадастрового учета.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Можно ли снять объект с учета, если остался фундамент?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p>Зависит от ситуации. Если остатки конструкции могут означать, что объект недвижимости <strong>не прекратил существование</strong>, акт обследования может не подойти. В таких случаях часто требуется иной путь оформления.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Нужно ли уведомление о завершении сноса?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p>Если снос выполнен <strong>после 04.08.2018</strong>, для подготовки акта обследования обычно нужны сведения об уведомлении о завершении сноса, направленном в орган местного самоуправления.</p></div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">Сколько стоит акт обследования?<i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="faq-answer"><p>Ориентир по стоимости подготовки акта обследования — <strong>от 4 000 ₽</strong>. Итог зависит от объекта, документов и сложности ситуации.</p></div>
+        </div>
+
+        <div class="cta-block">
+            <h3>Нужно снять объект с кадастрового учета в Казани?</h3>
+            <p>Специалисты ООО «Таткадастр» помогут подготовить акт обследования, проверить документы (в том числе по сносу после 04.08.2018) и сопроводить подачу для актуализации сведений в ЕГРН.</p>
+            <div class="cta-block-buttons">
+                <a href="https://max.ru/u/f9LHodD0cOLks50Fx6gDLf4gPNiQ0wwB-Ag50HtSJqHQJb2tFOOv48-q4LI" class="cta-block-btn primary" target="_blank" rel="noopener noreferrer"><i class="fas fa-comment-dots" aria-hidden="true"></i> Написать в Max</a>
+                <a href="tel:+79377762711" class="cta-block-btn secondary"><i class="fas fa-phone" aria-hidden="true"></i> +7 937 776 27 11</a>
+            </div>
+        </div>
+
+        <h2>Подведём итоги</h2>
+        <ul>
+            <li>акт обследования нужен, чтобы подтвердить <strong>прекращение существования</strong> объекта;</li>
+            <li>его подготавливает <strong>кадастровый инженер</strong> по установленной форме и требованиям;</li>
+            <li>при сносе после <strong>04.08.2018</strong> критичны документы уведомительного порядка (в т. ч. уведомление о завершении сноса);</li>
+            <li>стоимость подготовки акта обследования — <strong>от 4 000 ₽</strong>;</li>
+            <li>результат — <strong>снятие объекта с кадастрового учета</strong> и корректные сведения ЕГРН.</li>
+        </ul>
+
+        <div class="article-nav">
+            <a href="https://project20740686.tilda.ws/article-techpassport-vs-techplan">
+                <span class="label">← Предыдущая статья</span>
+                <span class="title">Чем отличается технический паспорт БТИ от технического плана?</span>
+            </a>
+            <a href="https://project20740686.tilda.ws/articles" style="text-align:right">
+                <span class="label">Все статьи →</span>
+                <span class="title">Вернуться к списку публикаций</span>
+            </a>
+        </div>
+    </article>
+</main>
+
+<footer>
+    <div class="footer-links">
+        <a href="https://project20740686.tilda.ws/#services">Услуги</a>
+        <a href="https://project20740686.tilda.ws/#contacts">Контакты</a>
+        <a href="https://project20740686.tilda.ws/articles">Статьи</a>
+    </div>
+    <p>© 2026 ООО «Таткадастр». ИНН 1624445860. Техническая инвентаризация БТИ и кадастровые работы в Казани и пригороде с 2013 года.</p>
+</footer>
+
+<script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+ym(106426795,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/106426795" style="position:absolute;left:-9999px" alt=""></div></noscript>
+
+<script>
+(function(){
+    'use strict';
+    var mt=document.getElementById('menuToggle'),mn=document.getElementById('mobileNav'),bt=document.getElementById('backToTop'),cw=document.getElementById('chatWidget'),ct=document.getElementById('chatToggle'),mo=false,co=false;
+    if(mt)mt.addEventListener('click',function(){mo=!mo;mn.classList.toggle('active');mt.classList.toggle('active');mt.setAttribute('aria-expanded',mo)});
+    if(ct)ct.addEventListener('click',function(e){e.stopPropagation();co=!co;cw.classList.toggle('open');ct.setAttribute('aria-expanded',co)});
+    document.addEventListener('click',function(e){if(co&&cw&&!cw.contains(e.target)){co=false;cw.classList.remove('open');ct.setAttribute('aria-expanded','false')}if(mo&&mn&&mt&&!mn.contains(e.target)&&!mt.contains(e.target)){mo=false;mn.classList.remove('active');mt.classList.remove('active');mt.setAttribute('aria-expanded','false')}});
+    window.addEventListener('scroll',function(){if(bt){if(window.scrollY>300)bt.classList.add('show');else bt.classList.remove('show')}},{passive:true});
+    if(bt)bt.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'})});
+    document.querySelectorAll('.faq-question').forEach(function(b){b.addEventListener('click',function(){var a=this.nextElementSibling,s=this.classList.contains('active');document.querySelectorAll('.faq-question').forEach(function(q){q.classList.remove('active');q.setAttribute('aria-expanded','false');q.nextElementSibling.classList.remove('active')});if(!s){this.classList.add('active');this.setAttribute('aria-expanded','true');a.classList.add('active')}})});
+})();
+</script>
+</body>
+</html>
